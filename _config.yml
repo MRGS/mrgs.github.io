@@ -8,6 +8,10 @@ author:
   name: MRGS/SLMR
   email: bakedgoods@mrgs.ca
 
+prose:
+  siteurl: "http://mrgs.github.io"
+  media: "media"
+
 baseurl: ''
 
 # Grunt handles images and assets.
