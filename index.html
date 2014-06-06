@@ -1,0 +1,24 @@
+---
+title: MRGS/SLMR
+---
+{% include header %}
+    <body>
+      <div class="container">
+        {% for post in site.posts %}
+          <div class="row">
+            <div class="col-xs-12">
+              <a href="{{ post.url }}">{{ post.title }}</a>              
+            </div>
+          </div>
+        {% endfor %}
+        <div class="row footer">
+          <div class="col-xs-12 text-center">
+           
+          </div>
+        </div>
+      </div>
+      {% include scripts %}
+      <script src="{{ site.baseurl }}/js/index.js"></script>
+    </body>
+{% include footer %}
+

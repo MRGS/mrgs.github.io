@@ -1,0 +1,3 @@
+<script src="{{ site.baseurl }}/vendor/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/vendor/bootstrap.min.js"></script>
+<script>window.baseurl = "{{ site.baseurl }}"</script>

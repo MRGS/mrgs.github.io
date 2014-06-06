@@ -1,0 +1,27 @@
+# Jekyll configuration precedence:
+# 1. Gruntfile task
+# 3. config.yml
+
+name: MRGS/SLMR
+description: Mount Royal Game Society / Société ludique du Mont-Royal
+author:
+  name: MRGS/SLMR
+  email: bakedgoods@mrgs.ca
+
+baseurl: ''
+
+# Grunt handles images and assets.
+exclude: ['_bower_components', 'node_modules', '.git', 'dist',
+	'Gemfile*', 'bower.json', 'package.json', '*.sublime*', 'Gruntfile.*']
+
+include: ['.htaccess']
+
+permalink: pretty
+future: false
+show_drafts: false
+
+# Markdown library
+markdown: redcarpet
+#   extensions: ['fenced_code_blocks', 'smart']
+
+pygments: false

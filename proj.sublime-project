@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"file_exclude_patterns": [
+				"Gemfile*",
+				"*.sublime-project",
+				".*"
+			],
+			"folder_exclude_patterns": ["dist", "node_modules", "_bower_components"]
+		},
+		{
+			"path": "dist",
+			"file_exclude_patterns": ["*.git*"]
+		},
+		{
+			"path": "_bower_components",
+			"file_exclude_patterns": ["*.git*"]
+		},
+	]
+}
