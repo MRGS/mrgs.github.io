@@ -9,7 +9,7 @@ author:
   email: bakedgoods@mrgs.ca
 
 prose:
-  siteurl: "http://mrgs.github.io"
+  siteurl: "http://mrgs.github.io/"
   media: "media"
 
 defaults:
@@ -27,10 +27,9 @@ oldwpdir: 'old-wordpress-files'
 
 paginate: 5
 
-# Grunt handles images and assets.
 exclude: ['_bower_components', 'node_modules', '.git',
 	'Gemfile*', 'bower.json', 'package.json', '*.sublime*',
-  'Gruntfile.*', 'gulpfile.*', 'README.*']
+  'gulpfile.*', 'README.*']
 
 include: ['.htaccess']
 

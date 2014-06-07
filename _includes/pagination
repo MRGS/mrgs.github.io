@@ -1,0 +1,24 @@
+<div class="pagination">
+  {% if paginator.previous_page == 1 %}
+    <a href="{{ site.baseurl }}/" class="pagination-prev">&lt;</a>
+  {% elsif paginator.previous_page %}
+    <a href="{{ site.baseurl }}/page{{ paginator.previous_page }}" class="pagination-prev">&lt;</a>
+  {% else %}
+    <span class="pagination-prev">&lt;</span>
+  {% endif %}
+  {% capture start %}{{ paginator.page | minus: 2 }}{% endcapture %}
+  {% for pg in (1..paginator.total_pages) limit: 5 offset: start %}
+    {% if paginator.page == pg %}
+      <span class="pagination-number-current">{{ pg }}</span>
+    {% elsif pg == 1 %}
+      <a href="{{ site.baseurl }}/" class="pagination-number">1</a>
+    {% else %}
+      <a href="{{ site.baseurl }}/page{{ pg }}" class="pagination-number">{{ pg }}</a>
+    {% endif %}
+  {% endfor %}
+  {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}/page{{ paginator.next_page }}" class="pagination-next">&gt;</a>
+  {% else %}
+    <span class="pagination-next">&gt;</span>
+  {% endif %}
+</div>

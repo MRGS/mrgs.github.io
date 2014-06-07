@@ -16,11 +16,6 @@ jekyll = require 'gulp-jekyll'
 debug = require 'gulp-debug'
 
 exec = require('child_process').exec
-handlestdout = (err, stdout, stderr) ->
-  console.log stdout
-  console.log stderr
-  if err?
-    console.log 'exec error: ' + err
 
 
 tmp = './__tmp'
@@ -56,21 +51,26 @@ gulp.task 'watch', ->
     .pipe gulp.dest tmp + '/js'
     .pipe connect.reload()
 
-gulp.task 'build', ->
-  exec 'jekyll build --destination ' + build, handlestdout
+gulp.task 'build', ['build-js', 'build-css'], ->
+  exec 'jekyll build --destination ' + build, (err, stdout, stderr) ->
+    console.log stdout
+    console.log stderr
+    if err?
+      console.log 'exec error: ' + err
 
-  gulp.src ['./_less/*.less']
-    .pipe debug { verbose: true }
-    .pipe less()
-    .pipe debug { verbose: true }
-    # .pipe prefix()
-    # .pipe mincss()
-    .pipe gulp.dest build + '/css'
-
+gulp.task 'build-js', ->
   gulp.src ['./_src/**/*.coffee']
     .pipe coffee()
-    # .pipe uglify()
-    .pipe gulp.dest build + '/js'
+    .pipe uglify()
+    .pipe gulp.dest './js'
+
+gulp.task 'build-css', ->
+  gulp.src ['./_less/*.less']
+    .pipe less()
+    .pipe prefix()
+    .pipe mincss()
+    .pipe gulp.dest './css'
+
 
 gulp.task 'serve-build', ['build', 'connectBuild']
 gulp.task 'serve', ['connect', 'watch']
