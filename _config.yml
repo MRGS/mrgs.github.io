@@ -20,6 +20,8 @@ defaults:
     values:
       layout: "post"
 
+excerpt_separator: <hr />
+
 baseurl: ''
 oldwpdir: 'old-wordpress-files'
 

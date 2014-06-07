@@ -12,14 +12,21 @@ title: MRGS/SLMR
           </div>
           <div class="row">
             <div class="col-xs-12">
-              <span class="date">{{ post.date }}</span>
+              <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
             </div>
           </div>
           <div class="row">
             <div class="col-xs-12">
-              {{ post.content }}
+              {{ post.excerpt }}
             </div>
           </div>
+          {% if post.excerpt != post.content %}
+          <div class="row">
+            <div class="col-xs-12">
+              <a href="{{ post.url }}">See full post...</a>
+            </div>
+          </div>
+          {% endif %}
         {% endfor %}
 
         <div class="row footer">
