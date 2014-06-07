@@ -10,7 +10,7 @@ categories:
 
 It&#8217;s time to break out your culturally-appropriate holiday gear and get ready to party within reason! December is upon us, and so is another MRGS meetup: we&#8217;re heading back to our new favourite digs at the Royal Phoenix to share in some games, a few drinks, and lot of inspiration.
 Bring your laptops, your demos, and (why not) an amusing hat, and we&#8217;ll play 2012 off in style.
- &nbsp;
+ 
 *WHEN?*
  Wednesday, December 5th, 19h30
 *WHERE?*

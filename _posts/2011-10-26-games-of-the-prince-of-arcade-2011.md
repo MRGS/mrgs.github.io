@@ -17,7 +17,7 @@ tags:
 [![Prince of Arcade 2011]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-back-600px.png)][2]
 
 [Facebook event.][3]  
-&nbsp;
+
 
 #### WHAT IS THIS NEW DEVILRY?
 
@@ -25,7 +25,7 @@ A splendourous and sibilant celebration of indie games and the arcade spirit!
 
 We&#8217;re renting out an art gallery, hooking up the projectors, and basking in the glory of some of the most beautiful arcade-inspired indie games out there. Did we mention beer? The question is rhetorical; we didn&#8217;t! But the bar will indeed be available &#8212; and with a cold beverage in hand and the music moving our feet, we will play amazing games on amazing screens with amazing friends. (We have [anecdotal evidence][4] from last year&#8217;s event that this party will remain statistically amazing, within one standard deviation of happiness, 19 times out of 20.)
 
-&nbsp;
+
 
 #### WHEN AND WHERE DO WE HAVE THE JOY?
 
@@ -33,7 +33,7 @@ November 2nd, 20h00 &#8212; November 3rd, 01h00
 [Eastern Bloc][5]  
 7240 Clark (near De Castelnau [metro][6], Blue line).
 
-&nbsp;
+
 
 #### SYSTEM REQUIREMENTS
 
@@ -41,7 +41,7 @@ Tickets to the Prince of Arcade:
 ***$9*** at the door  
 ***$7** for those holding [MIGS][7] passes.*
 
-&nbsp;
+
 
 #### WE HEARD YOU LIKE VIDEO GAMES
 

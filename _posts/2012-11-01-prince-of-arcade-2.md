@@ -13,7 +13,7 @@ tags:
 
 BELOW IS THE 2012 POST
 
-&nbsp;
+
 
 ![poa-poster-web-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/poa-poster-web-600px.png)  
 MOUNT ROYAL GAME SOCIETY & EASTERN BLOC PRESENT  
@@ -102,23 +102,23 @@ Tennis like you&#8217;ve never Ponged it before!
 
 [![taglogo]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/taglogo.png)][20]
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
+
+
+
+
 
 [![hexagramlogo]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/hexagramlogo.png)][21]
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
+
+
+
+
 
 [![logo]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/logo.png)][22]
 

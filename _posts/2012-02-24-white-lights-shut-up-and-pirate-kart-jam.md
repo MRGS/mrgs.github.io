@@ -19,7 +19,7 @@ Amazing things this weekend:
 La Soci&eacute;t&eacute; des arts technologiques (the SAT, you acronymophiles) is throwing a party for [Nuit blanche][3] Saturday night. Should your nightly perambulations carry you thither, stop on in for a refreshing beverage, dance-party melodies, and a place to sit down with some wall-projected video games. Video games! You like those, right?
 
 [[Schedule][4] // [Facebook][5]]  
-&nbsp;
+
 
 #### >>> Pirate Kart Jam <<<
 

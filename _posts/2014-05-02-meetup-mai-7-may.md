@@ -10,7 +10,7 @@ categories:
 
 
 May is here and our meteorologist is 81% confident that Winter is finally behind us. Join us for drinks, games, and &#8212; hopefully &#8212; weather fit for a terrace.
- &nbsp;
+ 
 ---
 The MRGS monthly meetups bring together game enthusiasts from Montreal and beyond to chat about games, play some demos, share a few drinks, and generally keep each other inspired. Game-making experience is NOT required &#8212; newcomers are welcome, and encouraged to come say hello!
 Feel free to [email us](mailto:bakedgoods@mrgs.ca) if you have any questions, or if you&#8217;d like to demo your game!
@@ -56,6 +56,6 @@ N&#8217;hésite pas à [nous contacter](mailto:bakedgoods@mrgs.ca) pour plus d&#
 
                 
                 
- &nbsp;
- &nbsp;
- &nbsp;
+ 
+ 
+ 

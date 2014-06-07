@@ -26,7 +26,7 @@ The majority of the literate populace.
 *WHAT*  
 Mass brainstorming, not unlike that one episode of *Futurama*.
 
-&nbsp;
+
 
 &#8212;-
 

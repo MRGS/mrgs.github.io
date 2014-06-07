@@ -10,8 +10,8 @@ categories:
 
 
 That wonderful time appointed by our elders in the Codex of the Information Superhighway fast approaches: the first Wednesday of the month, and with it another Mount Royal Game Society meetup!
- &nbsp;
- &nbsp;
+ 
+ 
 ---
 The MRGS monthly meetups bring together game enthusiasts from Montreal and beyond to chat about games, play some demos, share a few drinks, and generally keep each other inspired. Game-making experience is NOT required &#8212; newcomers are welcome, and encouraged to come say hello!
 [Get in touch](mailto:bakedgoods@mrgs.ca) if you&#8217;ve got something to show, or if it&#8217;s your first time stopping by!
@@ -57,5 +57,5 @@ N&#8217;h&eacute;site pas &agrave; [nous contacter](mailto:bakedgoods@mrgs.ca) s
 
                 
                 
- &nbsp;
- &nbsp;
+ 
+ 

@@ -10,11 +10,11 @@ categories:
 
 
 February &#8212; the Buzz Aldrin of months! Help us celebrate second place, longer days, and shorter months at our February meetup. We&#8217;ll be playing some of the wonderful games made at the recent [Global Game Jam](http://globalgamejam.org/), and more besides!
- &nbsp;
+ 
 Come introduce yourselves if it&#8217;s your first time at a meetup, and [email us](mailto:bakedgoods@mrgs.ca) early if you&#8217;d like to present a demo or find new and exciting recipes for baked goods.
- &nbsp;
- &nbsp;
- &nbsp;
+ 
+ 
+ 
 ---
 The MRGS monthly meetups bring together game enthusiasts from Montreal and beyond to chat about games, play some demos, share a few drinks, and generally keep each other inspired. Game-making experience is NOT required &#8212; newcomers are welcome, and encouraged to come say hello!
 [Get in touch](mailto:bakedgoods@mrgs.ca) if you&#8217;ve got something to show, or if it&#8217;s your first time stopping by!
@@ -61,6 +61,6 @@ N&#8217;hésite pas à [nous contacter](mailto:bakedgoods@mrgs.ca) si tu as un d
 
                 
                 
- &nbsp;
- &nbsp;
- &nbsp;
+ 
+ 
+ 

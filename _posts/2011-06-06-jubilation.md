@@ -17,17 +17,17 @@ Last month, an expeditionary force of game-developing teams and individuals conv
 *Tron* meets *Rock &#8216;n Roll Racing* and they have a baby in a rugby scrum. Competitive two-player racing that shines in its beautiful drifting physics.  
 [![&quot;Fuzzer,&quot; by Henk Boom]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/06/Fuzzer.png)][5]
 
-&nbsp;  
+  
 *[Newton64&#8242;s Revised King James Bible][6]* by Nick Rudzicz  
 The Adam &#038; Eve story you were never meant to hear! NSFW physics! M. Bison! Anyway, the developer doesn&#8217;t like talking about himself in the third person, so the post-mortem writeup will suffice!  
 [![&quot;Newton64&#039;s Revisionist King James Bible&quot; by Nick Rudzicz]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/06/RevisionistBible_crop.png)][7]
 
-&nbsp;  
+  
 *[RAIN+BOW][8]* by Les coll&eacute;giennes  
 Take all the shmups you&#8217;ve ever played and all the drugs you&#8217;ve ever taken and there&#8217;s your weekend. [Aliceffekt][9] provides a soundtrack that will literally melt your face.  
 [![&quot;RAIN+BOW,&quot; by Les coll&eacute;giennes]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/06/RainCrossBow_crop.jpg)][10]
 
-&nbsp;  
+  
 *Station 37* by Renaud Cormier and Fran&ccedil;is Coulombe  
 This official recruitment game of the FDNY really &#8220;turns up the heat&#8221; (this is a pun because of fire). From the SuperNES school of design, it features gorgeous aesthetic sensibilities and a narrative arc that&#8217;ll teach you the true meaning of fighting fires. Backdraft.  
 [![&quot;Station37&quot; by Renaud Cormier and Fran&ccedil;is Coulombe]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/06/Station37_crop.jpg)][11]

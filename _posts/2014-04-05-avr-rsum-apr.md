@@ -16,7 +16,7 @@ Thanks for coming out, everyone!
 
 Un bref regard sur les jeux et activit&eacute;s du [meetup]({{ site.baseurl }}/2014/03/meetup-apr-2-avr/) de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
- &nbsp;
+ 
 
 
 ---
@@ -42,5 +42,5 @@ Look at the DATGAM games! *[Look at them!](http://forum.mrgs.ca/t/datgam-ix-marc
  *[Toto Temple Deluxe](http://tototemple.com/)*, Juicy Beast
  *[Super Rocket Plunder](https://twitter.com/ArukariArcade)*, Amped Apps
  *[You Have No Legs](http://nagnazul.com/yhnl.html)*, Martin Brochu
- &nbsp;
- &nbsp;
+ 
+ 

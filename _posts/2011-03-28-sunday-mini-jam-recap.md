@@ -15,31 +15,31 @@ An [oracle](http://norefuge.net/vgng/vgng.html) was consulted; titles were chose
 An arena shooter of matching tiles. Beware the bamboo. Appearing Q3 2012.  
 ![Armoured Mahjong Insanity]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/Armoured-Mahjongg-Insanity.png)
 
-&nbsp;
+
 
 *Bewildering Blimp Crisis*, by Graeme Lennon  
 *Missile Command* meets &#8220;The Flight of the Valkyries,&#8221; with awe-inspiring results. Appearing Q3 2012.  
 ![Bewildering Blimp Crisis]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/Bewildering-Blimp-Crisis.jpg)
 
-&nbsp;
+
 
 *Bizarro Unicycle of Mystery*, by Nick Rudzicz  
 An artgame about regret, unicycles, and Unity rigidbodies. Appearing Q3 2012.  
 ![BizarroUnicycleOfMystery]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/BizarroUnicycleOfMystery.png)
 
-&nbsp;
+
 
 *Romantic Dating of the Blood God*, by Wesley Knee  
 A card game invoking <s>Aztec</s> Mayan blood sacrifices, slave trade, and monarchic rule. Appearing Q3 2012.  
 ![Romantic Dating of the Blood God]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/RomanticDatingOfTheBloodGod.jpg)
 
-&nbsp;
+
 
 *Secret of the Yak Bloodbath*, by Kenny Backus  
 Yak herding simulator meets yak herding apocalypse. Appearing Q3 2012.  
 ![secret_of_the_yak_bloodbath]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/secret_of_the_yak_bloodbath.png)
 
-&nbsp;
+
 
 &#8212;&#8212;
 

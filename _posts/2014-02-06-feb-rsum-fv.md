@@ -16,7 +16,7 @@ Thanks for coming out, everyone!
 
 Un bref regard sur les jeux et activit&eacute;s du [meetup]({{ site.baseurl }}/2014/01/meetup-feb-5-fv/) de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
- &nbsp;
+ 
 
 
 ---
@@ -35,5 +35,5 @@ Don&#8217;t forget to visit the new [forums](http://forum.mrgs.ca/), [say hello]
  *[RimWorld](http://rimworldgame.com/)*, Ludeon Studios
  *[Saloon Party](https://www.facebook.com/SaloonPartyGame)*, Illogika Studio &#038; ByHumans &#038; Kim Derome &#038; Dominic Aub&eacute;
  *[Z&#8217;Isle](http://globalgamejam.org/2014/games/zisle)*, Miscellaneum
- &nbsp;
- &nbsp;
+ 
+ 

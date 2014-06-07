@@ -7,9 +7,6 @@ categories:
   - Games
   - Meetups
 ---
-![][1]</img>
-
-
 
 In which we look back at the variously emotive times we had at the [meetup]({{ site.baseurl }}/2014/02/meetup-mar-5-mar/) this past Wednesday.
 Thanks for coming out, everyone!
@@ -18,7 +15,7 @@ Thanks for coming out, everyone!
 
 Un bref regard sur les jeux et activit&eacute;s du [meetup]({{ site.baseurl }}/2014/02/meetup-mar-5-mar/) de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
- &nbsp;
+ 
 
 
 ---
@@ -48,6 +45,6 @@ Join us and post your progress on the [forum](http://forum.mrgs.ca/t/datgam-ix-m
  *[Omnomnom Game](http://marionesquian.com/OmnomnomGame/)*, Marion Esquian
  *[Blush or Burn](http://petitfolio.evilsmile.net/bob/)*, Kim Hoang
  *[Submerged](http://microbraingames.com/yu/submerged/)*, Iuliia Kitchenko
- &nbsp;
- &nbsp;
+ 
+ 
 [1]: {{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/03/IMG_1856_crop.jpg

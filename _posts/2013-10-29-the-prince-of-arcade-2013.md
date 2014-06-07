@@ -19,9 +19,9 @@ Amid the darkening mornings and the frigid nights, a light is rising:
  THE PRINCE IS BACK.
 ---
 For the fourth year running, The Prince of Arcade is filling the Eastern Bloc New Media Center with a host of unique and unreleased games from independent designers. From wildly competitive digital showdowns to machine-mediated meditation, the games appeal to both player and spectator alike in a dynamic reconfiguration of the art gallery. Come on out for a night of drinks and electronic fever-dreams!
- &nbsp;
- &nbsp;
- &nbsp;
+ 
+ 
+ 
 ---
   
   <p align="center">
@@ -49,15 +49,15 @@ Pour une quatrième année consécutive, la soirée Prince of Arcade remplit le 
 
 
           <p align="center">
-            &nbsp;
+            
  [Eastern Bloc](http://easternbloc.ca/)
  7240 Clark, m&eacute;tro De Castelnau
  11 Nov. 2013
  20h00 &#8211; 01h00
- &nbsp;
+ 
 
 
  ![PoA-vectorfolks-650px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/PoA-vectorfolks-650px.png)
- &nbsp;
- &nbsp;
- &nbsp;
+ 
+ 
+ 

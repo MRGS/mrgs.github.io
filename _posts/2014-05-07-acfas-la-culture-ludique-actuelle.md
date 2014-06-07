@@ -68,8 +68,8 @@ Please note and follow the event&#8217;s [Safe Spaces Policy](http://oldforum.mr
 
             
             
- &nbsp;
- &nbsp;
+ 
+ 
 ---
           
           **LES JEUX // THE GAMES**</p> <p>
@@ -88,6 +88,6 @@ Please note and follow the event&#8217;s [Safe Spaces Policy](http://oldforum.mr
 *[Realistic Kissing Simulator](http://jimmylands.com/experiments/kissing/)*
  (Jimmy Andrews &#038; Loren Schmidt)
  [![Realistic Kissing Simulator]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/RealisticKissingSimulator-650px.png)](http://jimmylands.com/experiments/kissing/)
-&nbsp;
- &nbsp;
- &nbsp;
+
+ 
+ 

@@ -40,4 +40,4 @@ It&#8217;s been a busy month of attending [Parcade](https://www.facebook.com/eve
           [*Starwhal*](http://www.starwhal.com), [Breakfall](http://www.breakfall.ca/)
         </li>
       </ul>
-&nbsp;
+

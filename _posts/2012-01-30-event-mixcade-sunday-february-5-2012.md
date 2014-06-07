@@ -17,7 +17,7 @@ Mixcade! These puns are getting pretty belaboured. Um&#8230; spoons&#8230; you&#
 
 Ah, whatever. There&#8217;s a videogame party happening next Sunday, and you&#8217;re invited!
 
-&nbsp;
+
 
 The Mount Royal Game Society and Concordia&#8217;s [TAG Research Centre][1] present  
 ![mixcade]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/mixcade-1-600x344.png)
@@ -41,37 +41,37 @@ FREE
 
 
 
-&nbsp;
+
 
 [Way][4], CoCo & Co
 
 
 
-&nbsp;
+
 
 [Swift*Stitch][5], Sophie Houlden
 
 
 
-&nbsp;
+
 
 [Forget-Me-Not][6], Nyarlu Labs
 
 
 
-&nbsp;
+
 
 [Johann Sebastian Joust][7], Die Gute Fabrik
 
 
 
-&nbsp;
+
 
 [Papo & Yo][8], Minority Inc.
 
 
 
-&nbsp;
+
 
 And the triumphant return of  
 ** ARCADE ROYALE**, Montreal&#8217;s indie games arcade cabinet
@@ -80,7 +80,7 @@ And the triumphant return of
 
 <p style="font-size: 70%;">
   ![ArcadeRoyale-RF]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/ArcadeRoyale-RF-600x600.jpg)(Photo courtesy the ever-rockin&#8217; [Richard Flanagan](http://fractgame.com/))
-&nbsp;
+
 
 If that&#8217;s not exciting enough, we have a few other surprises in store for you too. Stay tuned!
 

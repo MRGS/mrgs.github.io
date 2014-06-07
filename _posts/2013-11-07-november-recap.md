@@ -35,5 +35,5 @@ LES JEUX / GAMES
  &raquo;&raquo; *[dr. b(o)b*](http://ginaharaszti.com/games/DrBob.exe), [Gina Haraszti](http://ginaharaszti.com/) &#038; Nick Kornek
  &raquo;&raquo; *[Don&#8217;t Make Me Turn This Car Around](http://www.youtube.com/watch?v=8Moh11TLN2g)*, Simon Pr&eacute;fontaine
  &raquo;&raquo; *[The Burden of Friendship](http://www.puzzlescript.net/play.html?p=7320353)*, [The Deranged Hermit](http://deranged-hermit.blogspot.ca/)
- &nbsp;
- &nbsp;</p>
+ 
+ </p>

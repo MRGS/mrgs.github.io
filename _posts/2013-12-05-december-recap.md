@@ -18,7 +18,7 @@ Thanks for coming out, everyone!
 
 Un bref regard sur les jeux et activit&eacute;s du [meetup]({{ site.baseurl }}/2013/11/meetup-4-dec/) de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
- &nbsp;
+ 
 
 
 ---
@@ -34,16 +34,16 @@ DTGMA
  [Game Jam](https://www.facebook.com/events/687610694602978/) 14-15 D&eacute;c.
 LES JEUX / GAMES
  &raquo;&raquo; *[Eat Dirt!](http://www.thegoty.com/eat-dirt)*
- &nbsp;&nbsp;&nbsp;&nbsp; (Game of the Year)
+  (Game of the Year)
  &raquo;&raquo; *Untitled Dashing Game*
- &nbsp;&nbsp;&nbsp;&nbsp; ([NarF](http://blogue.narf.ca/))
+  ([NarF](http://blogue.narf.ca/))
  &raquo;&raquo; *[Potion Pitcher](http://inner-maze.fr/Games/Potion_Pitcher/)*
- &nbsp;&nbsp;&nbsp;&nbsp; (Alysha Hum, David Moss, Adrien Pelov, Jeremy Romberg, Eve Trudel Levesque)
+  (Alysha Hum, David Moss, Adrien Pelov, Jeremy Romberg, Eve Trudel Levesque)
  &raquo;&raquo; *[Prix du livre jeunesse 2013](http://arene.bibliomontreal.com/le-jeu-du-prix-du-livre-jeunesse-2013)*
- &nbsp;&nbsp;&nbsp;&nbsp; (Maria Julia Guimar&atilde;es, St&eacute;phane Dufour, Thierry Robert)
+  (Maria Julia Guimar&atilde;es, St&eacute;phane Dufour, Thierry Robert)
  &raquo;&raquo; *[Big Action Mega Fight](http://bigactionmegafight.com/)*
- &nbsp;&nbsp;&nbsp;&nbsp; (Double Stallion)
+  (Double Stallion)
  &raquo;&raquo; *[Deadlock](http://www.deadlock-game.com/)*
- &nbsp;&nbsp;&nbsp;&nbsp; (5 Bits Games)
- &nbsp;
- &nbsp;
+  (5 Bits Games)
+ 
+ 

@@ -33,4 +33,4 @@ LES JEUX / GAMES
  &raquo;&raquo; *R.I.P. Nick Rudzicz</a>*, Renaud &#8220;The Monster King&#8221;
  &raquo;&raquo; *[Sculptorgeist](http://www.escapistmagazine.com/content/indie-speed-run/?game=593)*, [Kitfox Games](http://www.kitfoxgames.com/)
  &raquo;&raquo; *Stomba Quest*, [Dijiko](http://www.dijiko.com)
- &nbsp;
+ 

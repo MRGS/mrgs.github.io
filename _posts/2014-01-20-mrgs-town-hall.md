@@ -33,8 +33,8 @@ Montr&eacute;al, Qu&eacute;bec
 **IMPORTANT**  
 Baked goods will be available in limited quantities for your edification.  
 Donation of baked goods gratefully accepted.  
-&nbsp;  
-&nbsp;
+  
+
 
  [1]: mailto:bakedgoods@mrgs.ca
  [2]: https://www.google.ca/maps/preview#!q=Execution+Labs%2C+Boulevard+Saint-Laurent+%23206%2C+Montr%C3%A9al%2C+QC&#038;data=!4m15!2m14!1m13!1s0x4cc91a34bc60aec3%3A0x82d16be44c609fc4!3m8!1m3!1d437!2d-73.5772683!3d45.5161222!3m2!1i1920!2i960!4f13.1!4m2!3d45.516108!4d-73.577242

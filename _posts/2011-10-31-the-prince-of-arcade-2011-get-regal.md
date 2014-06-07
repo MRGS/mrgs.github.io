@@ -41,7 +41,7 @@ Special Guest: *Thrustburst Arcade* by [Umlautgames][11]
 ![Thurstburst-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/Thurstburst-600px.png)
 
 We&#8217;ve had the pleasure of playtesting these games in the Buttonmashers dojo, and the results are astounding. We&#8217;ll be talking more about each game in the weeks to come, but for now head over to the [Buttonmashers website][12] for some sweet, arcadey video action.  
-&nbsp;
+
 
 Wait, you want more? Okay. Okay, fine. But don&#8217;t say we didn&#8217;t warn you.
 
@@ -54,12 +54,12 @@ We&#8217;re pumped (oh ho ho ho.)
 
 Oh, and hey, our co-organisers the [Dirty Rectangles][13] heard you like arcades, so they&#8217;re packing a minivan full of goodness, hitting up the T-Can, and unveiling their own classy cocktail cabinet: the *Ottatron*! Now you can play some arcades while your friends play arcades at the Prince of Arcade!  
   
-&nbsp;
+
 
 And if *that* weren&#8217;t amazing enough, our friends at [die gute Fabrik][14] have hacked their fabulous *Johann Sebastian Joust* to bring us a brand new creature: *[Joust of Canada][15]*, a Boards of Canada physical bonanzarama. Will there be swords? There may be swords.
 
 ![joust_of_canada-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/joust_of_canada-600px.png)  
-&nbsp;
+
 
 Throw in some surprise special guests, and there is no excuse to miss this! Literally, if the 2012 conspiracy were more than a silly fancy, and the world really were to come apart&#8212;a year early&#8212;in the coming week, and John Cusack&#8217;s Cessna was the only safe harbour left in the world, we would bring the party to the plane and rock these games across the planet Earth.
 

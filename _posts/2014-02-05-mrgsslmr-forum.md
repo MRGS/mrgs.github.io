@@ -12,12 +12,12 @@ categories:
 We&#8217;re happy to finally announce our new and (hopefully) improved [forum](http://forum.mrgs.ca/)!
 The new system is built in [Discourse](http://www.discourse.org/), and provides a flatter structure as well as easier filtering and subscription features, so we hope it&#8217;s more inviting to discussion. Feel free to come on down and [introduce yourselves!](http://forum.mrgs.ca/t/welcome-to-the-new-mrgs-slmr-forum/15)
 You can still find a link to the [past implementation](http://oldforum.mrgs.ca), but hopefully we&#8217;ll be able to merge that into the new site in the near future.
- &nbsp;
- &nbsp;
+ 
+ 
 [Forum](http://forum.mrgs.ca/), won&#8217;t you?
- &nbsp;
- &nbsp;
- &nbsp;
+ 
+ 
+ 
 
 
 
@@ -27,6 +27,6 @@ Entre-temps, l&#8217;ancien [forum](http://oldforum.mrgs.ca) est encore disponib
 [Forum](http://forum.mrgs.ca/) &#8212; on aime &ccedil;a.
 
 
- &nbsp;
- &nbsp;
- &nbsp;
+ 
+ 
+ 

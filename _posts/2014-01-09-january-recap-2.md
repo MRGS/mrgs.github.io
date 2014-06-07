@@ -16,7 +16,7 @@ Thanks for coming out, everyone!
 
 Un bref regard sur les jeux et activit&eacute;s du [meetup]({{ site.baseurl }}/2013/12/meetup-8-jan/) de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
- &nbsp;
+ 
 
 
 ---
@@ -35,5 +35,5 @@ Going into the new year, with new non-profit status, MRGS is going to be holding
 *[skyRogue](http://nihilocrat.itch.io/sky-rogue)*, Kenny Backus
 [DTGMA] *[SkiFree Quest](), Brent Ellison &#038; Tanya Short*
 *[Wordplay](http://travishenrymartin.comxa.com/games/Wordplay.html)*, Travis Martin
- &nbsp;
- &nbsp;
+ 
+ 

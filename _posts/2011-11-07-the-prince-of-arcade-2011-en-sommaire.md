@@ -72,8 +72,8 @@ Encore une fois, merci &agrave; tous. It was &eacute;poustouflant.
 Let&#8217;s do this again sometime.
 
 Long Live the Prince.  
-&nbsp;  
-&nbsp;  
+  
+  
 &#8212;-  
 *PS: And finally, a note to all our local MRGS friends&#8212;don&#8217;t forget that there&#8217;s a [meetup][28] Wednesday night, the 9th! We will meet each other there, and drink deeply from tall draughts of keen memories.*
 
