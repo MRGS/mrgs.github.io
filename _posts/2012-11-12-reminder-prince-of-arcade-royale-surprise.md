@@ -16,7 +16,7 @@ tags:
   </p>
   
   <p>
-    <img class="aligncenter size-full wp-image-1039" title="poa-poster-web-600px" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/poa-poster-web-600px.png" alt="" width="600" height="736" />
+    ![poa-poster-web-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/poa-poster-web-600px.png)
   </p>
   
   <p>
@@ -54,11 +54,11 @@ tags:
   </p>
   
   <p>
-    <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/Marquee-RoyalVelvet1.png"><img class="alignleft size-full wp-image-1147" title="Marquee-RoyalVelvet" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/Marquee-RoyalVelvet1.png" alt="" width="600" height="128" /></a>
+    <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/Marquee-RoyalVelvet1.png">![Marquee-RoyalVelvet]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/Marquee-RoyalVelvet1.png)</a>
   </p>
   
   <p>
-    <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/royalemacro.png"><img class="alignleft size-full wp-image-1150" title="royalemacro" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/royalemacro.png" alt="" width="600" height="439" /></a>
+    <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/royalemacro.png">![royalemacro]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/royalemacro.png)</a>
   </p>
   
   <p>

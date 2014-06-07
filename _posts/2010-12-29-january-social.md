@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-[<img class="aligncenter size-full wp-image-130" title="January Social." src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/12/MRGS_11_01_Social.png" alt="" width="600" height="100" />][1]
+[![January Social.]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/12/MRGS_11_01_Social.png)][1]
 
 Yes, friends, it&#8217;s that wonderfully symbolic time of year that the Gregorians so thoughtfully provided us for recovering from food comas and tweeting our sincerest holiday Top Ten lists. The new year is just around the corner, and that means more introspection than you can shake a blog at. Where should the Mount Royal Game Society go from here? What would you like to see happen over the coming year? How can we acquire ever more and more varied [sweet breads][2]? Let us ponder these questions during the JANUARY MEETUP.
 

@@ -7,7 +7,7 @@ categories:
   - Games
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/08/Meetup-2013-08-panorama-650px.jpg" alt="Meetup-2013-08-panorama-650px" width="650" height="187" class="aligncenter size-full wp-image-1742" />
+![Meetup-2013-08-panorama-650px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/08/Meetup-2013-08-panorama-650px.jpg)
 
 <div class="large-6 columns ">
   <p>

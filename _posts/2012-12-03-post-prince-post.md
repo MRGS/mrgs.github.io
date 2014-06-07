@@ -81,7 +81,7 @@ tags:
       </p>
       
       <p>
-        <em><strong>Tennnes</strong></em> — <a href="http://slordig.thepoppenkast.com/">Jan Willem Nijman</a><br /> <img class="aligncenter size-full wp-image-1033" title="tennnes" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/tennnes.jpg" alt="" width="600" height="337" />
+        <em><strong>Tennnes</strong></em> — <a href="http://slordig.thepoppenkast.com/">Jan Willem Nijman</a><br /> ![tennnes]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/tennnes.jpg)
       </p>
       
       <p>
@@ -110,17 +110,17 @@ tags:
                       </p>
                       
                       <p>
-                        <img class="aligncenter size-full wp-image-1250" title="resize-poa2012-03" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-03.jpg" alt="" width="600" height="400" />
+                        ![resize-poa2012-03]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-03.jpg)
                       </p>
                       
                       <p>
-                        <img class="aligncenter size-full wp-image-1251" title="resize-poa2012-04" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-04.jpg" alt="" width="600" height="400" />
+                        ![resize-poa2012-04]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-04.jpg)
                       </p>
                       
                       <p>
-                        <img class="aligncenter size-full wp-image-1252" title="resize-poa2012-08" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-08.jpg" alt="" width="600" height="337" />
+                        ![resize-poa2012-08]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-08.jpg)
                       </p>
                       
                       <p>
-                        <img class="aligncenter size-full wp-image-1253" title="resize-poa2012-10" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-10.jpg" alt="" width="600" height="337" />
+                        ![resize-poa2012-10]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-10.jpg)
                       </p>

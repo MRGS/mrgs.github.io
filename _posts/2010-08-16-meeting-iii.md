@@ -10,10 +10,10 @@ Our August meetup was somewhat more modest than the previous two, due to a poten
 
 Irregardlessly of the turnout, Stephen busted out some demos from the [recently released][2] Pirate Kart (Part II), and enjoyable times were had by a mathematical majority of attendees. A roaring success!
 
-<img class="aligncenter size-full wp-image-41" title="Delicious conversation!" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/08/small1.jpg" alt="Delicious conversation!" width="600" height="450" />
+![Delicious conversation!]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/08/small1.jpg)
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-42" title="Heavy Brain Training" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/08/small2.jpg" alt="Heavy Brain Training" width="600" height="450" />(<a href="http://starfruitgames.com/blog/">Dock</a>&#8216;s <a href="http://www.glorioustrainwrecks.com/node/820">Heavy Brain Training</a> from the Pirate Kart!)
+  ![Heavy Brain Training]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/08/small2.jpg)(<a href="http://starfruitgames.com/blog/">Dock</a>&#8216;s <a href="http://www.glorioustrainwrecks.com/node/820">Heavy Brain Training</a> from the Pirate Kart!)
 </p>
 
  [1]: http://www.montrealindies.com/?p=34

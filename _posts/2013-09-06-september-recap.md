@@ -7,7 +7,7 @@ categories:
   - Events
   - Games
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/09/Meetup-2013-09-04-650px.jpg" alt="Meetup-2013-09-04-650px" width="650" height="259" class="aligncenter size-full wp-image-1779" />
+![Meetup-2013-09-04-650px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/09/Meetup-2013-09-04-650px.jpg)
 
 <div class="large-6 columns ">
   <p>

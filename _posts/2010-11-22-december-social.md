@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-*<img class="alignnone size-full wp-image-125" title="MRGS_10_12_Social_3" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/MRGS_10_12_Social_3.png" alt="" width="600" height="100" />*
+*![MRGS_10_12_Social_3]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/MRGS_10_12_Social_3.png)*
 
 It is December. Stay out of the malls! Their digestive glands activate this time of year. They found my uncle deep in the belly of Place Ville Marie last year, drained of all his fluids. And his charge card was maxed out. Do not risk it! Come to this fine MEETUP instead.
 

@@ -10,13 +10,13 @@ The telegraph machines here at the Mount Royal Game Society have been clattering
 
 #### NextMontréal
 
-[<img class="aligncenter size-full wp-image-49" title="nextmontreal" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/08/nextmontreal.png" alt="" width="264" height="122" />][1]
+[![nextmontreal]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/08/nextmontreal.png)][1]
 
 The newest Montreal tech site, [NextMontréal][1], has gone live. As their primary audience consists of local entrepreneurs and individuals interested in forming startups, the content should be of interest and offer insights to independent game developers as well. Check out their [gaming section][2], or browse the rest of the site for op-eds and local tech news.
 
 #### Sony Networking Mixer
 
-[<img class="aligncenter size-full wp-image-50" title="SCEA_Mixer" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/08/SCEA_Mixer.gif" alt="" width="480" height="360" />][3]
+[![SCEA_Mixer]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/08/SCEA_Mixer.gif)][3]
 
 As reported over at the [IGDA][4], Sony Computer Entertainment America (SCEA) and Export Development Canada (EDC) are hosting a networking reception at the Terrasses Bonsecours in the Old Port on Wednesday, August 25th, from 18:00-21:00. It&#8217;s a chance to network with Sony&#8217;s 3rd-party PlayStation team&#8212;as well as others in the local community&#8212;and discuss business and technical topics. It&#8217;s a great opportunity, and open to any and all developers who [register][3], free of charge.
 

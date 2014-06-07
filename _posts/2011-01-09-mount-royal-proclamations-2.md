@@ -25,7 +25,7 @@ Give us a shout down below if you&#8217;ll be attending, or if you&#8217;re plan
 
 The Mount Royal Game Society has a logo!
 
-<img class="aligncenter size-medium wp-image-134" title="Oh, hello there." src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/Mergsey-300x300.png" alt="MRGS Logo" width="300" height="300" />
+![Oh, hello there.]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/Mergsey-300x300.png)
 
 You may have noticed Mergsey (our unofficial name for him) (we also arbitrarily decided he was a male) around the Internet: on Facebook and on Twitter, for instance, as well as on our <a href="http://www.montrealindies.com/?tag=the-prince-of-arcade" target="_blank">Prince of Arcade</a> publicity. His sleek lines, bold simplicity, and party-girl attitude were all conceptualised and designed from the ground up by the very talented Mr. Phil Fish, of the <a href="http://polytroncorporation.com/" target="_blank">Polytron Corporation</a>. So a tip o&#8217; the crown and a hearty thank-you to Phil for his (as usual) clever and compelling work.
 

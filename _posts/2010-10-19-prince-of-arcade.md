@@ -9,7 +9,7 @@ tags:
   - the prince of arcade 2010
 ---
 <h3><a href="{{ site.baseurl }}/2012/11/prince-of-arcade-2/">The PRINCE OF ARCADE is happening again on November 13, 2012, at Eastern Bloc in Montreal! Click for details.</a></h3>
-<p><a href="http://www.montrealindies.com/things/princeofarcade_webflyer_large.png"><img src="http://www.montrealindies.com/things/princeofarcade_webflyer_600.png" alt="" /></a></p>
+<p><a href="http://www.montrealindies.com/things/princeofarcade_webflyer_large.png">![](http://www.montrealindies.com/things/princeofarcade_webflyer_600.png)</a></p>
 <p>Mount Royal Game Society, Dirty Rectangles and Babycastles present<br />
 <strong>THE PRINCE OF ARCADE</strong><br />
 indie games showcase &amp; party</p>

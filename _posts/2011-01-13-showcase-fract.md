@@ -10,7 +10,7 @@ Those of you present at last week&#8217;s <a href="http://www.montrealindies.com
 
 Those at the meetup should therefore also be familiar with our first feature! We saw several awesome games during our open-mic demo session, more about which we&#8217;ll be posting in the coming weeks. Among them was a game that&#8217;s generating a bit of buzz at the moment: Richard Flanagan&#8217;s *<a href="http://richardeflanagan.com/#17-fract-adventure-game-design" target="_blank">FRACT</a>*.
 
-<img class="aligncenter size-full wp-image-140" title="PROTIP: Start awesome, then maintain." src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/FRACTbeta_PC_Richard_E_Flanagan-2011-01-10-12-37-03-48.png" alt="FRACT title" width="600" height="375" />
+![PROTIP: Start awesome, then maintain.]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/FRACTbeta_PC_Richard_E_Flanagan-2011-01-10-12-37-03-48.png)
 
 The consensus (perhaps somewhat encouraged by Flanagan) pegs the game as a cross between the relaxed, exploratory gameplay of *Myst* and the visual style of Disney&#8217;s *TRON*: players move around a surreal landscape, observing and experimenting with the interconnectedness of the environment&#8217;s strange machinery. Something of a design & interface geek, Flanagan has already imbued the world with a strong and tangible visual and aural language&#8212;do play this one with a good set of headphones, as the game suggests.
 
@@ -20,7 +20,7 @@ Despite still being in beta, *FRACT* is already turning heads&#8212;so much so t
 
 &#8212;&#8212;&#8212;&#8212;
 
-<img class="aligncenter size-full wp-image-142" title="LASERS: CHECK" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/FRACT_Richard_E_Flanagan_02.png" alt="FRACT screen1" width="600" height="375" />
+![LASERS: CHECK]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/FRACT_Richard_E_Flanagan_02.png)
 
 #### THE DESIGN PROCESS
 
@@ -32,7 +32,7 @@ Second was a pragmatic approach to actually building this thing. This was my fir
 
 After a few tests ([here][1] and <a href="http://www.vimeo.com/12700368" target="_blank">here</a>) I had a rough framework for how I hoped to go about it. There were still a lot of hurdles and I scaled down or cut out many of my ideas due lack of time and skill, but in the end I&#8217;m proud of where it&#8217;s ended up.
 
-<img class="aligncenter size-full wp-image-143" title="Have you ever been so far even as decided to use go want to look more like?" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/FRACT_Richard_E_Flanagan_03.png" alt="FRACT screen2" width="600" height="375" />
+![Have you ever been so far even as decided to use go want to look more like?]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/FRACT_Richard_E_Flanagan_03.png)
 
 #### ON THE REACTION
 
@@ -40,7 +40,7 @@ Pure disbelief. I could not (and still can&#8217;t) wrap my head around the idea
 
 It&#8217;s also a bit of a relief as I was starting to feel a bit discouraged. I left a career in design and art direction in web & advertising to pursue game design by going back to school. Since finishing my post-graduate diploma in game design at the Université de Montreal I have been job-hunting, but without success. At first I was applying to junior design positions, and had recently even applied for testing jobs in order to get my foot in the door (without success). Leaving web was a leap of faith, and while FRACT isn&#8217;t the penultimate answer (yet) to where I want to be, I feel like I&#8217;m pointed in the right direction.
 
-<img class="aligncenter size-full wp-image-144" title="Oh my god yes." src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/FRACT_Richard_E_Flanagan_04.png" alt="FRACT screen3" width="600" height="375" />
+![Oh my god yes.]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/FRACT_Richard_E_Flanagan_04.png)
 
 #### THE FUTURE OF *FRACT*
 

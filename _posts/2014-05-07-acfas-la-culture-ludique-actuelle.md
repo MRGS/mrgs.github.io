@@ -101,23 +101,23 @@ categories:
           <hr />
           
           <strong>LES JEUX // THE GAMES</strong></p> <p>
-            <em><a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">Beachcomber</a></em><br /> (Mason Lindroth)<br /> <a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Beachcomber-650px.png" alt="Beachcomber" width="650" height="366" class="aligncenter size-full wp-image-2204" /></a>
+            <em><a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">Beachcomber</a></em><br /> (Mason Lindroth)<br /> <a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">![Beachcomber]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Beachcomber-650px.png)</a>
           </p>
           
           <p>
-            <em><a href="http://vote.runhello.com/j/artist/3/">BECOME A GREAT ARTIST IN JUST 10 SECONDS</a></em><br /> (Michael Brough &#038; Andi McClure)<br /> <a href="http://vote.runhello.com/j/artist/3/"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Become-an-Artist-650px.png" alt="BECOME A GREAT ARTIST IN JUST 10 SECONDS" width="650" height="361" class="aligncenter size-full wp-image-2205" /></a>
+            <em><a href="http://vote.runhello.com/j/artist/3/">BECOME A GREAT ARTIST IN JUST 10 SECONDS</a></em><br /> (Michael Brough &#038; Andi McClure)<br /> <a href="http://vote.runhello.com/j/artist/3/">![BECOME A GREAT ARTIST IN JUST 10 SECONDS]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Become-an-Artist-650px.png)</a>
           </p>
           
           <p>
-            <em><a href="http://emmettbutler.com/games/howdo.html">how do you Do It?</a></em><br /> (Emmett Butler &#038; Nina Freeman)<br /> <a href="http://emmettbutler.com/games/howdo.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/howDoYouDoIt-650px.jpg" alt="how do you Do It" width="650" height="366" class="aligncenter size-full wp-image-2206" /></a>
+            <em><a href="http://emmettbutler.com/games/howdo.html">how do you Do It?</a></em><br /> (Emmett Butler &#038; Nina Freeman)<br /> <a href="http://emmettbutler.com/games/howdo.html">![how do you Do It]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/howDoYouDoIt-650px.jpg)</a>
           </p>
           
           <p>
-            <em><a href="http://bo-en.info/URLpalemachine.html">Pale Machine</a></em><br /> (Ben Esposito &#038; Calum Bowen)<br /> <a href="http://bo-en.info/URLpalemachine.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/PaleMachine-650px.png" alt="Pale Machine" width="650" height="375" class="aligncenter size-full wp-image-2202" /></a>
+            <em><a href="http://bo-en.info/URLpalemachine.html">Pale Machine</a></em><br /> (Ben Esposito &#038; Calum Bowen)<br /> <a href="http://bo-en.info/URLpalemachine.html">![Pale Machine]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/PaleMachine-650px.png)</a>
           </p>
           
           <p>
-            <em><a href="http://jimmylands.com/experiments/kissing/">Realistic Kissing Simulator</a></em><br /> (Jimmy Andrews &#038; Loren Schmidt)<br /> <a href="http://jimmylands.com/experiments/kissing/"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/RealisticKissingSimulator-650px.png" alt="Realistic Kissing Simulator" width="650" height="375" class="aligncenter size-full wp-image-2203" /></a>
+            <em><a href="http://jimmylands.com/experiments/kissing/">Realistic Kissing Simulator</a></em><br /> (Jimmy Andrews &#038; Loren Schmidt)<br /> <a href="http://jimmylands.com/experiments/kissing/">![Realistic Kissing Simulator]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/RealisticKissingSimulator-650px.png)</a>
           </p>
           
           <p>

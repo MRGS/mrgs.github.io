@@ -10,7 +10,7 @@ categories:
 tags:
   - the prince of arcade
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/PoA-web-650px1.png" alt="The Prince of Arcade 2013" width="650" height="315" class="aligncenter size-full wp-image-1875" />
+![The Prince of Arcade 2013]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/PoA-web-650px1.png)
 
 <div class="large-6 columns ">
   <p>
@@ -54,5 +54,5 @@ tags:
           </p>
           
           <p>
-            </div><br /> <img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/PoA-vectorfolks-650px.png" alt="PoA-vectorfolks-650px" width="650" height="247" class="aligncenter size-full wp-image-1878" /><br /> &nbsp;<br /> &nbsp;<br /> &nbsp;
+            </div><br /> ![PoA-vectorfolks-650px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/PoA-vectorfolks-650px.png)<br /> &nbsp;<br /> &nbsp;<br /> &nbsp;
           </p>

@@ -8,7 +8,7 @@ categories:
   - Games
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/WebsiteRecap-Header-650x241px.jpg" alt="WebsiteRecap-Header-650x241px" width="650" height="241" class="aligncenter size-full wp-image-1840" />
+![WebsiteRecap-Header-650x241px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/WebsiteRecap-Header-650x241px.jpg)
 
 <div class="large-6 columns ">
   <p>

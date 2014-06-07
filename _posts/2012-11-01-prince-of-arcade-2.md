@@ -15,7 +15,7 @@ BELOW IS THE 2012 POST
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-1039" title="poa-poster-web-600px" alt="" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/poa-poster-web-600px.png" width="600" height="736" />  
+![poa-poster-web-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/poa-poster-web-600px.png)  
 MOUNT ROYAL GAME SOCIETY & EASTERN BLOC PRESENT  
 **THE PRINCE OF ARCADE 2012**  
 INDIE GAMES PARTY & SHOWCASE  
@@ -83,7 +83,7 @@ Lightning-fast and lightning-deadly competitive swordplay!
 
 ***Tennnes*** — [Jan Willem Nijman][19]  
 Tennis like you&#8217;ve never Ponged it before!  
-<img class="aligncenter size-full wp-image-1033" title="tennnes" alt="" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/tennnes.jpg" width="600" height="337" />
+![tennnes]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/tennnes.jpg)
 
 <center>
   ———
@@ -100,7 +100,7 @@ Tennis like you&#8217;ve never Ponged it before!
   
 **Sponsors**
 
-[<img class="alignleft size-full wp-image-1063" title="taglogo" alt="" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/taglogo.png" width="230" height="166" />][20]
+[![taglogo]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/taglogo.png)][20]
 
 &nbsp;
 
@@ -110,7 +110,7 @@ Tennis like you&#8217;ve never Ponged it before!
 
 &nbsp;
 
-[<img class="alignleft size-full wp-image-1064" title="hexagramlogo" alt="" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/hexagramlogo.png" width="303" height="178" />][21]
+[![hexagramlogo]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/hexagramlogo.png)][21]
 
 &nbsp;
 
@@ -120,7 +120,7 @@ Tennis like you&#8217;ve never Ponged it before!
 
 &nbsp;
 
-[<img title="logo" alt="" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/logo.png" width="351" height="75" />][22]
+[![logo]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/logo.png)][22]
 
 <div>
 </div>

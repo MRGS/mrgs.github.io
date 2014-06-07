@@ -16,9 +16,9 @@ tags:
   Oh hey could you remind us what&#8217;s happening again?
 </p>
 
-[<img class="aligncenter size-full wp-image-240" title="Prince of Arcade 2011" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-front-600px.png" alt="" width="600" height="388" />][1]
+[![Prince of Arcade 2011]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-front-600px.png)][1]
 
-[<img class="aligncenter size-full wp-image-240" title="Prince of Arcade 2011" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-back-600px.png" alt="" width="600" height="388" />][2]
+[![Prince of Arcade 2011]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-back-600px.png)][2]
 
 [Facebook event.][3]  
 &nbsp;
@@ -52,7 +52,7 @@ Tickets to the Prince of Arcade:
 Let the record show that we have some wicked-fantastic games to play. In no particular alphabetical order, let us hold hands and love.
 
 *PICO BATTLE* by [Les collégiennes][8]  
-<img class="aligncenter size-full wp-image-248" title="Pico Battle" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/picobattle.jpg" alt="" width="600" height="324" />
+![Pico Battle]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/picobattle.jpg)
 
 *HOHOKUM* by [Honeyslug and Richard Hogg][9]  
 
@@ -64,7 +64,7 @@ Let the record show that we have some wicked-fantastic games to play. In no part
 
 
 *POLEVAULTER* by [Bennett Foddy][12]  
-<img class="aligncenter size-full wp-image-249" title="Pole Riders" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/poleriders.png" alt="" width="600" height="290" />
+![Pole Riders]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/poleriders.png)
 
 The stage is set. We can&#8217;t wait to get down and jam with you all.
 

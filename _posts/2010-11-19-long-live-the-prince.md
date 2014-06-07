@@ -8,7 +8,7 @@ categories:
 tags:
   - the prince of arcade 2010
 ---
-[<img class="aligncenter size-full wp-image-122" title="Arts and Crafts" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/PrinceOfArcade2010-3.jpg" alt="The Prince of Arcade" width="600" height="400" />][1]
+[![Arts and Crafts]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/PrinceOfArcade2010-3.jpg)][1]
 
 The [Prince of Arcade][2] came and went last week, and it&#8217;s safe to say it exceeded all our expectations. Roughly 250 [MIGS][3] attendees and other (highly intellectual and morally sound) lovers of indie games came together to sample from a glorious variety of titles:
 
@@ -22,9 +22,9 @@ The [Prince of Arcade][2] came and went last week, and it&#8217;s safe to say it
 *   *Project SkyFortress* by [Owen Deery][13] & [Gabriel Verdon][14]
 *   Highlights of [TOJam 5][15], curated [Jim & Em McGinley][16]
 
-[<img class="aligncenter size-large wp-image-120" title="The Retro Homebrew Lounge" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/PrinceOfArcade2010-1-600x450.jpg" alt="The Retro Homebrew Lounge" width="600" height="450" />][17]
+[![The Retro Homebrew Lounge]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/PrinceOfArcade2010-1-600x450.jpg)][17]
 
-[<img class="aligncenter size-large wp-image-121" title="Acupuncture." src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/PrinceOfArcade2010-2-600x400.jpg" alt="Prince of Arcade" width="600" height="400" />][1]
+[![Acupuncture.]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/PrinceOfArcade2010-2-600x400.jpg)][1]
 
 Thankfully, there was a soundtrack to match, featuring some righteous DJ, chiptune, beatbox, and ukelele heroics from widely-acknowledged Super Awesome People:
 

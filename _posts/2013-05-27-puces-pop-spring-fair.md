@@ -36,5 +36,5 @@ categories:
               </p>
               
               <div class="large-12 columns centered">
-                <a href="http://popmontreal.com/events-tickets/la-foire-puces-pop-edition-printaniere-spring-puces-pop-fair/"><img title="Puces POP" alt="Puces Pop Spring Fair" src="http://popmontreal.com/{{ site.oldwpdir }}/uploads/marcato/La-foire-Puces-POP-%C3%A9dition-printani%C3%A8re-Spring-Puces-POP-Fair-396x595.jpg" /></a>
+                <a href="http://popmontreal.com/events-tickets/la-foire-puces-pop-edition-printaniere-spring-puces-pop-fair/">![Puces POP](http://popmontreal.com/{{ site.oldwpdir }}/uploads/marcato/La-foire-Puces-POP-%C3%A9dition-printani%C3%A8re-Spring-Puces-POP-Fair-396x595.jpg)</a>
               </div>

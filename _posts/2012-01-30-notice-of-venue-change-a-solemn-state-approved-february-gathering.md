@@ -7,7 +7,7 @@ categories:
   - Events
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/feb2012-banner2-horiz.png" alt="" width="600" height="180" class="aligncenter size-full wp-image-299" />
+![]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/feb2012-banner2-horiz.png)
 
 ALERT! ALERT! &#8220;FEBURRITO&#8221; HAS BEEN DECLARED ILLEGAL AND ALL MEXICAN FOOD-BASED PUNS AND PORTMANTEAUS ARE FORBIDDEN INDEFINITELY.
 

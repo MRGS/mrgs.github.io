@@ -20,7 +20,7 @@ Ah, whatever. There&#8217;s a videogame party happening next Sunday, and you&#82
 &nbsp;
 
 The Mount Royal Game Society and Concordia&#8217;s [TAG Research Centre][1] present  
-<img class="aligncenter size-large wp-image-297" title="mixcade" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/mixcade-1-600x344.png" alt="" width="600" height="344" />
+![mixcade]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/mixcade-1-600x344.png)
 
 ## MIXCADE
 
@@ -76,10 +76,10 @@ FREE
 And the triumphant return of  
 ** ARCADE ROYALE**, Montreal&#8217;s indie games arcade cabinet
 
-<img class="aligncenter size-full wp-image-295" title="Arcade Royale games" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/ArcadeRoyale1.jpg" alt="" width="600" height="300" />
+![Arcade Royale games]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/ArcadeRoyale1.jpg)
 
 <p style="font-size: 70%;">
-  <img class="aligncenter size-large wp-image-296" title="ArcadeRoyale-RF" src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/ArcadeRoyale-RF-600x600.jpg" alt="" width="600" height="600" />(Photo courtesy the ever-rockin&#8217; <a href="http://fractgame.com/">Richard Flanagan</a>)
+  ![ArcadeRoyale-RF]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/ArcadeRoyale-RF-600x600.jpg)(Photo courtesy the ever-rockin&#8217; <a href="http://fractgame.com/">Richard Flanagan</a>)
 </p>
 
 &nbsp;
