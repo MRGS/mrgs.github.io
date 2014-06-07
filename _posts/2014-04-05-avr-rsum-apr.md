@@ -26,21 +26,21 @@ Still in Toronto, the annual <a href="https://bentomiso.com/bit-bazaar-spring-fa
 On cherche &agrave; organiser d&#8217;autres &laquo;meetups&raquo; hors d&#8217;un bar et plus ax&eacute;es sur des pr&eacute;sentations &agrave; longue-forme; venez en discuter dans <a href="http://forum.mrgs.ca/category/organization">la page d&#8217;Organisation</a> sur le forum!
  =====
  We&#8217;re looking to hold complementary meetups outside of the bar and more focused on longer-form presentations; check out the <a href="http://forum.mrgs.ca/category/organization">Organisation category</a> on the forums if you&#8217;d like to take part in the planning.
-Look at the DATGAM games! <em><a href="http://forum.mrgs.ca/t/datgam-ix-march-2014/64">Look at them!</a></em>
+Look at the DATGAM games! *<a href="http://forum.mrgs.ca/t/datgam-ix-march-2014/64">Look at them!</a>*
 ---
 <strong>P&Acirc;TISSERIES / BAKED GOODS</strong>
 <a href="http://sweetpeaskitchen.com/2011/05/lemon-blueberry-yogurt-loaf/">Lemon-Blueberry Yogurt Loaf</a>, via <a href="http://loudcat.net/">Rebecca</a>
  <a href="https://docs.google.com/document/d/1JQplk_UlM_djfex6-gB7euzld1TJlO7UW8-ETfT9NWE/edit">Cranberry Scones</a> (not present), via <a href="http://twitter.com/newton64">Nick</a>
 ---
 <strong>LES JEUX / GAMES</strong>
-<em><a href="https://github.com/Benbow/BreakTimeGame">Break Time</a></em>, Patrick Chan, Benoit Delassus, &#038; Maxime R. Valee
- <em><a href="http://canonlaw.wecomefrommars.net/">Canon Law</a></em>, Clement Linel
- <em><a href="http://debuggingworld.wordpress.com/2014/04/05/cataclysm-hunter-my-dawson-college-pre-jam-game/">Cataclysm Hunter</a></em>, Julien Deville, Zach Miller, &#038; Marc Shakour
- <em><a href="https://dl.dropboxusercontent.com/u/26941419/Rainbow%20on%20Fire.zip">Rainbow On Fire</a></em>, Renaud the Monster King
- <em><a href="http://www.indiedb.com/games/recess-race/">Recess Race</a></em>, Temp8
- <em><a href="http://www.franticsoftware.com/spacedefense/">Starports: Space Defense</a></em>, Amine Rehioui
- <em><a href="http://tototemple.com/">Toto Temple Deluxe</a></em>, Juicy Beast
- <em><a href="https://twitter.com/ArukariArcade">Super Rocket Plunder</a></em>, Amped Apps
- <em><a href="http://nagnazul.com/yhnl.html">You Have No Legs</a></em>, Martin Brochu
+*<a href="https://github.com/Benbow/BreakTimeGame">Break Time</a>*, Patrick Chan, Benoit Delassus, &#038; Maxime R. Valee
+ *<a href="http://canonlaw.wecomefrommars.net/">Canon Law</a>*, Clement Linel
+ *<a href="http://debuggingworld.wordpress.com/2014/04/05/cataclysm-hunter-my-dawson-college-pre-jam-game/">Cataclysm Hunter</a>*, Julien Deville, Zach Miller, &#038; Marc Shakour
+ *<a href="https://dl.dropboxusercontent.com/u/26941419/Rainbow%20on%20Fire.zip">Rainbow On Fire</a>*, Renaud the Monster King
+ *<a href="http://www.indiedb.com/games/recess-race/">Recess Race</a>*, Temp8
+ *<a href="http://www.franticsoftware.com/spacedefense/">Starports: Space Defense</a>*, Amine Rehioui
+ *<a href="http://tototemple.com/">Toto Temple Deluxe</a>*, Juicy Beast
+ *<a href="https://twitter.com/ArukariArcade">Super Rocket Plunder</a>*, Amped Apps
+ *<a href="http://nagnazul.com/yhnl.html">You Have No Legs</a>*, Martin Brochu
  &nbsp;
  &nbsp;

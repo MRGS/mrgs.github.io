@@ -36,7 +36,7 @@ Crafted by hardware hackers [The Buttonmashers][8], our new indie arcade cab mad
 *   *Game Game Videogame* by [Joachim Despland][12]
 *   *Pax Britannica* by [No Fun Games][13]
 *   *Thrustburst Arcade* by [Umlautgames][14]
-*   *Verteidiger* by [Kenny Backus][15]</em>
+*   *Verteidiger* by [Kenny Backus][15]*
 
 &#8212;-
 

@@ -27,13 +27,13 @@ TAG and the Pixelles are teaming up to host a local incarnation of MIT&#8217;s <
 Don&#8217;t forget to visit the new <a href="http://forum.mrgs.ca/">forums</a>, <a href="http://forum.mrgs.ca/t/welcome-to-the-new-mrgs-slmr-forum/15">say hello</a>, and look at the <a href="http://forum.mrgs.ca/t/moving-pictures/22">pretty pictures</a>.
 ---
 <strong>LES JEUX / GAMES</strong>
-<em>Eyeballs</em>, Francis Coulombe &#038; Renaud &#8220;The Monster King&#8221;
- <em><a href="http://www.thegoty.com/fishsport">FishSport</a></em>, Game of the Year
- <em><a href="http://teamlichhunt.itch.io/kings-candy---saga-at-the-edge-of-greed">King&#8217;s Candy: Saga at the Edge of Greed</a></em>, Team Lich Hunt
- <em><a href="http://technobeanie.com/stuff/games/Museum/">Museum of Parallel Art</a></em>, Neverpants
- <em><a href="http://www.rebelbinary.com/OnlyOne/">Only One</a></em>, Ernest Szoka
- <em><a href="http://rimworldgame.com/">RimWorld</a></em>, Ludeon Studios
- <em><a href="https://www.facebook.com/SaloonPartyGame">Saloon Party</a></em>, Illogika Studio &#038; ByHumans &#038; Kim Derome &#038; Dominic Aub&eacute;
- <em><a href="http://globalgamejam.org/2014/games/zisle">Z&#8217;Isle</a></em>, Miscellaneum
+*Eyeballs*, Francis Coulombe &#038; Renaud &#8220;The Monster King&#8221;
+ *<a href="http://www.thegoty.com/fishsport">FishSport</a>*, Game of the Year
+ *<a href="http://teamlichhunt.itch.io/kings-candy---saga-at-the-edge-of-greed">King&#8217;s Candy: Saga at the Edge of Greed</a>*, Team Lich Hunt
+ *<a href="http://technobeanie.com/stuff/games/Museum/">Museum of Parallel Art</a>*, Neverpants
+ *<a href="http://www.rebelbinary.com/OnlyOne/">Only One</a>*, Ernest Szoka
+ *<a href="http://rimworldgame.com/">RimWorld</a>*, Ludeon Studios
+ *<a href="https://www.facebook.com/SaloonPartyGame">Saloon Party</a>*, Illogika Studio &#038; ByHumans &#038; Kim Derome &#038; Dominic Aub&eacute;
+ *<a href="http://globalgamejam.org/2014/games/zisle">Z&#8217;Isle</a>*, Miscellaneum
  &nbsp;
  &nbsp;

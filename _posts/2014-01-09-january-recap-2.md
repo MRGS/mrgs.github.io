@@ -29,11 +29,11 @@ The <a href="http://globalgamejam.org/">Global Game Jam</a> is taking place this
 Going into the new year, with new non-profit status, MRGS is going to be holding an informal discussion session to find new ways to work with and empower the local community. The discussion will take place January 22nd, time and place to be determined &#8212; watch this space!
 ---
 <strong>LES JEUX / GAMES</strong>
- <em><a href="http://anamorphine.com/">Anamorphine</a></em>, Mohannad Al-Khatib &#038; Ramy Daghstani
-[DTGMA] <em><a href="http://www.thegoty.com/a-fistful-of-wizards">A Fistful of Wizards</a></em>, Game of the Year
-[DTGMA] <em><a href="https://dl.dropboxusercontent.com/u/26941419/Risk%20of%20Wizard.rar">Risk of Wizard</a></em>, Renaud &#8220;The Monster King&#8221; Cormier
-<em><a href="http://nihilocrat.itch.io/sky-rogue">skyRogue</a></em>, Kenny Backus
-[DTGMA] <em><a href="">SkiFree Quest</a>, Brent Ellison &#038; Tanya Short</em>
-<em><a href="http://travishenrymartin.comxa.com/games/Wordplay.html">Wordplay</a></em>, Travis Martin
+ *<a href="http://anamorphine.com/">Anamorphine</a>*, Mohannad Al-Khatib &#038; Ramy Daghstani
+[DTGMA] *<a href="http://www.thegoty.com/a-fistful-of-wizards">A Fistful of Wizards</a>*, Game of the Year
+[DTGMA] *<a href="https://dl.dropboxusercontent.com/u/26941419/Risk%20of%20Wizard.rar">Risk of Wizard</a>*, Renaud &#8220;The Monster King&#8221; Cormier
+*<a href="http://nihilocrat.itch.io/sky-rogue">skyRogue</a>*, Kenny Backus
+[DTGMA] *<a href="">SkiFree Quest</a>, Brent Ellison &#038; Tanya Short*
+*<a href="http://travishenrymartin.comxa.com/games/Wordplay.html">Wordplay</a>*, Travis Martin
  &nbsp;
  &nbsp;

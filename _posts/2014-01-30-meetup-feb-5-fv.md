@@ -29,9 +29,9 @@ N&#8217;hésite pas à <a href="mailto:bakedgoods@mrgs.ca">nous contacter</a> si
 
 
 
-<em>WHEN?</em>
+*WHEN?*
  <strong>Wednesday, February 5th, 19h30</strong>
-<em>WHERE?</em>
+*WHERE?*
  <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
  5788 boul. St.-Laurent
  On the 55 bus line, and a short walk from Rosemont metro
@@ -39,9 +39,9 @@ N&#8217;hésite pas à <a href="mailto:bakedgoods@mrgs.ca">nous contacter</a> si
 
 
 
-<em>QUAND?</em>
+*QUAND?*
  <strong>Mercredi 5 f&eacute;vrier 19h30</strong>
-<em>OÙ?</em>
+*OÙ?*
  <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
  5788 boul. St.-Laurent
  Sur la ligne du 55, et tout près du métro Rosemont

@@ -20,15 +20,15 @@ Allez tous à vos agendas, car c&#8217;est mercredi prochain!
 
         
         
-          <em>WHEN</em>
+          *WHEN*
  Wednesday, August 1st, 19h30</p> <p>
-            <em>WHERE</em>
+            *WHERE*
  Brasserie Artisanale l’Amère à boire
  2049 rue Saint-Denis, 3rd floor
 
-              <em>QUAND?</em>
+              *QUAND?*
  Mercredi 1 aout, 19h30</p> <p>
-                <em>OÙ?</em>
+                *OÙ?*
  Brasserie Artisanale l&#8217;Amère à boire
  2049 rue Saint-Denis, 3e étage
  

@@ -18,20 +18,20 @@ Avec tout cela, biens&ucirc;r le rendez-vous mensuel du SLMR est au rendez-vous!
 
         
         
-          <em>WHEN</em>
+          *WHEN*
  Wednesday, September 5th, 19h30</p> <p>
-            <em>WHERE</em>
+            *WHERE*
  Brasserie Artisanale l’Amère à boire
  2049 rue Saint-Denis, 3rd floor
-<em>WHAT</em>
+*WHAT*
  At long last, another fascinating presentation! Game designer and programming wizard Miguel Cepero creates unbelievably detailed <a href="http://procworld.blogspot.ca/">procedural worlds</a>, and this month, he will show us how. Our sources indicate that there is at least one math involved.
 
-              <em>QUAND?</em>
+              *QUAND?*
  Mercredi 5 septembre, 19h30</p> <p>
-                <em>OÙ?</em>
+                *OÙ?*
  Brasserie Artisanale l&#8217;Amère à boire
  2049 rue Saint-Denis, 3e étage
-<em>QUOI?</em>
+*QUOI?*
  Ce mois-ci, une autre fascinante pr&eacute;sentation! Miguel Cepero, concepteur de jeux vid&eacute;os et magicien de la programmation, est le cr&eacute;ateur d&#8217;impressionnants <a href="http://procworld.blogspot.ca/">mondes virtuels</a>. Et croyez-le ou non, mercredi prochain, il nous en donnera les secrets! Mon petit doigt me dit qu&#8217;il sera question de maths &agrave; quelques moments!
  
 

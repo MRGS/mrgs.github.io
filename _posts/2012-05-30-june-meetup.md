@@ -36,19 +36,19 @@ categories:
 
 
 
-  <em>WHEN</em>
+  *WHEN*
  Wednesday, June 6th, 19h30</p> <p>
-    <em>WHERE</em>
+    *WHERE*
  Brasserie Artisanale l’Amère à boire
  2049 rue Saint-Denis, 3rd floor
-<em>WHAT</em>
+*WHAT*
 
-      <em>QUAND?</em>
+      *QUAND?*
  Mercredi 6 juin, 19h30</p> <p>
-        <em>O&Ugrave;?</em>
+        *O&Ugrave;?*
  Brasserie Artisanale l&#8217;Am&egrave;re &agrave; boire
  2049 rue Saint-Denis, 3e &eacute;tage
-<em>QUOI?</em>
+*QUOI?*
  
 
         

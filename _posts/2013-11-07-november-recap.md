@@ -31,9 +31,9 @@ LES ANNONCES / ANNOUNCEMENTS
  &raquo;&raquo; <a href="http://pixelles.ca/">Les Pixelles</a>, initiative feministe dans les jeux vid&eacute;o, prend les inscriptions pour la prochaine session &#8212; contactez-les avant le 6 d&eacute;c.!
  &raquo;&raquo; The <a href="http://prince.mrgs.ca">Prince of Arcade</a> party is next Monday. Have you <a href="https://gumroad.com/l/PbIe">bought your tickets</a>?
 LES JEUX / GAMES
- &raquo;&raquo; <em><a href="http://trapsgame.com/">Traps</a></em>, <a href="http://radosjovanovic.com/">Rados Jovanovic</a> &#038; <a href="http://www.zhannabrener.com/">Zhanna Brener</a> (w/secret music button)
- &raquo;&raquo; <em><a href="http://ginaharaszti.com/games/DrBob.exe">dr. b(o)b</em></a>, <a href="http://ginaharaszti.com/">Gina Haraszti</a> &#038; Nick Kornek
- &raquo;&raquo; <em><a href="http://www.youtube.com/watch?v=8Moh11TLN2g">Don&#8217;t Make Me Turn This Car Around</a></em>, Simon Pr&eacute;fontaine
- &raquo;&raquo; <em><a href="http://www.puzzlescript.net/play.html?p=7320353">The Burden of Friendship</a></em>, <a href="http://deranged-hermit.blogspot.ca/">The Deranged Hermit</a>
+ &raquo;&raquo; *<a href="http://trapsgame.com/">Traps</a>*, <a href="http://radosjovanovic.com/">Rados Jovanovic</a> &#038; <a href="http://www.zhannabrener.com/">Zhanna Brener</a> (w/secret music button)
+ &raquo;&raquo; *<a href="http://ginaharaszti.com/games/DrBob.exe">dr. b(o)b*</a>, <a href="http://ginaharaszti.com/">Gina Haraszti</a> &#038; Nick Kornek
+ &raquo;&raquo; *<a href="http://www.youtube.com/watch?v=8Moh11TLN2g">Don&#8217;t Make Me Turn This Car Around</a>*, Simon Pr&eacute;fontaine
+ &raquo;&raquo; *<a href="http://www.puzzlescript.net/play.html?p=7320353">The Burden of Friendship</a>*, <a href="http://deranged-hermit.blogspot.ca/">The Deranged Hermit</a>
  &nbsp;
  &nbsp;</p>

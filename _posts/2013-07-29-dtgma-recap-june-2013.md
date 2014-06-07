@@ -22,22 +22,22 @@ It&#8217;s been a busy month of attending <a href="https://www.facebook.com/even
       
       <ul>
         <li>
-          [DTGMA] <a href="http://tanyaxshort.com/agnostic.html"><em>Agnostic</em></a>, Tanya Short
+          [DTGMA] <a href="http://tanyaxshort.com/agnostic.html">*Agnostic*</a>, Tanya Short
         </li>
         <li>
-          [DTGMA] <a href="http://oldforum.mrgs.ca/index.php/topic,94.0.html"><em>Skyvine</em></a>, Pierre-Luc Poirier and Caroline Breault
+          [DTGMA] <a href="http://oldforum.mrgs.ca/index.php/topic,94.0.html">*Skyvine*</a>, Pierre-Luc Poirier and Caroline Breault
         </li>
         <li>
-          [DTGMA] <em>Wind Tunnel</em>, Peter Wilson
+          [DTGMA] *Wind Tunnel*, Peter Wilson
         </li>
         <li>
-          <em>Capsize</em> by <a href="https://twitter.com/ckjong">Carolyn Jong</a> and <a href="http://www.joachimdespland.com/">Joachim Despland</a>
+          *Capsize* by <a href="https://twitter.com/ckjong">Carolyn Jong</a> and <a href="http://www.joachimdespland.com/">Joachim Despland</a>
         </li>
         <li>
-          <em>Invasion of the Brain-Sucking Brains</em>, <a href="http://dom2d.squarespace.com/">Dom2D</a>
+          *Invasion of the Brain-Sucking Brains*, <a href="http://dom2d.squarespace.com/">Dom2D</a>
         </li>
         <li>
-          <a href="http://www.starwhal.com"><em>Starwhal</em></a>, <a href="http://www.breakfall.ca/">Breakfall</a>
+          <a href="http://www.starwhal.com">*Starwhal*</a>, <a href="http://www.breakfall.ca/">Breakfall</a>
         </li>
       </ul>
 &nbsp;

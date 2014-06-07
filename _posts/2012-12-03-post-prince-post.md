@@ -26,19 +26,19 @@ Et pour finir, merci infiniment à tous nous créateurs indépendants pour parta
 
         
 
-<em><strong><a href="http://barabariball.com/">BaraBariBall</a></strong></em> — <a href="http://strangeflavor.net/">Noah Sasso</a>
+*<strong><a href="http://barabariball.com/">BaraBariBall</a></strong>* — <a href="http://strangeflavor.net/">Noah Sasso</a>
 
-<em><strong><a href="http://dev.datatragedy.com/projects/moabd/">Memory of a Broken Dimension</a></strong></em> — <a href="http://www.datatragedy.com/">DATATRAGEDY</a>
+*<strong><a href="http://dev.datatragedy.com/projects/moabd/">Memory of a Broken Dimension</a></strong>* — <a href="http://www.datatragedy.com/">DATATRAGEDY</a>
 
-<em><strong><a href="http://www.byfernando.com/blog/?p=547">Panoramical</a></strong></em> — <a href="http://www.byfernando.com/">Fernando Ramallo</a> & <a href="http://davidkanaga.com/">David Kanaga</a>
+*<strong><a href="http://www.byfernando.com/blog/?p=547">Panoramical</a></strong>* — <a href="http://www.byfernando.com/">Fernando Ramallo</a> & <a href="http://davidkanaga.com/">David Kanaga</a>
 
-<em><strong><a href="http://hermitgames.com/qrthphyl.php">qrth-phyl</a></strong></em> — <a href="http://hermitgames.com/">hermitgames</a>
+*<strong><a href="http://hermitgames.com/qrthphyl.php">qrth-phyl</a></strong>* — <a href="http://hermitgames.com/">hermitgames</a>
 
-<em><strong><a href="http://forums.tigsource.com/index.php?topic=25183.0">Rain World</a></strong></em> — Joar Jakobsson
+*<strong><a href="http://forums.tigsource.com/index.php?topic=25183.0">Rain World</a></strong>* — Joar Jakobsson
 
-<em><strong>Samurai Gunn</strong></em> — <a href="http://teknopants.com/">Teknopants</a>
+*<strong>Samurai Gunn</strong>* — <a href="http://teknopants.com/">Teknopants</a>
 
-<em><strong>Tennnes</strong></em> — <a href="http://slordig.thepoppenkast.com/">Jan Willem Nijman</a>
+*<strong>Tennnes</strong>* — <a href="http://slordig.thepoppenkast.com/">Jan Willem Nijman</a>
  ![tennnes]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/tennnes.jpg)
 <center>
           &#8212;&#8212;&#8212;
@@ -61,7 +61,7 @@ Et pour finir, merci infiniment à tous nous créateurs indépendants pour parta
  <center>
                           &#8212;&#8212;&#8212;
                         </center>
-<em>Photos via <a href="https://secure.flickr.com/people/electric_ant/">Antonella</a> & <a href="https://twitter.com/sagzorz/">Sagar</a></em>&#8230;
+*Photos via <a href="https://secure.flickr.com/people/electric_ant/">Antonella</a> & <a href="https://twitter.com/sagzorz/">Sagar</a>*&#8230;
 ![resize-poa2012-03]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-03.jpg)
 ![resize-poa2012-04]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-04.jpg)
 ![resize-poa2012-08]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-08.jpg)

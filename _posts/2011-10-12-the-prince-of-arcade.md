@@ -20,15 +20,15 @@ You are awakened from a troubled sleep. In the darkness, a blinding light! A vis
 &#8212; Weighing in at an intangible number of pounds &#8212;
 &#8212; BEHOLD &#8212;
 <h4>
-    <em>THE PRINCE HAS RETURNED</em>
+    *THE PRINCE HAS RETURNED*
   </h4>
 </center>
 <a href="http://www.montrealindies.com/?p=115">Last year</a>&#8216;s party was such a beautiful success, we&#8217;re once again packing an art gallery full to bursting with drinks, music, and indie gaming joy, and dancing until the cows come home (the cows come home at 1am as per municipal bylaw).
-<em>Sling those informations!</em>
+*Sling those informations!*
 The <a href="http://www.montrealindies.com">Mount Royal Game Society</a> and <a href="http://www.dirty-rectangles.com/">Dirty Rectangles</a> present:
 <ul>
     <li>
-      <b><em>THE PRINCE OF ARCADE</b></em> <ul>
+      <b>*THE PRINCE OF ARCADE</b>* <ul>
         <li>
           Wednesday, November 2, 2011, 8pm
         </li>

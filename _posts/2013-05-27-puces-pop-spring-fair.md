@@ -22,11 +22,11 @@ On amène avec nous l&#8217;Arcade Royale pour présenter les jeux des artistes 
  
 
 <p>
-            <em>WHEN?</em>
+            *WHEN?*
  Friday, May 31st (18h00-21h00)
  Saturday, June 1st (11h00-18h00)
  Sunday, June 2nd (11h00-18h00)
-<em>WHERE?</em>
+*WHERE?*
  Saint-Michael Church, 105 Saint-Viateur West
  (<a href="https://maps.google.ca/maps?q=saint-michael+church,+montreal">Directions</a>)
  
@@ -34,11 +34,11 @@ On amène avec nous l&#8217;Arcade Royale pour présenter les jeux des artistes 
  
 
 <p>
-                <em>QUAND?</em>
+                *QUAND?*
  Vendredi 31 mai (18h00-21h00)
  Samedi 1 juin (11h00-18h00)
  Dimanche 2 juin (11h00-18h00)
-<em>OÙ?</em>
+*OÙ?*
  Église Saint-Michael, 105 Saint-Viateur Ouest
  (<a href="https://maps.google.ca/maps?q=saint-michael+church,+montreal">Directions</a>)
  

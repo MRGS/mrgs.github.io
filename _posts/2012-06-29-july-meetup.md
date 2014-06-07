@@ -37,26 +37,26 @@ categories:
 
 
 
-  <em>WHEN</em>
+  *WHEN*
  Wednesday, July 4th, 19h30</p> <p>
-    <em>WHERE</em>
+    *WHERE*
  Brasserie Artisanale l’Am&egrave;re &agrave; boire
  2049 rue Saint-Denis, 3rd floor
-<em>WHAT</em>
+*WHAT*
 
-      <em>QUAND?</em>
+      *QUAND?*
  Mercredi 4 juillet, 19h30</p> <p>
-        <em>O&Ugrave;?</em>
+        *O&Ugrave;?*
  Brasserie Artisanale l&#8217;Am&egrave;re &agrave; boire
  2049 rue Saint-Denis, 3e &eacute;tage
-<em>QUOI?</em>
+*QUOI?*
  
 
         
 
         
         
-          The <a href="http://www.rhok.org">Random Hacks of Kindness</a> movement creates software for social change &#8212; and we here at MRGS do like societies! This past June 1st-3rd saw <a href="http://www.rhok.org/event/montr%C3%A9al-canada-0">RHoK Montr&eacute;al</a> jamming on games for social change &#8212; and we here at MRGS <em>really</em> like games and societies! Happily, then, we&#8217;ll be checking out some of the awesome RHoK games to come out of this latest jam &#8212; and, Jah willing, staying fresh and cool.
+          The <a href="http://www.rhok.org">Random Hacks of Kindness</a> movement creates software for social change &#8212; and we here at MRGS do like societies! This past June 1st-3rd saw <a href="http://www.rhok.org/event/montr%C3%A9al-canada-0">RHoK Montr&eacute;al</a> jamming on games for social change &#8212; and we here at MRGS *really* like games and societies! Happily, then, we&#8217;ll be checking out some of the awesome RHoK games to come out of this latest jam &#8212; and, Jah willing, staying fresh and cool.
         
 
         

@@ -22,18 +22,18 @@ Meetup: Can You Dig It?
 
         
         
-<em>WHEN?</em>
+*WHEN?*
  Wednesday, April 3rd, 19h30
-<em>WHERE?</em>
+*WHERE?*
  <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
  5788 boul. St.-Laurent
  On the 55 bus line, and a short walk from Rosemont metro
  (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
  
 
-<em>QUAND?</em>
+*QUAND?*
  Mercredi 3 avril 19h30
-<em>OÙ?</em>
+*OÙ?*
  <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
  5788 boul. St.-Laurent
  Sur la ligne du 55, et tout pr&egrave;s du m&eacute;tro Rosemont

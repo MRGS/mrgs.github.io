@@ -33,7 +33,7 @@ LES ANNONCES / ANNOUNCEMENTS
           <a href="https://www.facebook.com/events/552498724813959/">WIGI &#038; Pixelles Social</a>: Celebrating Mentorship &#8212; Aug. 21!
         </li>
         <li>
-          <a href="http://tag.hexagram.ca/events/skyrim-modding-workshop-making-strange/"><em>Skyrim</em> modding workshop</a> &#8212; Make strange things Aug. 25!
+          <a href="http://tag.hexagram.ca/events/skyrim-modding-workshop-making-strange/">*Skyrim* modding workshop</a> &#8212; Make strange things Aug. 25!
         </li>
         <li>
           <a href="https://www.facebook.com/RetrovisionRecreation">R&eacute;trovision</a> &#8212; soir&eacute;e de jeux r&eacute;tro, Sep. 6!
@@ -45,25 +45,25 @@ LES ANNONCES / ANNOUNCEMENTS
 LES JEUX / GAMES
 <ul>
         <li>
-          <a href="http://www.beavernutsgames.com/games.html"><em>Battle Type</em></a>, Beaver Nuts
+          <a href="http://www.beavernutsgames.com/games.html">*Battle Type*</a>, Beaver Nuts
         </li>
         <li>
-          <a href="http://www.gentlemenricochet.com/"><em>Gentlemen&#8230;Ricochet</em></a>, B&iuml;tse Games
+          <a href="http://www.gentlemenricochet.com/">*Gentlemen&#8230;Ricochet*</a>, B&iuml;tse Games
         </li>
         <li>
-          <a href="https://www.facebook.com/heroesofzulula"><em>Heroes of Zulula</em></a>, Exequor Studios
+          <a href="https://www.facebook.com/heroesofzulula">*Heroes of Zulula*</a>, Exequor Studios
         </li>
         <li>
-          <a href="http://files.q-bit.ca/machete-mrgs-demo.air"><em>Machete</em></a>, Q-Bit Games
+          <a href="http://files.q-bit.ca/machete-mrgs-demo.air">*Machete*</a>, Q-Bit Games
         </li>
         <li>
-          <a href="http://papercade.com/"><em>Papercade</em></a>, Hololabs
+          <a href="http://papercade.com/">*Papercade*</a>, Hololabs
         </li>
         <li>
-          <a href="http://nihilocrat.tumblr.com/post/57032993683/skyrogue-alpha"><em>skyRogue</em></a>, Kenny Backus
+          <a href="http://nihilocrat.tumblr.com/post/57032993683/skyrogue-alpha">*skyRogue*</a>, Kenny Backus
         </li>
         <li>
-          <a href="https://www.youtube.com/user/smikesmike05"><em>Sunato</em></a>, Michael Shaevitch
+          <a href="https://www.youtube.com/user/smikesmike05">*Sunato*</a>, Michael Shaevitch
         </li>
       </ul>
 &nbsp;

@@ -21,22 +21,22 @@ categories:
   - Meetups
 ---
 
-April has followed <em>suspiciously quickly</em> on March, which means it&#8217;s time for another annual April Meetup! This time around, we&#8217;re kicking it middle-school and heading back to our regularly-haunted haunt: <a href="http://www.amereaboire.com/">L&#8217;Amère à boire</a>, which we haven&#8217;t visited since our last annual January Meetup.
+April has followed *suspiciously quickly* on March, which means it&#8217;s time for another annual April Meetup! This time around, we&#8217;re kicking it middle-school and heading back to our regularly-haunted haunt: <a href="http://www.amereaboire.com/">L&#8217;Amère à boire</a>, which we haven&#8217;t visited since our last annual January Meetup.
 
 Le temps passe si vite que nous sommes déjà en avril! Puisque nous n&#8217;avons pas dégusté la bière de <a href="http://www.amereaboire.com/">l&#8217;Amère à boire</a> depuis janvier, nous revenons à nos vieilles habitudes! La rencontre de ce mois-ci se fera donc rue St-Denis.
 
         
 
 
-          <em>WHEN</em>
+          *WHEN*
  Wednesday, April 4th, 19h30</p> <p>
-            <em>WHERE</em>
+            *WHERE*
  <strong>Brasserie Artisanale l’Amère à boire</strong>
  2049 rue Saint-Denis, 3rd floor
-<em>WHAT</em>
+*WHAT*
  This weekend&#8217;s <a href="http://www.whatwouldmolydeux.com/">MolyJam</a> (What Would Molydeux?) is approaching at the alarming rate of approximately 60 seconds/minute. You&#8217;ve already registered for the <a href="http://www.facebook.com/events/274617842613476/">Montreal branch</a>, naturally, and sampled from the veritable <a href="http://docs.google.com/spreadsheet/ccc?key=0AmKS9o_SW0ovdHZDYWVHb0lOa1NJV3FST3h3UGFOTFE#gid=0">fount of inspiration</a>. The rest is just details and feelings.
 We therefore invite any and all MolyJammers to play Show and Molytell at the upcoming meetup &#8212; so bring along your games! And your harsh, harsh criticisms of others! It&#8217;s what Moly would deux.
-<em>[Note to self: Change last bit; not good English or any known language, I think.]</em>
+*[Note to self: Change last bit; not good English or any known language, I think.]*
 
               QUAND?
  Mercredi 4 avril à 19h30</p> <p>

@@ -32,8 +32,8 @@ DTGMA-VII
  &raquo;&raquo; Sad Games
  &raquo;&raquo; Bats
 LES JEUX / GAMES
- &raquo;&raquo; <em><a href="http://www.talesofgames.com/game/barkley-2-revenge-of-cuchulainn/">Barkley 2</a></em>, <a href="http://www.frankiesmileshow.com/">Frankie Coulombe</a> &#038; <a href="http://www.talesofgames.com/">Tales of Games</a>
- &raquo;&raquo; <em><a href="http://waragentgame.com/">War Agent</a></em>, Drift On Studio
- &raquo;&raquo; <em><a href="http://chromatosegame.wordpress.com/">Chromatose</a></em>, <a href="http://martinechapuis.net/#Fifty-_nine">Martine Chapuis</a>
- &raquo;&raquo; <em><a href="http://fserb.com/ld27/">Every 10 Seconds a Window Washer Falls to His Death</a></em>, <a href="http://dom2d.squarespace.com/">Dom2D</a>
+ &raquo;&raquo; *<a href="http://www.talesofgames.com/game/barkley-2-revenge-of-cuchulainn/">Barkley 2</a>*, <a href="http://www.frankiesmileshow.com/">Frankie Coulombe</a> &#038; <a href="http://www.talesofgames.com/">Tales of Games</a>
+ &raquo;&raquo; *<a href="http://waragentgame.com/">War Agent</a>*, Drift On Studio
+ &raquo;&raquo; *<a href="http://chromatosegame.wordpress.com/">Chromatose</a>*, <a href="http://martinechapuis.net/#Fifty-_nine">Martine Chapuis</a>
+ &raquo;&raquo; *<a href="http://fserb.com/ld27/">Every 10 Seconds a Window Washer Falls to His Death</a>*, <a href="http://dom2d.squarespace.com/">Dom2D</a>
  &nbsp;

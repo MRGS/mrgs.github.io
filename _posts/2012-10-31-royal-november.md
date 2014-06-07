@@ -9,25 +9,25 @@ categories:
 ---
 
 It&#8217;s meetup time! Let&#8217;s see the important stuff first:
-<em>WHEN?</em>
+*WHEN?*
  Wednesday, November 7th, 19h30
-<em>WHERE?</em>
+*WHERE?*
  <strong><a href="http://royalphoenixbar.com/">The Royal Phoenix</a></strong>
  5788 boul. St.-Laurent
  On the 55 bus line, and a short walk from Rosemont metro
  (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
-<em>WHAT?</em>
+*WHAT?*
  The games of the <a href="http://oldforum.mrgs.ca/index.php/topic,55.0.html">Downtown Trimester Game-Making Adventure</a>, of course! Game jams were had, ideas were reified, hijinx were had. Let&#8217;s see what all the fuss was about.
 
 C&#8217;est le temps d&#8217;un autre rendez-vous! Les faits saillants:
-<em>QUAND?</em>
+*QUAND?*
  Mercredi 7 novembre, 19h30
-<em>OÙ?</em>
+*OÙ?*
  <strong><a href="http://royalphoenixbar.com/">The Royal Phoenix</a></strong>
  5788 boul. St.-Laurent
  Sur la ligne du 55, et tout pr&egrave;s du m&eacute;tro Rosemont
  (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
-<em>QUOI?</em>
+*QUOI?*
  Retour sur notre troisi&egrave;me &laquo;<a href="http://oldforum.mrgs.ca/index.php/topic,55.0.html">Downtown Trimester Game-Making Adventure</a>&raquo;, bien s&ucirc;r! Voyons ce que donne tous les projets du &laquo;game jam&raquo; ce dernier weekend!
  
 

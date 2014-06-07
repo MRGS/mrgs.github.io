@@ -27,12 +27,12 @@ Le Centre NAD offre le s&eacute;rie <a href="http://elite.nad.ca/fr/">ELITE</a> 
 Les <a href="http://forum.mrgs.ca/">forums</a> du SLMR sont en besoin d&#8217;un/e b&eacute;n&eacute;vole avec de l&#8217;exp&eacute;rience en Ruby pour effectuer des r&eacute;parations. <a href="mailto:bakedgoods@mrgs.ca">Contactez-nous</a>! &nbsp; // The MRGS <a href="http://forum.mrgs.ca">forums</a> are in need of a volunteer with experience in Ruby to fix them up and bring them back to life! <a href="mailto:bakedgoods@mrgs.ca">Get in touch</a>!
 ---
 <strong>LES JEUX / GAMES</strong>
-<em><a href="http://juicybeast.itch.io/frox">Frox</a></em>. Juicy Beast.
- <em><a href="http://julian-spillane.itch.io/load-runner-tojam-edition">Load Runner</a></em>. John Axon, Marion Esquian, Stephane Goulet, Julian Spillane.
- <em><a href="http://renaudbedard.itch.io/malisse">Malisse</a></em>. Les Coll&eacute;giennes
- <em><a href="http://notaliensagain.itch.io/renegades-rage">Renegade&#8217;s Rage</a></em>. Chef Boyardee, Fran&ccedil;is Coulombe, Lord Mo, Lurdiak, The Monster King.
- <em><a href="http://globalgamejam.org/2014/games/resonance">Resonance</a></em>. Chas Elterman, Eric L&eacute;vell&eacute;e, Chris Olimpo, Jonathan Perreault, Matt Pilon, Timoth&eacute;e Rabaud, Ian Sartwell.
- <em><a href="http://www.kitfoxgames.com/shattered-planet/">Shattered Planet</a></em>. Kitfox Games.
- <em><a href="http://trancegame.blogspot.ca/">Trance</a></em>. Martin Brochu &#038; Pablo Bredow.
+*<a href="http://juicybeast.itch.io/frox">Frox</a>*. Juicy Beast.
+ *<a href="http://julian-spillane.itch.io/load-runner-tojam-edition">Load Runner</a>*. John Axon, Marion Esquian, Stephane Goulet, Julian Spillane.
+ *<a href="http://renaudbedard.itch.io/malisse">Malisse</a>*. Les Coll&eacute;giennes
+ *<a href="http://notaliensagain.itch.io/renegades-rage">Renegade&#8217;s Rage</a>*. Chef Boyardee, Fran&ccedil;is Coulombe, Lord Mo, Lurdiak, The Monster King.
+ *<a href="http://globalgamejam.org/2014/games/resonance">Resonance</a>*. Chas Elterman, Eric L&eacute;vell&eacute;e, Chris Olimpo, Jonathan Perreault, Matt Pilon, Timoth&eacute;e Rabaud, Ian Sartwell.
+ *<a href="http://www.kitfoxgames.com/shattered-planet/">Shattered Planet</a>*. Kitfox Games.
+ *<a href="http://trancegame.blogspot.ca/">Trance</a>*. Martin Brochu &#038; Pablo Bredow.
  &nbsp;
  &nbsp;

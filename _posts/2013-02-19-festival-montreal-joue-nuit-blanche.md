@@ -26,32 +26,32 @@ Also! MRGS will once again be participating in the [SAT&#8217;s Nuit Blanche fes
 Lineup of Royale games by our wonderful cast of developers:
 
 <p align="center">
-  <em>Fuzzer</em> by <a href="http://henk.ca">Henk Boom</a>
+  *Fuzzer* by <a href="http://henk.ca">Henk Boom</a>
  <a href="http://henk.ca">![fuzzer600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/fuzzer600.jpg)</a>
 <p align="center">
-  <em>Game Game Videogame </em>by<em> </em><a href="http://www.joachimdespland.com/gamegamevideogame.html">Joachim Despland</a>
+  *Game Game Videogame *by* *<a href="http://www.joachimdespland.com/gamegamevideogame.html">Joachim Despland</a>
  <a href="http://www.joachimdespland.com/gamegamevideogame.html">![gamegamevideogame600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/gamegamevideogame600.jpg)</a>
 <p align="center">
-  <em>Greedy Piggy Chase</em> by <a href="http://dom2d.com/?portfolio=slimeful-greedy-piggy-chase" target="_blank">Neverpants Studio</a>
+  *Greedy Piggy Chase* by <a href="http://dom2d.com/?portfolio=slimeful-greedy-piggy-chase" target="_blank">Neverpants Studio</a>
  <a href="http://dom2d.com/?portfolio=slimeful-greedy-piggy-chase">![greedypiggychase600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/greedypiggychase600.jpg)</a>
 <p align="center">
-  <em>Pax Britannica</em> by  <a href="http://paxbritannica.henk.ca/">No Fun Games</a>
+  *Pax Britannica* by  <a href="http://paxbritannica.henk.ca/">No Fun Games</a>
  <a href="http://paxbritannica.henk.ca/">![paxbritannica600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/paxbritannica600.jpg)</a>
 <p align="center">
-  <em>Space Dastards </em> with <a href="http://www.sauropodstudio.com">Sauropod Studio</a>
+  *Space Dastards * with <a href="http://www.sauropodstudio.com">Sauropod Studio</a>
  <a href="http://www.sauropodstudio.com">![spacebastards600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/spacebastards600.jpg)</a>
 <p align="center">
-  <em>SWOOOORDS! by <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">Kenny Backus</a></em>
+  *SWOOOORDS! by <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">Kenny Backus</a>*
  <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">![swoooords600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/swoooords600.jpg)</a>
 <p align="center">
-  <em>Thrustburst </em> by <a href="http://umlautgames.net">Umlautgames</a>
+  *Thrustburst * by <a href="http://umlautgames.net">Umlautgames</a>
  <a href="http://umlautgames.net">![thrustburst600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/02/thrustburst.png)</a>
 <p align="center">
-  <em>Verteidiger</em> by <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">Kenny Backus</a>
+  *Verteidiger* by <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">Kenny Backus</a>
 <p align="center">
-  <em id="__mceDel"> <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">![verteidiger600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/verteidiger600.jpg)</a></em>
+  <em id="__mceDel"> <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">![verteidiger600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/verteidiger600.jpg)</a>*
 <p align="center">
-  <em>Volkenessen</em> by <a href="http://theinstructionlimit.com/games">Les Collégiennes</a>
+  *Volkenessen* by <a href="http://theinstructionlimit.com/games">Les Collégiennes</a>
  <a href="http://theinstructionlimit.com/games">![volkenessen600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/volkenessen600.jpg)</a>
 There may even be more to announce in terms of programming in the near future, stay tuned.
 
