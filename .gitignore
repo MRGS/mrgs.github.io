@@ -34,9 +34,9 @@ Thumbs.db
 
 # Ignore for Yeoman-Jekyll projects #
 _bower_components
-dist
 node_modules
 .tmp
+.build
 
 # Additional ignores
 *.sublime-workspace
