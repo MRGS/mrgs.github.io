@@ -10,13 +10,17 @@ categories:
 ---
 ![WebsiteRecap-Header-650x241px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/WebsiteRecap-Header-650x241px.jpg)
 
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had the <a href="{{ site.baseurl }}/2013/09/meetup-2-oct/">October Meetup</a> this past Wednesday.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/09/meetup-2-oct/">meetup</a> de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
-</div>
+
+
 ---
 LES ANNONCES / ANNOUNCEMENTS
  &raquo;&raquo; The 10th <a href="http://mtldgtl.com/en/migs/">Montreal International Game Summit</a> is coming up in just over a month!

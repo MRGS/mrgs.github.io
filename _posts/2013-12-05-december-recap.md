@@ -9,14 +9,18 @@ categories:
 ---
 ![2013-12-meetup]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/12/2013-12-meetup.jpg)
 
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had the <a href="{{ site.baseurl }}/2013/11/meetup-4-dec/">December</a> meetup this past Wednesday.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/11/meetup-4-dec/">meetup</a> de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
  &nbsp;
-</div>
+
+
 ---
 LES ANNONCES / ANNOUNCEMENTS
  &raquo;&raquo; &Eacute;coutez &#8220;<a href="http://www.onajusteunevie.ca/p/podcasts.html">On a juste une vie</a>,&#8221; nouveau podcast sur la culture et la critique des jeux.

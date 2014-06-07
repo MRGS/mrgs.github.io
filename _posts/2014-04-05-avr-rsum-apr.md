@@ -7,14 +7,18 @@ categories:
   - Games
   - Meetups
 ---
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had at the <a href="{{ site.baseurl }}/2014/03/meetup-apr-2-avr/">meetup</a> this past Wednesday.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2014/03/meetup-apr-2-avr/">meetup</a> de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
  &nbsp;
-</div>
+
+
 ---
 <strong>LES ANNONCES / ANNOUNCEMENTS</strong>
 The ninth iteration of the <a href="http://www.tojam.ca/home/default.asp">Toronto Game Jam</a> has been <a href="https://twitter.com/torontogamejam/status/452107460879216640">officially announced</a>! April 25-27th, open to everyone, and rad as heck &#8212; if you can make it out, it&#8217;s one of the most enjoyable jams of the year.

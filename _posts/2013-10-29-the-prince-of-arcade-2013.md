@@ -12,7 +12,8 @@ tags:
 ---
 ![The Prince of Arcade 2013]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/PoA-web-650px1.png)
 
-<div class="large-6 columns ">
+
+
 Amid the darkening mornings and the frigid nights, a light is rising:
 
  THE PRINCE IS BACK.
@@ -29,7 +30,9 @@ For the fourth year running, The Prince of Arcade is filling the Eastern Bloc Ne
  <<< <a href="http://prince.mrgs.ca">MORE INFO &#038; GAMES LIST</a> >>>
 
  &rarr; <a href="https://gum.co/PbIe">PRE-ORDER TICKETS</a> ($10) &larr;
-</div><div class="large-6 columns ">
+
+
+
 Triomphant des matins sombres et des nuits frigides, une nouvelle lumière se lève –
 LE PRINCE EST DE RETOUR!
 ---
@@ -42,7 +45,9 @@ Pour une quatrième année consécutive, la soirée Prince of Arcade remplit le 
  <<< <a href="http://prince.mrgs.ca">INFOS &#038; LISTE DE JEUX</a> >>>
 
  &rarr; <a href="https://gum.co/PbIe">COMMANDEZ VOS BILLETS</a> (10$) &larr;
-</div><div class="large-12 columns ">
+
+
+
           <p align="center">
             &nbsp;
  <a href="http://easternbloc.ca/">Eastern Bloc</a>
@@ -50,7 +55,8 @@ Pour une quatrième année consécutive, la soirée Prince of Arcade remplit le 
  11 Nov. 2013
  20h00 &#8211; 01h00
  &nbsp;
-</div>
+
+
  ![PoA-vectorfolks-650px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/10/PoA-vectorfolks-650px.png)
  &nbsp;
  &nbsp;

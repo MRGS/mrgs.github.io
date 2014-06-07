@@ -10,13 +10,17 @@ categories:
 ---
 ![photo1_crop_650px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/11/photo1_crop_650px.jpg)
 
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had the <a href="{{ site.baseurl }}/2013/11/meetup-6-nov/">November</a> meetup this past Wednesday.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/11/meetup-6-nov/">meetup</a> de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
-</div>
+
+
 ---
 LES ANNONCES / ANNOUNCEMENTS
  &raquo;&raquo; <a href="https://www.facebook.com/miscellaneumstudios">Miscellaneum Studios</a> is working on Montreal-based zombie-apocalypse series <a href="http://facebook.com/zisleseries">Z&#8217;Isle</a>, with a launch party at the Royal Phoenix on Nov. 14th.

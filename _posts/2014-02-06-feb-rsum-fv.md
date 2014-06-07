@@ -7,14 +7,18 @@ categories:
   - Announcements
   - Games
 ---
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had the <a href="{{ site.baseurl }}/2014/01/meetup-feb-5-fv/">February meetup</a> this past Wednesday.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2014/01/meetup-feb-5-fv/">meetup</a> de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
  &nbsp;
-</div>
+
+
 ---
 <strong>LES ANNONCES / ANNOUNCEMENTS</strong>
  Le podcast <a href="http://www.onajusteunevie.ca/">On a juste une vie</a> vous invite &agrave; venir parler de vos projets et de vos jeux &agrave; leur &eacute;mission.

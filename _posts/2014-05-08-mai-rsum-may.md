@@ -7,14 +7,18 @@ categories:
   - Games
   - Meetups
 ---
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had at the <a href="{{ site.baseurl }}/2014/05/meetup-mai-7-may/">meetup</a> this past Wednesday.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2014/05/meetup-mai-7-may/">meetup</a> de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
  &nbsp;
-</div>
+
+
 ---
 <strong>LES ANNONCES / ANNOUNCEMENTS</strong>
 Le 82e <a href="http://www.acfas.ca/evenements/congres/programme/82/special/232615">Congr&egrave;s de l&#8217;Acfas</a> d&eacute;bute bient&ocirc;t, et la SLMR s&#8217;organise avec l&#8217;Universit&eacute; Concordia pour une conf&eacute;rence et une <a href="{{ site.baseurl }}/2014/05/acfas-la-culture-ludique-actuelle/">arcade publique</a>. (11 mai) &nbsp; //&nbsp; The 82nd <a href="http://www.acfas.ca/evenements/congres/programme/82/special/232615">ACFAS conference</a> is beginning soon, and MRGS has joined up with Concordia University for a talk and <a href="{{ site.baseurl }}/2014/05/acfas-la-culture-ludique-actuelle/">public arcade</a>.

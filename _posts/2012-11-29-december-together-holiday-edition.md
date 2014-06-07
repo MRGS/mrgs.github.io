@@ -19,7 +19,8 @@ Bring your laptops, your demos, and (why not) an amusing hat, and we&#8217;ll pl
  On the 55 bus line, and a short walk from Rosemont metro
  (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
 <em>WHAT?</em>
- It&#8217;s a social! Bring your game demos already!</div>
+ It&#8217;s a social! Bring your game demos already!
+
 D&eacute;cembre est &agrave; nos portes! Les F&ecirc;tes approchent, mais avant toute chose, c&#8217;est &agrave; nouveau le temps du mois o&ugrave; l&#8217;on se retrouve au Royal Phoenix histoire de boire quelques bi&egrave;res et de partager nos nouvelles d&eacute;couvertes/id&eacute;es/cr&eacute;ations de jeux vid&eacute;o!
 Apporter vos ordinateurs, vos d&eacute;mos, et vos chapeaux (pourquoi pas?), et nous terminerons 2012 avec style.
 <em>QUAND?</em>
@@ -31,13 +32,18 @@ Apporter vos ordinateurs, vos d&eacute;mos, et vos chapeaux (pourquoi pas?), et 
  (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
 <em>QUOI?</em>
  Venez nous pr&eacute;senter vos d&eacute;mos! On attend que ça!
- </div>
-        </div>
+ 
+
+        
+
         
         
-Check out the <a href="https://www.facebook.com/events/449328325131894/">Facebook</a>!</div>
+Check out the <a href="https://www.facebook.com/events/449328325131894/">Facebook</a>!
+
               Voir l&#8217;événement <a href="https://www.facebook.com/events/449328325131894/">Facebook</a>!
-            </div>
+            
+
             
             
-            </div>
+            
+

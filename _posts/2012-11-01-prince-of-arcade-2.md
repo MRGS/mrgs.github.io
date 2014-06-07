@@ -123,7 +123,8 @@ Tennis like you&#8217;ve never Ponged it before!
 [![logo]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/logo.png)][22]
 
 <div>
-</div>
+
+
 
  [1]: https://www.facebook.com/events/413416385392229/
  [2]: http://www.mrgs.ca/?p=115

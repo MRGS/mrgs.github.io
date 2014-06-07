@@ -9,13 +9,17 @@ categories:
 ---
 ![Meetup-2013-08-panorama-650px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/08/Meetup-2013-08-panorama-650px.jpg)
 
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had at last night&#8217;s <a href="{{ site.baseurl }}/2013/07/august-meetup-2/">August Meetup</a>.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/07/august-meetup-2/">meetup</a> d&#8217;hier soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
-</div>
+
+
 ---
 LES ANNONCES / ANNOUNCEMENTS
 <ul>

@@ -14,15 +14,18 @@ First and foremost: thanks to the <a href="http://easternbloc.ca">Eastern Bloc</
 Thanks also to our sponsors &#8212; <a href="http://hexagram.concordia.ca/">Hexagram-Concordia</a>, <a href="http://www.igda.org/montreal">IGDA Montreal</a>, and <a href="http://tag.hexagram.ca/">TAG</a> &#8212; for simplifying the equipment situation and for doing what sponsors do best.
 A massive thanks to all the volunteers who jumped at the chance to run cables all day and/or somehow keep coat check running amidst the chaos &#8212; if the event ran smoothly, it&#8217;s because of your help.
 Thanks to everyone who documented the event! Documents are the best. Check out some of the wonderful <a href="https://secure.flickr.com/photos/mrgs-slmr/sets/72157632158909255/with/8240942895/">photos</a>!
-And finally, thanks to all those indie developers who shared their wonderful games with us. You gave us a reason to celebrate.</div>
+And finally, thanks to all those indie developers who shared their wonderful games with us. You gave us a reason to celebrate.
+
 Le «<a href="{{ site.baseurl }}/2012/11/prince-of-arcade-2/">Prince of Arcade</a>» est passé, laissant derrière lui des résidus électroniques et les souvenirs d&#8217;une belle soirée. Pour cette troisième année consécutive, nous nous sommes une fois de plus rassemblé à cette gallérie d&#8217;art pour célébrer la beauté et l&#8217;ingéniosité des jeux vidéo indépendant. Et ce fut une réussite d&#8217;équipe.
 Avant toute chose, nous souhaitons remercier <a href="http://easternbloc.ca">Eastern Bloc</a>, co-producteurs de l&#8217;évènement, pour nous permettre d&#8217;envahir ce superbe endroit et pour le personnel fantastique!
 Merci à nos commanditaires; <a href="http://hexagram.concordia.ca/">Hexagram-Concordia</a>, <a href="http://www.igda.org/montreal">IGDA Montréal</a> et <a href="http://tag.hexagram.ca/">TAG</a> pour votre générosité et l&#8217;emprunt de matériel.
 Un énorme merci à tous les volontaires, que ce soit à brancher des fils ou à contrôler le chaos du vestiaire &#8212; sans vous la soirée ne se serait pas aussi bien déroulée.
 Merci aux photographes, professionnels ou amateurs, qui ont documenté la soirée à <a href="https://secure.flickr.com/photos/mrgs-slmr/sets/72157632158909255/with/8240942895/">coups de flash</a>.
 Et pour finir, merci infiniment à tous nous créateurs indépendants pour partager avec nous vos extraordinaires jeux vidéo. Vous nous avez donné une raison de célébrer! Cette soirée, c&#8217;était la vôtre.
- </div>
-        </div>
+ 
+
+        
+
 <em><strong><a href="http://barabariball.com/">BaraBariBall</a></strong></em> — <a href="http://strangeflavor.net/">Noah Sasso</a>
 
 <em><strong><a href="http://dev.datatragedy.com/projects/moabd/">Memory of a Broken Dimension</a></strong></em> — <a href="http://www.datatragedy.com/">DATATRAGEDY</a>
@@ -44,12 +47,15 @@ Et pour finir, merci infiniment à tous nous créateurs indépendants pour parta
         
 <center>
               See you all next year.</p> <p>
-                <strong>&#8212; Long Live the Prince &#8212;</strong></center></div>
+                <strong>&#8212; Long Live the Prince &#8212;</strong></center>
+
 <center>
                       À l&#8217;an prochain!</p> <p>
                         <strong>&#8212; Longue vie au Prince! &#8212;</center></strong>
- </div>
-                        </div>
+ 
+
+                        
+
                         
                         
  <center>

@@ -7,7 +7,8 @@ categories:
   - Announcements
   - Events
 ---
-<div class="large-6 columns ">
+
+
 Lynn Hughes présente une conférence sur la culture actuelle des jeux.
 Les jeux ont toujours une image publique associée d’un côté, aux jeux vidéos commerciaux dits blockbusters, souvent violents et sexistes, et de l’autre, à la gamification, où les jeux sont détournés à des fins commerciales ou d’éducation.
 Actuellement nous pouvons faire un parallèle entre les jeux et le cinéma où, dans ces deux champs d’expression culturelle on retrouve un large registre de créations : du plus expérimental, aux œuvres d’auteurs, jusqu’aux productions plus commerciales.
@@ -16,9 +17,11 @@ Il est clair que les jeux sont présentement au centre de la culture actuelle. C
 Les membres du collectif montréalais La Société ludique Mont-Royal sont les commissaires invités pour cette occasion. Après la conférence, le public pourra essayer les jeux expérimentaux et expressifs sélectionnés par ce groupe de concepteurs et leurs allié(e)s.
 Veuillez noter et respecter <a href="http://oldforum.mrgs.ca/index.php/topic,71.0.html">la politique d&#8217;espace sécuritaire</a> de l&#8217;événement.
 ---
-</div>
 
-<div class="large-6 columns ">
+
+
+
+
 <p>
     A discussion of contemporary games culture, with Lynn Hughes.
 Games as a medium – and the video game industry in particular – are often seen from one of two particular perspectives: so-called blockbusters, often overtly exploitative, violent, and sexist; or “gamified” experiences tailored to hyper-commercial ends.
@@ -28,7 +31,9 @@ It is clear that games and game-makers are at the centre of contemporary culture
 As guest curators for the event, the Mount Royal Game Society has selected a number of pieces to challenge the public perception of mainstream games. After the talk, guests are invited to try out these expressive and experimental games representing new media creators and their allies.
 Please note and follow the event&#8217;s <a href="http://oldforum.mrgs.ca/index.php/topic,71.0.html">Safe Spaces Policy</a>.
 ---
-</div><div class="large-6 columns ">
+
+
+
 <p>
         <em>QUAND?</em>
  Dimanche 11 mai, 17h00-23h00
@@ -37,7 +42,9 @@ Please note and follow the event&#8217;s <a href="http://oldforum.mrgs.ca/index.
  1515 Ste.-Catherine Ouest
  Ligne verte du métro
  (<a href="https://www.google.ca/maps/place/1515+Rue+Sainte-Catherine+Ouest/@45.495413,-73.577693,17z/data=!3m1!4b1!4m2!3m1!1s0x4cc91a6a33cf7b2f:0xc7ea08d4caffed42">Directions</a>)
-</div><div class="large-6 columns ">
+
+
+
 <p>
             <em>WHEN?</em>
  Sunday, May 11th, 17h00-23h00
@@ -46,14 +53,19 @@ Please note and follow the event&#8217;s <a href="http://oldforum.mrgs.ca/index.
  1515 Ste.-Catherine West
  Metro green line
  (<a href="https://www.google.ca/maps/place/1515+Rue+Sainte-Catherine+Ouest/@45.495413,-73.577693,17z/data=!3m1!4b1!4m2!3m1!1s0x4cc91a6a33cf7b2f:0xc7ea08d4caffed42">Directions</a>)
- </div><div class="large-6 columns ">
+ 
+
+
               Voir l&#8217;événement sur <a href="https://www.facebook.com/events/1487986284748126/">Facebook</a>!
-            </div>
             
-            <div class="large-6 columns ">
+
+            
+            
+
               Check out the event on <a href="https://www.facebook.com/events/1487986284748126/">Facebook</a>!
 
-            </div>
+            
+
             
             
  &nbsp;

@@ -9,14 +9,18 @@ categories:
 ---
 ![][1]</img>
 
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had at the <a href="{{ site.baseurl }}/2014/02/meetup-mar-5-mar/">meetup</a> this past Wednesday.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2014/02/meetup-mar-5-mar/">meetup</a> de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
  &nbsp;
-</div>
+
+
 ---
 <strong>LES ANNONCES / ANNOUNCEMENTS</strong>
  Le podcast <a href="http://www.lesjeuxsontfaits.ca/">Les jeux sont faits</a> vous offre un regard sur la création, l&#8217;industrie, et la culture des jeux vidéos.

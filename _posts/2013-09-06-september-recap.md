@@ -9,13 +9,17 @@ categories:
 ---
 ![Meetup-2013-09-04-650px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/09/Meetup-2013-09-04-650px.jpg)
 
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had the <a href="{{ site.baseurl }}/2013/08/september-meetup/">September Meetup</a> this past Wednesday.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/08/september-meetup/">meetup</a> de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
-</div>
+
+
 ---
 LES ANNONCES / ANNOUNCEMENTS
  &raquo;&raquo; Sign up for the Dawson College course on <a href="http://www.dawsoncollege.qc.ca/aec-programs/independent-video-game-design">independent video game design</a>!

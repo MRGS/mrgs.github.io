@@ -7,14 +7,18 @@ categories:
   - Games
   - Meetups
 ---
-<div class="large-6 columns ">
+
+
 In which we look back at the variously emotive times we had the <a href="{{ site.baseurl }}/2013/12/meetup-8-jan/">January</a> meetup this past Wednesday.
 Thanks for coming out, everyone!
-</div><div class="large-6 columns ">
+
+
+
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/12/meetup-8-jan/">meetup</a> de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
  &nbsp;
-</div>
+
+
 ---
 <strong>LES ANNONCES / ANNOUNCEMENTS</strong>
  <a href="http://executionlabs.com/en/">Execution Labs</a> is starting a new round of applications for their game development and studio incubator &#8212; inquire within!
