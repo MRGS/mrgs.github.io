@@ -7,7 +7,7 @@ categories:
   - Jams
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/04/SumoHands.jpg" alt="" title="The tragic pre-round confidence." width="600" height="450" class="aligncenter size-full wp-image-176" />
+![The tragic pre-round confidence.]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/04/SumoHands.jpg)
 
 Well blow us down and refer to us collectively as a monkey&#8217;s uncle&#8212;this month&#8217;s meetup was an administrative success for all ages 18 and over!
 

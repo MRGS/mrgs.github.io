@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Events
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/08/MicrotalksLogoUpper.png" alt="" title="TIME ATTACK" width="600" height="274" class="aligncenter size-full wp-image-214" />
+![TIME ATTACK]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/08/MicrotalksLogoUpper.png)
 
 Hey, did you hear? [TIME ATTACK][1] is just around the corner&#8212;in a temporal and non-Euclidean sense! The main event goes down tomorrow night, and all interested parties are invited to check out the [Facebook event page][2], which also serves as an *ultimate official* attendance tally.
 
@@ -17,7 +17,7 @@ Thursday, August 18th, 7pm
 At [Eastern Bloc, 7240 rue Clark, Montreal][3] (Metro De Castelnau)  
 $5
 
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/08/EasternBloc_Location.jpg" alt="" title="" width="312" height="353" class="aligncenter size-full wp-image-216" />
+![]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/08/EasternBloc_Location.jpg)
 
 &#8220;But lo!&#8221; you say (it&#8217;s true, we heard it), &#8220;what brave souls shall present themselves thither for our rhetorical enlightenment?&#8221; We almost know what that means! And so, let us look in anticipation to our speakers, and the delights they have in store&#8230;
 
@@ -67,7 +67,7 @@ And if that isn&#8217;t enough to get you excited, there are pharmaceuticals for
 
 &Agrave; demain!
 
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/08/MicrotalksLogoLower.png" alt="" title="" width="600" height="331" class="aligncenter size-full wp-image-215" />
+![]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/08/MicrotalksLogoLower.png)
 
  [1]: http://www.montrealindies.com/?p=203
  [2]: https://www.facebook.com/event.php?eid=253920077965325

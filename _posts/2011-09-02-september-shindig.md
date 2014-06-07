@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/08/MRGS_11_09_Website.png" alt="" title="MRGS_11_09_Website" width="600" height="100" class="aligncenter size-full wp-image-221" />
+![MRGS_11_09_Website]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/08/MRGS_11_09_Website.png)
 
 September Scheduling Error? September Somewhat Delayed? Slow Down, September? Whatever the nomenclature, take note MRGSers! (Mergseyists? You people.) This month&#8217;s meetup has been *pushed back* to the second week of September. What happened? Did we [attack time][1] so much it hurt? Yes. Yes we did.
 

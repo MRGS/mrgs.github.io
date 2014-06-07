@@ -16,29 +16,29 @@ Well hey there, Sir or Madam.
 Have you heard? The [Prince of Arcade][1] is two days hence, and it&#8217;s looking pretty magical. We&#8217;re storming an art gallery and projecting some of the latest in [beautiful arcade-style indie games][2] on the walls, toasting our health, and incredibleing the night away. And there&#8217;s a superlative Facebook [event][3], for all your legally-binding informational needs!
 
 Oh, and then there&#8217;s this: we&#8217;re unveiling the [Arcade Royale][4].  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/ScanlinesAndGlow.png" alt="" title="ScanlinesAndGlow" width="600" height="150" class="aligncenter size-full wp-image-257" />
+![ScanlinesAndGlow]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/ScanlinesAndGlow.png)
 
 We&#8217;ve been working hard with local hardware hackers the [Buttonmashers][5] and several local developers over the past few weeks, and good heavens are we excited about this thing. Five absolutely delicious multiplayer arcade games from Montreal developers (and one special visitor from out of town!) are loaded up and ready to rock you like a tropical depression at the Prince of Arcade. It&#8217;s overwhelming!
 
 Let&#8217;s get to know our arcade guests, won&#8217;t you?
 
 *Commander* by [Ephemere Games][6]  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/commander-600px.png" alt="" title="commander-600px" width="600" height="450" class="aligncenter size-full wp-image-263" />
+![commander-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/commander-600px.png)
 
 *Fuzzer* by [Henk Boom][7]  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/06/Fuzzer.png" alt="&quot;Fuzzer,&quot; by Henk Boom" title="Fuzzer" width="600" height="300" class="aligncenter size-full wp-image-191" />
+![Fuzzer]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/06/Fuzzer.png)
 
 *Game Game Videogame* by [Joachim Despland][8]  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/gamegamevideogame-600px.png" alt="" title="gamegamevideogame-600px" width="600" height="435" class="aligncenter size-full wp-image-262" />
+![gamegamevideogame-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/gamegamevideogame-600px.png)
 
 *Pax Britannica* by [No Fun Games][9]  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/Pax-Britannica-600px.jpg" alt="" title="Pax-Britannica-600px" width="600" height="450" class="aligncenter size-full wp-image-267" />
+![Pax-Britannica-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/Pax-Britannica-600px.jpg)
 
 *Verteidiger* by [Kenny Backus][10]  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/verteideger-600px.png" alt="" title="verteideger-600px" width="600" height="450" class="aligncenter size-full wp-image-266" />
+![verteideger-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/verteideger-600px.png)
 
 Special Guest: *Thrustburst Arcade* by [Umlautgames][11]  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/Thurstburst-600px.png" alt="" title="Thurstburst-600px" width="600" height="450" class="aligncenter size-full wp-image-265" />
+![Thurstburst-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/Thurstburst-600px.png)
 
 We&#8217;ve had the pleasure of playtesting these games in the Buttonmashers dojo, and the results are astounding. We&#8217;ll be talking more about each game in the weeks to come, but for now head over to the [Buttonmashers website][12] for some sweet, arcadey video action.  
 &nbsp;
@@ -58,7 +58,7 @@ Oh, and hey, our co-organisers the [Dirty Rectangles][13] heard you like arcades
 
 And if *that* weren&#8217;t amazing enough, our friends at [die gute Fabrik][14] have hacked their fabulous *Johann Sebastian Joust* to bring us a brand new creature: *[Joust of Canada][15]*, a Boards of Canada physical bonanzarama. Will there be swords? There may be swords.
 
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/joust_of_canada-600px.png" alt="" title="joust_of_canada-600px" width="600" height="375" class="aligncenter size-full wp-image-264" />  
+![joust_of_canada-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/joust_of_canada-600px.png)  
 &nbsp;
 
 Throw in some surprise special guests, and there is no excuse to miss this! Literally, if the 2012 conspiracy were more than a silly fancy, and the world really were to come apart&#8212;a year early&#8212;in the coming week, and John Cusack&#8217;s Cessna was the only safe harbour left in the world, we would bring the party to the plane and rock these games across the planet Earth.
@@ -67,8 +67,8 @@ See you there.
 
 Long Live the Prince.
 
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-web-600px.png" alt="" title="PoA-flyer-web-600px" width="600" height="400" class="aligncenter size-full wp-image-260" />  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-back-600px.png" alt="" title="PoA-flyer-back-600px" width="600" height="400" class="aligncenter size-full wp-image-252" />  
+![PoA-flyer-web-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-web-600px.png)  
+![PoA-flyer-back-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-back-600px.png)  
 [Facebook event][3]
 
  [1]: http://www.montrealindies.com/princeofarcade/

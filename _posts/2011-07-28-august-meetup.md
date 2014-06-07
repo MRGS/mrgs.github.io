@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/07/MRGS_11_08_Website.png" alt="" title="MRGS_11_08_Website" width="600" height="100" class="aligncenter size-full wp-image-207" />
+![MRGS_11_08_Website]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/07/MRGS_11_08_Website.png)
 
 *You awaken from a deep slumber. There is an INTERNET to the NORTH. AUGUST is around the air and CHANGE is in the corner.  
 **> get change_**  

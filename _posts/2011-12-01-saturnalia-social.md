@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/12/MRGS_11_12_Website.png" alt="" title="MRGS_11_12_Website" width="600" height="100" class="aligncenter size-full wp-image-276" />
+![MRGS_11_12_Website]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/12/MRGS_11_12_Website.png)
 
 Io, Saturnalia! The festival of Cronus is almost upon us, and you know what that means! With the unbinding of the statues of Saturn in temples across the land, it&#8217;s time to rejoice! Join our *Saturnalicius princeps* as we exchange small gifts (*sigillaricia*) and allow slaves to gamble and dine with their masters!*
 

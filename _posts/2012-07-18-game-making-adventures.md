@@ -14,7 +14,7 @@ categories:
         Ne passe pas &agrave; c&ocirc;t&eacute; du &#8220;Downtown Trimester Game-Making Adventure&#8221;! &Agrave; tous les trois mois, nous annoncerons le(s) th&egrave;me(s) aux rendez-vous mensuels. Quiconque que cela int&eacute;resse, tu as jusqu&#8217;au mois prochain pour nous concocter un petit bijou pour le plaisir de tous. Que tu y passes trois heures ou trois semaines, peut importe le genre ou la forme, soit fou et fais un jeu.</div><div class="ezcol-divider">
         </div>
         
-        <br /> <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png" alt="" title="DTGMA2-web-600px" width="600" height="745" class="alignnone size-full wp-image-715" /></a><br /> <div class="ezcol ezcol-one-half">
+        <br /> <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png">![DTGMA2-web-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png)</a><br /> <div class="ezcol ezcol-one-half">
           <p>
             This month, select one or more of the following three themes:
           </p>
@@ -70,21 +70,21 @@ categories:
                     </p>
                     
                     <p>
-                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,17.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/GoingRogue-600px.jpg" alt="" title="Going Rogue" width="600" height="449" class="aligncenter size-full wp-image-613" /></a>
+                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,17.0.html">![Going Rogue]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/GoingRogue-600px.jpg)</a>
                     </p>
                     
                     <p>
-                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,13.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/MechaMen-600px.jpg" alt="" title="Montreal 2029: Mecha Men from the Deep" width="600" height="450" class="aligncenter size-full wp-image-616" /></a>
+                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,13.0.html">![Montreal 2029: Mecha Men from the Deep]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/MechaMen-600px.jpg)</a>
                     </p>
                     
                     <p>
-                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,27.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/NeoPost.jpg" alt="" title="NeoPost" width="300" height="444" class="aligncenter size-full wp-image-617" /></a>
+                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,27.0.html">![NeoPost]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/NeoPost.jpg)</a>
                     </p>
                     
                     <p>
-                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,15.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/SirSquidalot-600px.jpg" alt="" title="Sir Squidalot&#039;s Grand Montreal Crusade" width="600" height="450" class="aligncenter size-full wp-image-618" /></a>
+                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,15.0.html">![Sir Squidalot&#039;s Grand Montreal Crusade]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/SirSquidalot-600px.jpg)</a>
                     </p>
                     
                     <p>
-                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,28.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/AUsualDay-600px.jpg" alt="" title="A Usual Day" width="600" height="385" class="aligncenter size-full wp-image-619" /></a>
+                      <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,28.0.html">![A Usual Day]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/AUsualDay-600px.jpg)</a>
                     </p>

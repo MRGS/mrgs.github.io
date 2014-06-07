@@ -6,7 +6,7 @@ permalink: /2010/07/meeting-the-seconde/
 categories:
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/07/AYITL-059-e1281570810594.jpg" alt="On the terrace" title="On the terrace" width="599" height="513" class="size-full wp-image-28" />
+![On the terrace]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/07/AYITL-059-e1281570810594.jpg)
 
 Our second meetup was the hottest one yet, pretty much literally because we were in the middle of the Summer&#8217;s worst heatwave in a room with no air-conditioning. But regardless! A great host of brave, horrendously dehydrated souls arrived at [L&#8217;Amère à Boire][1] to both quench their thirst and continue this analogy equating &#8220;eating and drinking&#8221; with &#8220;talking about game development.&#8221;
 

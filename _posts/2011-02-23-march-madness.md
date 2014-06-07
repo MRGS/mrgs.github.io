@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/02/MRGS_11_03_Social.png" alt="March Madness Banner" title="There is no 'I' in 'copyright infringement.'" width="600" height="100" class="aligncenter size-full wp-image-154" />
+![There is no 'I' in 'copyright infringement.']({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/02/MRGS_11_03_Social.png)
 
 Villains! Vandals! Visigoths! The stars have (mis)aligned, and our cherished Prima Wednesdunum (made-up Latin for &#8220;First Wednesday of the month&#8221;) has been usurped by vicious, heartless, well, usurpers. That&#8217;s okay though, because we&#8217;re inviting all the *cool* people (and anyone else who&#8217;s available, really) to a meetup the following Wednesday. 
 

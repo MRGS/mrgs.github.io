@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/MRGS_12_01_Website.png" alt="" title="MRGS_12_01_Website" width="600" height="100" class="aligncenter size-full wp-image-281" />
+![MRGS_12_01_Website]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/MRGS_12_01_Website.png)
 
 Whoa now! A few too many Festivus grievances were aired and a couple extra auld langs may have been syned &#8212; we&#8217;ve been remiss in announcing our upcoming meetup! But hey, we know you fine folk keep all your first monthly Wednesdays free, so let&#8217;s get right to it: a meetup this week!
 

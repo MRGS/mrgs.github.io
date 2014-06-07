@@ -8,7 +8,7 @@ categories:
   - Games
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/MRGS_11_11_Website.png" alt="" title="MRGS_11_11_Website" width="600" height="100" class="aligncenter size-full wp-image-258" />
+![MRGS_11_11_Website]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/MRGS_11_11_Website.png)
 
 In all the kerfuffle (ker.fuf.fle: [noun][1], *pl. kerfuffles*; a commotion or fuss) surrounding our [evening of happiness][2], did you think we&#8217;d neglected our traditional November meetup? Faugh! (fau.gh: exclamation, *pl. faughbags*; pretty much a silly word anyway)
 

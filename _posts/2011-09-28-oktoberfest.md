@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/09/MRGS_11_10_Website.png" alt="" title="MRGS_11_10_Website" width="600" height="100" class="aligncenter size-full wp-image-233" />
+![MRGS_11_10_Website]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/09/MRGS_11_10_Website.png)
 
 Meine Freunde! Ich bin ins Deutsche &uuml;bersetzt!
 

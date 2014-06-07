@@ -9,7 +9,7 @@ categories:
 tags:
   - the prince of arcade
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/11/PoA-header-web-200x600px.png" alt="" title="PoA" width="600" height="200" class="aligncenter size-full wp-image-274" />
+![PoA]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/11/PoA-header-web-200x600px.png)
 
 This past Wednesday, for the second year running, the Prince of Arcade came to town&#8212;giving [MIGS][1] attendees and game enthusiasts alike the chance to relax with their peer groups and play some amazing indie games. In no particular order, the following are things that made the evening rather spiffy:
 

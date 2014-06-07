@@ -17,7 +17,7 @@ Say it. Taste it. Roll it around in the glass. Accidentally drip a bit of it on 
 
 We have spoken with local hardware hackers [The Buttonmashers][5], who are *at this very second* devising beautiful things for a beautiful cab (peep the work-in-progress pictures, the last four or so [here][6]). Suffice it to say, this could look heavenly.
 
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/09/ArcadeRoyale-WIP.jpg" alt="" title="ArcadeRoyale-WIP" width="384" height="512" class="aligncenter size-full wp-image-225" />
+![ArcadeRoyale-WIP]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/09/ArcadeRoyale-WIP.jpg)
 
 We have the hardware, now we need the games.
 

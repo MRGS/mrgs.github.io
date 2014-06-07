@@ -39,7 +39,7 @@ categories:
               </p>
               
               <p>
-                <img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Cepero1.jpg" alt="Cepero -- Forest generation" title="Cepero1" width="600" height="350" class="aligncenter size-full wp-image-768" /><br /> <img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Cepero2.jpg" alt="Cepero -- City generation" title="Cepero2" width="600" height="350" class="aligncenter size-full wp-image-769" /><br /> <img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Cepero3.jpg" alt="Cepero -- Building generation" title="Cepero3" width="600" height="350" class="aligncenter size-full wp-image-770" />
+                ![Cepero1]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Cepero1.jpg)<br /> ![Cepero2]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Cepero2.jpg)<br /> ![Cepero3]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Cepero3.jpg)
               </p>
               
               <div class="ezcol ezcol-one-half">

@@ -13,31 +13,31 @@ An <a href="http://norefuge.net/vgng/vgng.html" target="_blank">oracle</a> was c
 
 *Armored Mahjong Insanity*, by Brent Ellison  
 An arena shooter of matching tiles. Beware the bamboo. Appearing Q3 2012.  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/Armoured-Mahjongg-Insanity.png" alt="" title="Armoured Mahjong Insanity" width="600" height="449" class="aligncenter size-full wp-image-166" />
+![Armoured Mahjong Insanity]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/Armoured-Mahjongg-Insanity.png)
 
 &nbsp;
 
 *Bewildering Blimp Crisis*, by Graeme Lennon  
 *Missile Command* meets &#8220;The Flight of the Valkyries,&#8221; with awe-inspiring results. Appearing Q3 2012.  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/Bewildering-Blimp-Crisis.jpg" alt="" title="Bewildering Blimp Crisis" width="600" height="313" class="aligncenter size-full wp-image-170" />
+![Bewildering Blimp Crisis]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/Bewildering-Blimp-Crisis.jpg)
 
 &nbsp;
 
 *Bizarro Unicycle of Mystery*, by Nick Rudzicz  
 An artgame about regret, unicycles, and Unity rigidbodies. Appearing Q3 2012.  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/BizarroUnicycleOfMystery.png" alt="" title="BizarroUnicycleOfMystery" width="600" height="450" class="aligncenter size-full wp-image-167" />
+![BizarroUnicycleOfMystery]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/BizarroUnicycleOfMystery.png)
 
 &nbsp;
 
 *Romantic Dating of the Blood God*, by Wesley Knee  
 A card game invoking <s>Aztec</s> Mayan blood sacrifices, slave trade, and monarchic rule. Appearing Q3 2012.  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/RomanticDatingOfTheBloodGod.jpg" alt="" title="Romantic Dating of the Blood God" width="600" height="450" class="aligncenter size-full wp-image-169" />
+![Romantic Dating of the Blood God]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/RomanticDatingOfTheBloodGod.jpg)
 
 &nbsp;
 
 *Secret of the Yak Bloodbath*, by Kenny Backus  
 Yak herding simulator meets yak herding apocalypse. Appearing Q3 2012.  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/secret_of_the_yak_bloodbath.png" alt="" title="secret_of_the_yak_bloodbath" width="600" height="450" class="aligncenter size-full wp-image-168" />
+![secret_of_the_yak_bloodbath]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/secret_of_the_yak_bloodbath.png)
 
 &nbsp;
 

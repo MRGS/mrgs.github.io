@@ -9,7 +9,7 @@ categories:
 tags:
   - the prince of arcade
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-front-600px.png" alt="" title="Prince of Arcade 2011" width="600" height="388" class="aligncenter size-full wp-image-240" />
+![Prince of Arcade 2011]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-front-600px.png)
 
 You are awakened from a troubled sleep. In the darkness, a blinding light! A vision stands before you! Can it be?!
 

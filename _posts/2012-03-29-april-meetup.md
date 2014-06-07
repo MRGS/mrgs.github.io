@@ -4,7 +4,7 @@ author: admin
 layout: post
 permalink: /2012/03/april-meetup/
 image_tag:
-  - '<img src="http://www.montrealindies.com/{{ site.oldwpdir }}/uploads/2012/03/MRGS_12_04_Website.png?w=840"   alt="" title="MRGS_12_04_Website"   class="aligncenter size-full wp-image-311"  />'
+  - '![MRGS_12_04_Website](http://www.montrealindies.com/{{ site.oldwpdir }}/uploads/2012/03/MRGS_12_04_Website.png?w=840)'
 image_url:
   - http://www.montrealindies.com/{{ site.oldwpdir }}/uploads/2012/03/MRGS_12_04_Website.png
 image_md5:

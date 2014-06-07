@@ -9,8 +9,8 @@ categories:
 ---
 First off, a joyous &#8220;Thank you&#8221; to all those men and women who came out for our March Madness meetup last night. Granted there were no specific speakers lined up, but frankly we consider any night that ends like this to be a rousing and theistically-inclusive success.
 
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/AYITL-II-005-450x600.jpg" alt="" title="MRGS Meetup 2011-03-09" width="450" height="600" class="aligncenter size-large wp-image-159" />  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/AYITL-II-002-600x450.jpg" alt="" title="MRGS Meetup 2011-03-09 b" width="600" height="450" class="aligncenter size-large wp-image-158" />
+![MRGS Meetup 2011-03-09]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/AYITL-II-005-450x600.jpg)  
+![MRGS Meetup 2011-03-09 b]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/AYITL-II-002-600x450.jpg)
 
 (Do see <a href="http://grapefrukt.com/jesus-vs-dinosaurs/" target="_blank">Jesus vs. Dinosaurs</a> if at all possible).
 

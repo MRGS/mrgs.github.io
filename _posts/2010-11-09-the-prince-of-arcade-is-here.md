@@ -12,8 +12,8 @@ Somebody, let Huey Lewis know: *this is it*.
 
 [The Prince of Arcade][1] arrives triumphantly in Montreal *TONIGHT!* Are you ready for the raddest, baddest, most ultimate gaming experience since the Nintendo Power Glove? The question is rhetorical, of course!
 
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/princeofarcade_webflyer_600.png" alt="" title="princeofarcade_webflyer_600" width="600" height="435" class="aligncenter size-full wp-image-107" />  
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/princeofarcade_flyer_back.jpg" alt="" title="princeofarcade_flyer_back" width="600" height="353" class="aligncenter size-full wp-image-105" />
+![princeofarcade_webflyer_600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/princeofarcade_webflyer_600.png)  
+![princeofarcade_flyer_back]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/princeofarcade_flyer_back.jpg)
 
 <a name="princeofarcade2010-games"></a>  
 ***THE GALLERY*** &#8212; Delicious feasts of indie gaming, writ large and taking charge.  
@@ -51,11 +51,11 @@ And last but not least&#8230;
 
 <a name="princeofarcade2010-sponsors"></a>  
 ***THE SPONSORS &#038; BENEFACTORS*** &#8212; *Sine qua non*  
-[<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/AlgonquinCollege-logo.jpg" alt="Algonquin College" title="Algonquin College" width="463" height="159" class="aligncenter size-full wp-image-111" />][3]  
-<a href="http://www.easternbloc.ca""><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/EasternBloc-logo.jpg" alt="Eastern Bloc" title="EasternBloc" width="436" height="121" class="aligncenter size-full wp-image-113" /></a>  
-[<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/HeenanBlaikie-logo.png" alt="Heenan Blaikie" title="Heenan Blaikie" width="449" height="54" class="aligncenter size-full wp-image-108" />][4]  
-[<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/Kokoromi-logo.jpg" alt="Kokoromi" title="Kokoromi" width="347" height="234" class="aligncenter size-full wp-image-110" />][5]  
-[<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/TAG-logo.jpg" alt="TAG" title="TAG" width="328" height="245" class="aligncenter size-full wp-image-114" />][6]
+[![Algonquin College]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/AlgonquinCollege-logo.jpg)][3]  
+<a href="http://www.easternbloc.ca"">![EasternBloc]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/EasternBloc-logo.jpg)</a>  
+[![Heenan Blaikie]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/HeenanBlaikie-logo.png)][4]  
+[![Kokoromi]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/Kokoromi-logo.jpg)][5]  
+[![TAG]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/TAG-logo.jpg)][6]
 
 &#8212;&#8212;&#8212;&#8212;
 

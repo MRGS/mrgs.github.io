@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/06/MRGS_11_07_Website.png" alt="" title="I'd rather be red dead than redemption." width="600" height="100" class="aligncenter size-full wp-image-201" />
+![I'd rather be red dead than redemption.]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/06/MRGS_11_07_Website.png)
 
 Summer has officially arrived, and to heck with the Southern hemisphere! While our friends in Namibia and Papua New Guinea trundle through their cold, dark snowdrifts, we up here in the North know how to take advantage of any temperature above freezing. The days are long, and that means one thing: socialising! Social games! Social networks! Social dancing! Social sciences! Game developers all over are getting *social*; &#8220;*so shall*&#8221; we. (Yes!)
 

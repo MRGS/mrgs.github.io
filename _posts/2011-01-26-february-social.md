@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/MRGS_11_02_Social.png" alt="February Social" title="Forget your Valentine. All your sweets are belong to us." width="600" height="100" class="aligncenter size-full wp-image-147" />
+![Forget your Valentine. All your sweets are belong to us.]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/01/MRGS_11_02_Social.png)
 
 February. The runt of the monthly litter. The little month that could. The month at the kiddie table. The diminutives are many, but the result is quite singular: there&#8217;s Big Trouble in Little February. Cats and kittens, there&#8217;s a meetup afoot.
 

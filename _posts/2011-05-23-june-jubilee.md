@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/05/MRGS_11_06_Social.png" alt="" title="2011 June Jubilee" width="600" height="100" class="aligncenter size-full wp-image-185" />
+![2011 June Jubilee]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/05/MRGS_11_06_Social.png)
 
 A lot can happen in a year, and nowhere is this more evident than on the planet Earth, where the concept was originally developed. Scientists working around the clock and around the Sun have determined to within twelve parsecs of accuracy that the Mount Royal Game Society will be exactly *one year old* this June!
 

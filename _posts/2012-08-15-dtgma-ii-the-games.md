@@ -24,25 +24,25 @@ categories:
       </p>
       
       <p>
-        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,40.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/BigbysTower_600px_crop.jpg" alt="Bigby&#039;s Tower" title="Bigby&#039;s Tower" width="600" height="380" class="aligncenter size-full wp-image-746" /></a>
+        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,40.0.html">![Bigby&#039;s Tower]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/BigbysTower_600px_crop.jpg)</a>
       </p>
       
       <p>
-        <em><strong><a href="">Deck Building Game</a></strong></em><br /> <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DeckBuildingGame_600px_fade.jpg"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DeckBuildingGame_600px_fade.jpg" alt="Deck Building Game" title="Deck Building Game" width="600" height="450" class="aligncenter size-full wp-image-741" /></a>
+        <em><strong><a href="">Deck Building Game</a></strong></em><br /> <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DeckBuildingGame_600px_fade.jpg">![Deck Building Game]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DeckBuildingGame_600px_fade.jpg)</a>
       </p>
       
       <p>
-        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,46.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DucksVsBunnies_600px.jpg" alt="Ducks vs. Bunnies" title="Ducks vs. Bunnies" width="600" height="285" class="aligncenter size-full wp-image-742" /></a>
+        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,46.0.html">![Ducks vs. Bunnies]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DucksVsBunnies_600px.jpg)</a>
       </p>
       
       <p>
-        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,44.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/GorillaMyDreams_600px_crop.jpg" alt="Gorilla, My Dreams" title="Gorilla, My Dreams" width="600" height="380" class="aligncenter size-full wp-image-743" /></a>
+        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,44.0.html">![Gorilla, My Dreams]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/GorillaMyDreams_600px_crop.jpg)</a>
       </p>
       
       <p>
-        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,42.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Mollow_600px_crop.jpg" alt="Mollow" title="Mollow" width="600" height="380" class="aligncenter size-full wp-image-744" /></a>
+        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,42.0.html">![Mollow]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Mollow_600px_crop.jpg)</a>
       </p>
       
       <p>
-        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,47.0.html"><img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Summoned_600px.jpg" alt="Summoned" title="Summoned" width="600" height="380" class="aligncenter size-full wp-image-745" /></a>
+        <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,47.0.html">![Summoned]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Summoned_600px.jpg)</a>
       </p>

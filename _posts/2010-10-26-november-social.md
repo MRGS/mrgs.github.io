@@ -7,7 +7,7 @@ categories:
   - Announcements
   - Meetups
 ---
-<img src="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/10/NovemberSocial.png" alt="" title="NovemberSocial" width="600" height="123" class="alignnone size-full wp-image-96" />
+![NovemberSocial]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/10/NovemberSocial.png)
 
 A disclaimer: we here at the Mount Royal Game Society never set out to explicitly embarrass or shame anyone, and certainly no member should ever feel beholden to the Society as a whole. However, we feel it necessary to remind everyone that *baked goods* were available at our last meeting.
 
