@@ -34,16 +34,24 @@ Apporter vos ordinateurs, vos d&eacute;mos, et vos chapeaux (pourquoi pas?), et 
  Venez nous pr&eacute;senter vos d&eacute;mos! On attend que ça!
  
 
-        
 
-        
-        
+
+
+
+
+
+
 Check out the [Facebook](https://www.facebook.com/events/449328325131894/)!
 
-              Voir l&#8217;événement [Facebook](https://www.facebook.com/events/449328325131894/)!
-            
 
-            
-            
-            
+Voir l&#8217;événement [Facebook](https://www.facebook.com/events/449328325131894/)!
+
+
+
+
+
+
+
+
+
 

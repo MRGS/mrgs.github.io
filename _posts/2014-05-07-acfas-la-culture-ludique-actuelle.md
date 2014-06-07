@@ -23,7 +23,8 @@ Veuillez noter et respecter [la politique d&#8217;espace sécuritaire](http://ol
 
 
 <p>
-    A discussion of contemporary games culture, with Lynn Hughes.
+
+A discussion of contemporary games culture, with Lynn Hughes.
 Games as a medium – and the video game industry in particular – are often seen from one of two particular perspectives: so-called blockbusters, often overtly exploitative, violent, and sexist; or “gamified” experiences tailored to hyper-commercial ends.
 However, parallels can be made between modern games and the film industry: two forms of cultural expression where it&#8217;s possible to experience a much wider spectrum of artistic creation – from experimental forays, to works of personal expression, to the multi-million-dollar behemoths.
 Separate from the mainstream, the independent game-making scene is growing rapidly, and taking time in the process to engage in wide-ranging dialogues related to problems in representation – in particular cultural and identity politics – encouraging new emerging artists from the LGBT and other minority communities. At the same time, more and more designers are pushing the boundaries of game design, both in the digital and board game spaces.
@@ -35,7 +36,8 @@ Please note and follow the event&#8217;s [Safe Spaces Policy](http://oldforum.mr
 
 
 <p>
-        *QUAND?*
+
+*QUAND?*
  Dimanche 11 mai, 17h00-23h00
 *OÙ?*
  Université Concordia, edifice EV
@@ -46,7 +48,8 @@ Please note and follow the event&#8217;s [Safe Spaces Policy](http://oldforum.mr
 
 
 <p>
-            *WHEN?*
+
+*WHEN?*
  Sunday, May 11th, 17h00-23h00
 *WHERE?*
  Concordia University, EV building
@@ -56,24 +59,35 @@ Please note and follow the event&#8217;s [Safe Spaces Policy](http://oldforum.mr
  
 
 
-              Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/1487986284748126/)!
-            
 
-            
-            
+Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/1487986284748126/)!
 
-              Check out the event on [Facebook](https://www.facebook.com/events/1487986284748126/)!
 
-            
 
-            
-            
+
+
+
+
+
+
+Check out the event on [Facebook](https://www.facebook.com/events/1487986284748126/)!
+
+
+
+
+
+
+
+
  
  
 ---
-          
-          **LES JEUX // THE GAMES**</p> <p>
-            *[Beachcomber](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575)*
+
+
+
+**LES JEUX // THE GAMES**</p> <p>
+
+*[Beachcomber](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575)*
  (Mason Lindroth)
  [![Beachcomber]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Beachcomber-650px.png)](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575)
 *[BECOME A GREAT ARTIST IN JUST 10 SECONDS](http://vote.runhello.com/j/artist/3/)*

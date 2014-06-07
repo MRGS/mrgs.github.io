@@ -45,17 +45,25 @@ N&#8217;h&eacute;site pas &agrave; [nous contacter](mailto:bakedgoods@mrgs.ca) s
  
 
 
-                  Check out the event on [Facebook](https://www.facebook.com/events/638277556191457/)!
-                
 
-                
-                
+Check out the event on [Facebook](https://www.facebook.com/events/638277556191457/)!
 
-                  Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/638277556191457/)!
 
-                
 
-                
-                
+
+
+
+
+
+
+Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/638277556191457/)!
+
+
+
+
+
+
+
+
  
  

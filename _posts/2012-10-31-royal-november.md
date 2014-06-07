@@ -31,10 +31,13 @@ C&#8217;est le temps d&#8217;un autre rendez-vous! Les faits saillants:
  Retour sur notre troisi&egrave;me &laquo;[Downtown Trimester Game-Making Adventure](http://oldforum.mrgs.ca/index.php/topic,55.0.html)&raquo;, bien s&ucirc;r! Voyons ce que donne tous les projets du &laquo;game jam&raquo; ce dernier weekend!
  
 
-        
 
-        
-        
+
+
+
+
+
+
 &#8212;
 So! Over the last few meetups, one thing has become clear: MRGS is growing! This is a wonderful thing; though it means of course we must stumble hesitantly out of <a href=http://www.amereaboire.com/">L&#8217;Am&egrave;re &agrave; boire</a> and on to pastures new.
 Our previous venue was still regrettably too small, and so the search continues. We’ve done the tour of promising bars downtown and beyond, and contacted a few we weren’t able to visit. We’ve compiled the options, we’ve listened to your comments on Facebook, we’ve run the data through an ENIAC, and the results are in! We’re undecided!
@@ -47,16 +50,24 @@ Puisque notre derni&egrave;re solution n&#8217;&eacute;tait toujours pas ad&eacu
 Nous allons donc les essayer tous au cours des deux ou trois prochains mois &#8212; &agrave; vous de soumettre vos impressions!
 Ce mois-ci: The Royal Phoenix! Dans le Mile End, c&#8217;est sur une ligne d&#8217;autobus majeure et tout proche des lignes bleue et orange du m&eacute;tro. On y trouve une super ambiance fantastique, de la bonne bouffe et de l&#8217;excellente bi&egrave;re en f&ucirc;t. Bien sympa, vous verrez!
 
-                
 
-                
-                
+
+
+
+
+
+
 Check out the [Facebook](https://www.facebook.com/events/127437284074495/)!
 
-                      Voyez l&#8217;événement sur [Facebook](https://www.facebook.com/events/127437284074495/)!
-                    
 
-                    
-                    
-                    
+Voyez l&#8217;événement sur [Facebook](https://www.facebook.com/events/127437284074495/)!
+
+
+
+
+
+
+
+
+
 

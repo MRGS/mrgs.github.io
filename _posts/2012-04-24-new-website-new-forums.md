@@ -17,26 +17,39 @@ Voici un tout nouvel espace spécialement optimisé pour la satisfaction de vos 
 En plus de son magnifique design, une nouvelle fonctionnalité a été implémentée pour le plaisir de tous, soit un [FORUM](http://oldforum.mrgs.ca/)!! Venez tous chers développeurs et artisans de jeux vidéos discuter de tout et de rien. On vous laissera même parler des Expos si vous insistez vraiment.
 Êtes-vous excité? Électrifié? Heureux? En tous cas, nous nous le sommes! Encore une fois, bienvenue!
 
-        
 
-        
-        
+
+
+
+
+
+
 Thanks to erstwhile Montrealer and friend-of-MRGS-for-life [Phil Jones](http://www.philippejones.com/) for invaluable CSS and WordPress assistance! And our logo-cum-mascot Mergsey finally takes his rightful place in the website header &#8212; thanks again to [Phil Fish](http://polytroncorporation.com/) for designing him.</a>
  
 Un grand merci a ex-Montréalais et ami-de-la-Société-à-vie [Phil Jones](http://www.philippejones.com/) pour le don de sa sagesse CSS/Wordpress. Et vu que notre mascotte/logo Mergsey se retrouve enfin sur son trône au haut de la page, prenons le moment pour remercier M. [Phil Fish](http://polytroncorporation.com/) qui s&#8217;est chargé de son design.
 
-                
 
 
-                  [Discuss this news item on our forum](http://oldforum.mrgs.ca/index.php/topic,9.0.html)!
-                
 
-                
-                
-                  [Discutez-en sur notre forum](http://oldforum.mrgs.ca/index.php/topic,9.0.html)!
-                
 
-                
-                
-                
+
+ [Discuss this news item on our forum](http://oldforum.mrgs.ca/index.php/topic,9.0.html)!
+
+
+
+
+
+
+
+
+ [Discutez-en sur notre forum](http://oldforum.mrgs.ca/index.php/topic,9.0.html)!
+
+
+
+
+
+
+
+
+
 

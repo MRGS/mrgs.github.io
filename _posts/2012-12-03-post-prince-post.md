@@ -24,7 +24,8 @@ Merci aux photographes, professionnels ou amateurs, qui ont documenté la soiré
 Et pour finir, merci infiniment à tous nous créateurs indépendants pour partager avec nous vos extraordinaires jeux vidéo. Vous nous avez donné une raison de célébrer! Cette soirée, c&#8217;était la vôtre.
  
 
-        
+
+
 
 ***[BaraBariBall](http://barabariball.com/)*** — [Noah Sasso](http://strangeflavor.net/)
 
@@ -41,26 +42,39 @@ Et pour finir, merci infiniment à tous nous créateurs indépendants pour parta
 ***Tennnes*** — [Jan Willem Nijman](http://slordig.thepoppenkast.com/)
  ![tennnes]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/tennnes.jpg)
 <center>
-          &#8212;&#8212;&#8212;
-        </center>
-        
-        
-<center>
-              See you all next year.</p> <p>
-                **&#8212; Long Live the Prince &#8212;**</center>
+
+&#8212;&#8212;&#8212;
+
+</center>
+
+
+
 
 <center>
-                      À l&#8217;an prochain!</p> <p>
-                        **&#8212; Longue vie au Prince! &#8212;</center>**
+
+See you all next year.</p> <p>
+
+**&#8212; Long Live the Prince &#8212;**</center>
+
+<center>
+
+À l&#8217;an prochain!</p> <p>
+
+**&#8212; Longue vie au Prince! &#8212;</center>**
  
 
-                        
 
-                        
-                        
+
+
+
+
+
+
  <center>
-                          &#8212;&#8212;&#8212;
-                        </center>
+
+&#8212;&#8212;&#8212;
+
+</center>
 *Photos via [Antonella](https://secure.flickr.com/people/electric_ant/) & [Sagar](https://twitter.com/sagzorz/)*&#8230;
 ![resize-poa2012-03]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-03.jpg)
 ![resize-poa2012-04]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/11/resize-poa2012-04.jpg)

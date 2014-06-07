@@ -15,10 +15,13 @@ Is the year 13/73rds over already? Well, no, not exactly &#8212; but it&#8217;s 
 L&#8217;ann&eacute;e 2013 a d&eacute;j&agrave; treize-soixante-treizi&egrave;me d&#8217;achev&eacute;e! C&#8217;est presque le temps d&#8217;acheter votre arbre de No&euml;l! Bref, il y a une fois de plus une bonne occasion de sortir de chez vous un mercredi soir. Notre rendez-vous mensuel est de retour!
  
 
-        
 
-        
-        
+
+
+
+
+
+
 *WHEN?*
  Wednesday, March 6th, 19h30
 *WHERE?*
@@ -37,16 +40,24 @@ L&#8217;ann&eacute;e 2013 a d&eacute;j&agrave; treize-soixante-treizi&egrave;me 
  ([Directions](https://maps.google.com/maps?q=the+royal+phoenix))
  
 
-                
 
-                
-                
+
+
+
+
+
+
 Check out the event on [Facebook](https://www.facebook.com/events/381925611904894/)!
 
-                      Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/381925611904894/)!
-                    
 
-                    
-                    
-                    
+Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/381925611904894/)!
+
+
+
+
+
+
+
+
+
 

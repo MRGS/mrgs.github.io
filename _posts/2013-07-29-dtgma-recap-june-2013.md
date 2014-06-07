@@ -19,25 +19,46 @@ It&#8217;s been a busy month of attending [Parcade](https://www.facebook.com/eve
  
 
 ---
-      
-      <ul>
-        <li>
-          [DTGMA] [*Agnostic*](http://tanyaxshort.com/agnostic.html), Tanya Short
-        </li>
-        <li>
-          [DTGMA] [*Skyvine*](http://oldforum.mrgs.ca/index.php/topic,94.0.html), Pierre-Luc Poirier and Caroline Breault
-        </li>
-        <li>
-          [DTGMA] *Wind Tunnel*, Peter Wilson
-        </li>
-        <li>
-          *Capsize* by [Carolyn Jong](https://twitter.com/ckjong) and [Joachim Despland](http://www.joachimdespland.com/)
-        </li>
-        <li>
-          *Invasion of the Brain-Sucking Brains*, [Dom2D](http://dom2d.squarespace.com/)
-        </li>
-        <li>
-          [*Starwhal*](http://www.starwhal.com), [Breakfall](http://www.breakfall.ca/)
-        </li>
-      </ul>
+
+
+
+<ul>
+
+<li>
+
+ [DTGMA] [*Agnostic*](http://tanyaxshort.com/agnostic.html), Tanya Short
+
+</li>
+
+<li>
+
+ [DTGMA] [*Skyvine*](http://oldforum.mrgs.ca/index.php/topic,94.0.html), Pierre-Luc Poirier and Caroline Breault
+
+</li>
+
+<li>
+
+ [DTGMA] *Wind Tunnel*, Peter Wilson
+
+</li>
+
+<li>
+
+*Capsize* by [Carolyn Jong](https://twitter.com/ckjong) and [Joachim Despland](http://www.joachimdespland.com/)
+
+</li>
+
+<li>
+
+*Invasion of the Brain-Sucking Brains*, [Dom2D](http://dom2d.squarespace.com/)
+
+</li>
+
+<li>
+
+ [*Starwhal*](http://www.starwhal.com), [Breakfall](http://www.breakfall.ca/)
+
+</li>
+
+</ul>
 

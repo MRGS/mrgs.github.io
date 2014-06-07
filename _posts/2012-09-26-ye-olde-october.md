@@ -18,32 +18,45 @@ Avant toute chose, laissez-nous s&#8217;excuser pour l&#8217;intense achalandage
 Prenez bien note de notre nouveau rep&egrave;re, &agrave; vos calendriers et rejoignez-nous une fois de plus pour des bi&egrave;res et des d&eacute;mos!
 Et une remarque de plus: le nouvel endroit s&#8217;av&egrave;re bien plus accessible, avec seulement deux marches &agrave; l&#8217;entr&eacute;e, par rapport aux quelques dizaines &agrave; l&#8217;Am&egrave;re. Quand m&ecirc;me, [dites-le nous](mailto:bakedgoodsBUTWITHOUTTHESEWORDSFORSPAM@REMOVETHISPARTTOOmrgs.ca) si l&#8217;on ne pourrait rendre &ccedil;a plus facile!
 
-        
 
-        
-        
-          *WHEN*
+
+
+
+
+
+
+
+*WHEN*
  Wednesday, October 3rd, 19h30</p> <p>
-            *WHERE*
+
+*WHERE*
  **Ye Olde Orchard Pub**
  1189 rue De la Montagne
 
-              *QUAND?*
+
+*QUAND?*
  Mercredi 3 octobre, 19h30</p> <p>
-                *OÙ?*
+
+*OÙ?*
  **Resto/pub Ye Olde Orchard**
  1189 rue De la Montagne
  
 
-                
+
+
 
 
 Check out the [Facebook](https://www.facebook.com/events/407438305978041/)!
 
-                    Voyez l&#8217;événement sur [Facebook](https://www.facebook.com/events/407438305978041/)!
-                  
 
-                  
-                  
-                  
+Voyez l&#8217;événement sur [Facebook](https://www.facebook.com/events/407438305978041/)!
+
+
+
+
+
+
+
+
+
 

@@ -25,12 +25,15 @@ April has followed *suspiciously quickly* on March, which means it&#8217;s time 
 
 Le temps passe si vite que nous sommes déjà en avril! Puisque nous n&#8217;avons pas dégusté la bière de [l&#8217;Amère à boire](http://www.amereaboire.com/) depuis janvier, nous revenons à nos vieilles habitudes! La rencontre de ce mois-ci se fera donc rue St-Denis.
 
-        
 
 
-          *WHEN*
+
+
+
+*WHEN*
  Wednesday, April 4th, 19h30</p> <p>
-            *WHERE*
+
+*WHERE*
  **Brasserie Artisanale l’Amère à boire**
  2049 rue Saint-Denis, 3rd floor
 *WHAT*
@@ -38,27 +41,39 @@ Le temps passe si vite que nous sommes déjà en avril! Puisque nous n&#8217;avo
 We therefore invite any and all MolyJammers to play Show and Molytell at the upcoming meetup &#8212; so bring along your games! And your harsh, harsh criticisms of others! It&#8217;s what Moly would deux.
 *[Note to self: Change last bit; not good English or any known language, I think.]*
 
-              QUAND?
+
+QUAND?
  Mercredi 4 avril à 19h30</p> <p>
-                OÙ?
+
+OÙ?
  **Brasserie Artisanale l’Amère à boire**
  2049 rue Saint-Denis, 3e étage
 LE PLAN DE MATCH
  Cette fin de semaine aura lieu le Montréal [MOLYJAM](http://www.whatwouldmolydeux.com/) (What Would Molydeux?), évènement auquel vous êtes sans doute [déjà inscrit](http://www.facebook.com/events/274617842613476/). [L&#8217;inspiration](http://docs.google.com/spreadsheet/ccc?key=0AmKS9o_SW0ovdHZDYWVHb0lOa1NJV3FST3h3UGFOTFE#gid=0) sera au rendez-vous à la Notman House!
 Bien évidement, tous les participants seront invités à partager le fruit de leur Moly-expérience sur l&#8217;écran de l&#8217;Amère à boire. Apportez vos jeux, vos chiens et vos chats. Nous aurons l&#8217;oeil critique. Plein de plaisir en perspective!
 
-                
 
 
-                  Discuss this news on our [forum](http://oldforum.mrgs.ca).
-                
 
-                
-                
-                  Discutez ces nouvelles sur notre [forum](http://oldforum.mrgs.ca).
-                
 
-                
-                
-                
+
+Discuss this news on our [forum](http://oldforum.mrgs.ca).
+
+
+
+
+
+
+
+
+Discutez ces nouvelles sur notre [forum](http://oldforum.mrgs.ca).
+
+
+
+
+
+
+
+
+
 

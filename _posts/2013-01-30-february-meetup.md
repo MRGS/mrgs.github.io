@@ -15,12 +15,17 @@ Comme si nous avions besoin d&#8217;une raison pour &eacute;viter le froid polai
 &Ccedil;a vaudra donc la peine de braver la temp&eacute;rature sib&eacute;rienne, car nous aurons une foule de d&eacute;mos &agrave; vous pr&eacute;senter. Apportez vos jeux, vos foulards et votre joie de vivre.
 
 
-    
-    
-    
 
-    
-    
+
+
+
+
+
+
+
+
+
+
 *WHEN?*
  Wednesday, February 6th, 19h30
 *WHERE?*
@@ -39,16 +44,24 @@ Comme si nous avions besoin d&#8217;une raison pour &eacute;viter le froid polai
  ([Directions](https://maps.google.com/maps?q=the+royal+phoenix))
  
 
-            
 
-            
-            
+
+
+
+
+
+
 Check out the event on [Facebook](https://www.facebook.com/events/135794093253000/)!
 
-                  Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/135794093253000/)!
-                
 
-                
-                
-                
+Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/135794093253000/)!
+
+
+
+
+
+
+
+
+
 

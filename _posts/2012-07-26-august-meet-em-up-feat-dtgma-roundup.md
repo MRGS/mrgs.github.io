@@ -16,36 +16,55 @@ Juillet bat son plein avec tout ce beau soleil, ces averses orageuses, ces mille
 Donc avec Août qui s&#8217;en vient allons au jardin, car nous sommes prêts pour la récolte de la [nouvelle édition du Downtown Trimester Game-Making Adventure](http://oldforum.mrgs.ca/index.php/topic,39.0.html). Le rendez-vous mensuel est là pour que nous puissions admirer en coeur le résultat.
 Allez tous à vos agendas, car c&#8217;est mercredi prochain!
 
-        
 
-        
-        
-          *WHEN*
+
+
+
+
+
+
+
+*WHEN*
  Wednesday, August 1st, 19h30</p> <p>
-            *WHERE*
+
+*WHERE*
  Brasserie Artisanale l’Amère à boire
  2049 rue Saint-Denis, 3rd floor
 
-              *QUAND?*
+
+*QUAND?*
  Mercredi 1 aout, 19h30</p> <p>
-                *OÙ?*
+
+*OÙ?*
  Brasserie Artisanale l&#8217;Amère à boire
  2049 rue Saint-Denis, 3e étage
  
 
-                
 
-                
-                
-                  Check out the [Facebook](https://www.facebook.com/events/370667646337685/)!
-                
 
-                
-                
-                  Voyez l&#8217;événement sur [Facebook](https://www.facebook.com/events/370667646337685/)!
-                
 
-                
-                
-                
+
+
+
+
+
+Check out the [Facebook](https://www.facebook.com/events/370667646337685/)!
+
+
+
+
+
+
+
+
+Voyez l&#8217;événement sur [Facebook](https://www.facebook.com/events/370667646337685/)!
+
+
+
+
+
+
+
+
+
 

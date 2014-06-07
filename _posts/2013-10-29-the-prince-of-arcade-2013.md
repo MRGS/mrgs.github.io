@@ -25,7 +25,8 @@ For the fourth year running, The Prince of Arcade is filling the Eastern Bloc Ne
 ---
   
   <p align="center">
-    BE THERE. BE LOVELY.
+
+BE THERE. BE LOVELY.
 
  <<< [MORE INFO &#038; GAMES LIST](http://prince.mrgs.ca) >>>
 
@@ -38,9 +39,12 @@ LE PRINCE EST DE RETOUR!
 ---
 Pour une quatrième année consécutive, la soirée Prince of Arcade remplit le centre de nouveaux médias Eastern Bloc avec une foule de jeux par des créatrices/créateurs indépendants. Comprenant des jeux compétitifs déchaînés côte à côte à des méditations numériques, les installations font appel aux joueurs comme aux spectateurs dans une reconfiguration dynamique de la galerie d&#8217;art. Soyez des nôtres pour une soirée de drinks et de transcendance numérique multi-joueurs!
 ---
-      
-      <p align="center">
-        SOYEZ LÀ. SOYEZ CHIC.
+
+
+
+<p align="center">
+
+SOYEZ LÀ. SOYEZ CHIC.
 
  <<< [INFOS &#038; LISTE DE JEUX](http://prince.mrgs.ca) >>>
 
@@ -48,8 +52,10 @@ Pour une quatrième année consécutive, la soirée Prince of Arcade remplit le 
 
 
 
-          <p align="center">
-            
+
+<p align="center">
+
+
  [Eastern Bloc](http://easternbloc.ca/)
  7240 Clark, m&eacute;tro De Castelnau
  11 Nov. 2013

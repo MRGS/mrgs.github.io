@@ -14,7 +14,8 @@ Mucho thanks to all you talented developers, and we&#8217;ll see you again soon!
 H&eacute; bien, vous cherchez les jeux du dernier &laquo;Downtown Trimester Game-Making Adventure&raquo;? Mais alors, embrassez mes grains! *[Ed. -- Find a better translation of this, please.]* Les voici: direct de la ferme et pr&ecirc;ts pour votre consommation, vos [commentaires](http://oldforum.mrgs.ca/index.php/topic,39.0.html), et &#8212; surtout &#8212; votre divertissement.
 Un gros merci &agrave; nos d&eacute;veloppeuses et d&eacute;veloppeurs, et on se voit d&#8217;ici quelques semaines!
 
-        
+
+
 
 ***[![Bigby&#039;s Tower]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/BigbysTower_600px_crop.jpg)](http://oldforum.mrgs.ca/index.php/topic,40.0.html)
 ***[Deck Building Game]()***

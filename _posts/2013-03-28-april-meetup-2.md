@@ -18,10 +18,13 @@ Depuis des mill&eacute;naires, docteurs et scientifiques affirment que la meille
 Meetup: Can You Dig It?
  
 
-        
 
-        
-        
+
+
+
+
+
+
 *WHEN?*
  Wednesday, April 3rd, 19h30
 *WHERE?*
@@ -40,16 +43,24 @@ Meetup: Can You Dig It?
  ([Directions](https://maps.google.com/maps?q=the+royal+phoenix))
  
 
-                
 
-                
-                
+
+
+
+
+
+
 Check out the event on [Facebook](https://www.facebook.com/events/147210825449088/)!
 
-                      Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/147210825449088/)!
-                    
 
-                    
-                    
-                    
+Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/147210825449088/)!
+
+
+
+
+
+
+
+
+
 

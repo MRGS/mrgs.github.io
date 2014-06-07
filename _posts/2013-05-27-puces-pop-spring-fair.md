@@ -22,7 +22,8 @@ On amène avec nous l&#8217;Arcade Royale pour présenter les jeux des artistes 
  
 
 <p>
-            *WHEN?*
+
+*WHEN?*
  Friday, May 31st (18h00-21h00)
  Saturday, June 1st (11h00-18h00)
  Sunday, June 2nd (11h00-18h00)
@@ -34,7 +35,8 @@ On amène avec nous l&#8217;Arcade Royale pour présenter les jeux des artistes 
  
 
 <p>
-                *QUAND?*
+
+*QUAND?*
  Vendredi 31 mai (18h00-21h00)
  Samedi 1 juin (11h00-18h00)
  Dimanche 2 juin (11h00-18h00)
@@ -45,5 +47,7 @@ On amène avec nous l&#8217;Arcade Royale pour présenter les jeux des artistes 
 
 
 
-                [![Puces POP](http://popmontreal.com/{{ site.oldwpdir }}/uploads/marcato/La-foire-Puces-POP-%C3%A9dition-printani%C3%A8re-Spring-Puces-POP-Fair-396x595.jpg)](http://popmontreal.com/events-tickets/la-foire-puces-pop-edition-printaniere-spring-puces-pop-fair/)
-              
+
+ [![Puces POP](http://popmontreal.com/{{ site.oldwpdir }}/uploads/marcato/La-foire-Puces-POP-%C3%A9dition-printani%C3%A8re-Spring-Puces-POP-Fair-396x595.jpg)](http://popmontreal.com/events-tickets/la-foire-puces-pop-edition-printaniere-spring-puces-pop-fair/)
+
+
