@@ -12,7 +12,8 @@ In which we look back at the variously emotive times we had at the <a href="{{ s
 Thanks for coming out, everyone!
 </div><div class="large-6 columns ">
 Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2014/05/meetup-mai-7-may/">meetup</a> de mercredi soir.
-Merci &agrave; tous d&#8217;&ecirc;tre venus!<br /> &nbsp;
+Merci &agrave; tous d&#8217;&ecirc;tre venus!
+ &nbsp;
 </div>
 ---
 <strong>LES ANNONCES / ANNOUNCEMENTS</strong>
@@ -22,4 +23,12 @@ Le Centre NAD offre le s&eacute;rie <a href="http://elite.nad.ca/fr/">ELITE</a> 
 Les <a href="http://forum.mrgs.ca/">forums</a> du SLMR sont en besoin d&#8217;un/e b&eacute;n&eacute;vole avec de l&#8217;exp&eacute;rience en Ruby pour effectuer des r&eacute;parations. <a href="mailto:bakedgoods@mrgs.ca">Contactez-nous</a>! &nbsp; // The MRGS <a href="http://forum.mrgs.ca">forums</a> are in need of a volunteer with experience in Ruby to fix them up and bring them back to life! <a href="mailto:bakedgoods@mrgs.ca">Get in touch</a>!
 ---
 <strong>LES JEUX / GAMES</strong>
-<em><a href="http://juicybeast.itch.io/frox">Frox</a></em>. Juicy Beast.<br /> <em><a href="http://julian-spillane.itch.io/load-runner-tojam-edition">Load Runner</a></em>. John Axon, Marion Esquian, Stephane Goulet, Julian Spillane.<br /> <em><a href="http://renaudbedard.itch.io/malisse">Malisse</a></em>. Les Coll&eacute;giennes<br /> <em><a href="http://notaliensagain.itch.io/renegades-rage">Renegade&#8217;s Rage</a></em>. Chef Boyardee, Fran&ccedil;is Coulombe, Lord Mo, Lurdiak, The Monster King.<br /> <em><a href="http://globalgamejam.org/2014/games/resonance">Resonance</a></em>. Chas Elterman, Eric L&eacute;vell&eacute;e, Chris Olimpo, Jonathan Perreault, Matt Pilon, Timoth&eacute;e Rabaud, Ian Sartwell.<br /> <em><a href="http://www.kitfoxgames.com/shattered-planet/">Shattered Planet</a></em>. Kitfox Games.<br /> <em><a href="http://trancegame.blogspot.ca/">Trance</a></em>. Martin Brochu &#038; Pablo Bredow.<br /> &nbsp;<br /> &nbsp;
+<em><a href="http://juicybeast.itch.io/frox">Frox</a></em>. Juicy Beast.
+ <em><a href="http://julian-spillane.itch.io/load-runner-tojam-edition">Load Runner</a></em>. John Axon, Marion Esquian, Stephane Goulet, Julian Spillane.
+ <em><a href="http://renaudbedard.itch.io/malisse">Malisse</a></em>. Les Coll&eacute;giennes
+ <em><a href="http://notaliensagain.itch.io/renegades-rage">Renegade&#8217;s Rage</a></em>. Chef Boyardee, Fran&ccedil;is Coulombe, Lord Mo, Lurdiak, The Monster King.
+ <em><a href="http://globalgamejam.org/2014/games/resonance">Resonance</a></em>. Chas Elterman, Eric L&eacute;vell&eacute;e, Chris Olimpo, Jonathan Perreault, Matt Pilon, Timoth&eacute;e Rabaud, Ian Sartwell.
+ <em><a href="http://www.kitfoxgames.com/shattered-planet/">Shattered Planet</a></em>. Kitfox Games.
+ <em><a href="http://trancegame.blogspot.ca/">Trance</a></em>. Martin Brochu &#038; Pablo Bredow.
+ &nbsp;
+ &nbsp;

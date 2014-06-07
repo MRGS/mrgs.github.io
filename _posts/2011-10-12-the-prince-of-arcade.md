@@ -14,7 +14,8 @@ tags:
 You are awakened from a troubled sleep. In the darkness, a blinding light! A vision stands before you! Can it be?!
 
 <center>
-  <br /> &#8212; From a synaesthetic dimension beyond our understanding &#8212;</p> <p>
+  
+ &#8212; From a synaesthetic dimension beyond our understanding &#8212;</p> <p>
     &#8212; In an hour of desperate need &#8212;
 &#8212; Weighing in at an intangible number of pounds &#8212;
 &#8212; BEHOLD &#8212;

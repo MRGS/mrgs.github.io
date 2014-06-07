@@ -7,12 +7,14 @@ categories:
   - Games
   - Jams
 ---
-<div class="ezcol ezcol-one-half">
-Don&#8217;t forget our ongoing Downtown Trimester Game-Making Adventure! Every three months, we&#8217;ll announce a theme (or themes!) at one of our MRGS meetups; anyone interested has until the next month&#8217;s gathering to put something together for our communal enhappiment. Take three hours, take three weeks, make a digital, board, card, or physical game &#8212; in short: go nuts, make games.</div><div class="ezcol ezcol-one-half ezcol-last">
-Ne passe pas &agrave; c&ocirc;t&eacute; du &#8220;Downtown Trimester Game-Making Adventure&#8221;! &Agrave; tous les trois mois, nous annoncerons le(s) th&egrave;me(s) aux rendez-vous mensuels. Quiconque que cela int&eacute;resse, tu as jusqu&#8217;au mois prochain pour nous concocter un petit bijou pour le plaisir de tous. Que tu y passes trois heures ou trois semaines, peut importe le genre ou la forme, soit fou et fais un jeu.</div><div class="ezcol-divider">
+
+Don&#8217;t forget our ongoing Downtown Trimester Game-Making Adventure! Every three months, we&#8217;ll announce a theme (or themes!) at one of our MRGS meetups; anyone interested has until the next month&#8217;s gathering to put something together for our communal enhappiment. Take three hours, take three weeks, make a digital, board, card, or physical game &#8212; in short: go nuts, make games.</div>
+Ne passe pas &agrave; c&ocirc;t&eacute; du &#8220;Downtown Trimester Game-Making Adventure&#8221;! &Agrave; tous les trois mois, nous annoncerons le(s) th&egrave;me(s) aux rendez-vous mensuels. Quiconque que cela int&eacute;resse, tu as jusqu&#8217;au mois prochain pour nous concocter un petit bijou pour le plaisir de tous. Que tu y passes trois heures ou trois semaines, peut importe le genre ou la forme, soit fou et fais un jeu.</div>
         </div>
         
-        <br /> <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png">![DTGMA2-web-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png)</a><br /> <div class="ezcol ezcol-one-half">
+        
+ <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png">![DTGMA2-web-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png)</a>
+ 
 This month, select one or more of the following three themes:
 <ol>
             <li>
@@ -27,7 +29,7 @@ This month, select one or more of the following three themes:
           </ol>
         </div>
         
-        <div class="ezcol ezcol-one-half ezcol-last">
+        
 Ce mois-ci, choisis un ou plusieurs des trois th&egrave;mes suivants:
 <ol>
             <li>
@@ -42,16 +44,16 @@ Ce mois-ci, choisis un ou plusieurs des trois th&egrave;mes suivants:
           </ol>
         </div>
         
-        <div class="ezcol-divider">
+        
         </div>
         
-        <div class="ezcol ezcol-one-half">
-Be safe! Be respectful! See <a href="http://oldforum.mrgs.ca/index.php/board,3.0.html">development board</a>. See you in August with the fantastic results!</div><div class="ezcol ezcol-one-half ezcol-last">
-Prudence! Respect! Pour plus de d&eacute;tails, n&#8217;h&eacute;site pas &agrave; jeter un oeil &agrave; <a href="http://oldforum.mrgs.ca/index.php/board,3.0.html">affiches-y</a> ton avancement!</div><div class="ezcol-divider">
+        
+Be safe! Be respectful! See <a href="http://oldforum.mrgs.ca/index.php/board,3.0.html">development board</a>. See you in August with the fantastic results!</div>
+Prudence! Respect! Pour plus de d&eacute;tails, n&#8217;h&eacute;site pas &agrave; jeter un oeil &agrave; <a href="http://oldforum.mrgs.ca/index.php/board,3.0.html">affiches-y</a> ton avancement!</div>
                 </div>
-<div class="ezcol ezcol-one-half">
-And of course, let&#8217;s not forget a roundup of our favourite games (that is, all of the games) from our first ever Game-Making Adventure, back in April. They are, in no particular order (that is, alphabetical order):</div><div class="ezcol ezcol-one-half ezcol-last">
-Biens&ucirc;r, il ne faudrait pas oublier nos jeux pr&eacute;f&eacute;r&eacute;s &#8212; c&#8217;est-&agrave;-dire tous les jeux &#8212; tout droit sorti de la premi&egrave;re mouture du &#8220;Downtown Trimester Game-Making Adventure&#8221; en avril dernier: </div><div class="ezcol-divider">
+
+And of course, let&#8217;s not forget a roundup of our favourite games (that is, all of the games) from our first ever Game-Making Adventure, back in April. They are, in no particular order (that is, alphabetical order):</div>
+Biens&ucirc;r, il ne faudrait pas oublier nos jeux pr&eacute;f&eacute;r&eacute;s &#8212; c&#8217;est-&agrave;-dire tous les jeux &#8212; tout droit sorti de la premi&egrave;re mouture du &#8220;Downtown Trimester Game-Making Adventure&#8221; en avril dernier: </div>
                       </div>
 <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,17.0.html">![Going Rogue]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/GoingRogue-600px.jpg)</a>
 <em><strong><a href="http://oldforum.mrgs.ca/index.php/topic,13.0.html">![Montreal 2029: Mecha Men from the Deep]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/MechaMen-600px.jpg)</a>

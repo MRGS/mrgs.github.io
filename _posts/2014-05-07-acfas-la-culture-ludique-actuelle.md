@@ -30,26 +30,52 @@ Please note and follow the event&#8217;s <a href="http://oldforum.mrgs.ca/index.
 ---
 </div><div class="large-6 columns ">
 <p>
-        <em>QUAND?</em><br /> Dimanche 11 mai, 17h00-23h00
-<em>OÙ?</em><br /> Université Concordia, edifice EV<br /> 1515 Ste.-Catherine Ouest<br /> Ligne verte du métro<br /> (<a href="https://www.google.ca/maps/place/1515+Rue+Sainte-Catherine+Ouest/@45.495413,-73.577693,17z/data=!3m1!4b1!4m2!3m1!1s0x4cc91a6a33cf7b2f:0xc7ea08d4caffed42">Directions</a>)
+        <em>QUAND?</em>
+ Dimanche 11 mai, 17h00-23h00
+<em>OÙ?</em>
+ Université Concordia, edifice EV
+ 1515 Ste.-Catherine Ouest
+ Ligne verte du métro
+ (<a href="https://www.google.ca/maps/place/1515+Rue+Sainte-Catherine+Ouest/@45.495413,-73.577693,17z/data=!3m1!4b1!4m2!3m1!1s0x4cc91a6a33cf7b2f:0xc7ea08d4caffed42">Directions</a>)
 </div><div class="large-6 columns ">
 <p>
-            <em>WHEN?</em><br /> Sunday, May 11th, 17h00-23h00
-<em>WHERE?</em><br /> Concordia University, EV building<br /> 1515 Ste.-Catherine West<br /> Metro green line<br /> (<a href="https://www.google.ca/maps/place/1515+Rue+Sainte-Catherine+Ouest/@45.495413,-73.577693,17z/data=!3m1!4b1!4m2!3m1!1s0x4cc91a6a33cf7b2f:0xc7ea08d4caffed42">Directions</a>)<br /> </div><div class="large-6 columns ">
+            <em>WHEN?</em>
+ Sunday, May 11th, 17h00-23h00
+<em>WHERE?</em>
+ Concordia University, EV building
+ 1515 Ste.-Catherine West
+ Metro green line
+ (<a href="https://www.google.ca/maps/place/1515+Rue+Sainte-Catherine+Ouest/@45.495413,-73.577693,17z/data=!3m1!4b1!4m2!3m1!1s0x4cc91a6a33cf7b2f:0xc7ea08d4caffed42">Directions</a>)
+ </div><div class="large-6 columns ">
               Voir l&#8217;événement sur <a href="https://www.facebook.com/events/1487986284748126/">Facebook</a>!
             </div>
             
             <div class="large-6 columns ">
-              Check out the event on <a href="https://www.facebook.com/events/1487986284748126/">Facebook</a>!<br />
+              Check out the event on <a href="https://www.facebook.com/events/1487986284748126/">Facebook</a>!
+
             </div>
             
-            <br /> &nbsp;<br /> &nbsp;
+            
+ &nbsp;
+ &nbsp;
 ---
           
           <strong>LES JEUX // THE GAMES</strong></p> <p>
-            <em><a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">Beachcomber</a></em><br /> (Mason Lindroth)<br /> <a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">![Beachcomber]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Beachcomber-650px.png)</a>
-<em><a href="http://vote.runhello.com/j/artist/3/">BECOME A GREAT ARTIST IN JUST 10 SECONDS</a></em><br /> (Michael Brough &#038; Andi McClure)<br /> <a href="http://vote.runhello.com/j/artist/3/">![BECOME A GREAT ARTIST IN JUST 10 SECONDS]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Become-an-Artist-650px.png)</a>
-<em><a href="http://emmettbutler.com/games/howdo.html">how do you Do It?</a></em><br /> (Emmett Butler &#038; Nina Freeman)<br /> <a href="http://emmettbutler.com/games/howdo.html">![how do you Do It]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/howDoYouDoIt-650px.jpg)</a>
-<em><a href="http://bo-en.info/URLpalemachine.html">Pale Machine</a></em><br /> (Ben Esposito &#038; Calum Bowen)<br /> <a href="http://bo-en.info/URLpalemachine.html">![Pale Machine]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/PaleMachine-650px.png)</a>
-<em><a href="http://jimmylands.com/experiments/kissing/">Realistic Kissing Simulator</a></em><br /> (Jimmy Andrews &#038; Loren Schmidt)<br /> <a href="http://jimmylands.com/experiments/kissing/">![Realistic Kissing Simulator]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/RealisticKissingSimulator-650px.png)</a>
-&nbsp;<br /> &nbsp;<br /> &nbsp;
+            <em><a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">Beachcomber</a></em>
+ (Mason Lindroth)
+ <a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">![Beachcomber]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Beachcomber-650px.png)</a>
+<em><a href="http://vote.runhello.com/j/artist/3/">BECOME A GREAT ARTIST IN JUST 10 SECONDS</a></em>
+ (Michael Brough &#038; Andi McClure)
+ <a href="http://vote.runhello.com/j/artist/3/">![BECOME A GREAT ARTIST IN JUST 10 SECONDS]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Become-an-Artist-650px.png)</a>
+<em><a href="http://emmettbutler.com/games/howdo.html">how do you Do It?</a></em>
+ (Emmett Butler &#038; Nina Freeman)
+ <a href="http://emmettbutler.com/games/howdo.html">![how do you Do It]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/howDoYouDoIt-650px.jpg)</a>
+<em><a href="http://bo-en.info/URLpalemachine.html">Pale Machine</a></em>
+ (Ben Esposito &#038; Calum Bowen)
+ <a href="http://bo-en.info/URLpalemachine.html">![Pale Machine]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/PaleMachine-650px.png)</a>
+<em><a href="http://jimmylands.com/experiments/kissing/">Realistic Kissing Simulator</a></em>
+ (Jimmy Andrews &#038; Loren Schmidt)
+ <a href="http://jimmylands.com/experiments/kissing/">![Realistic Kissing Simulator]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/RealisticKissingSimulator-650px.png)</a>
+&nbsp;
+ &nbsp;
+ &nbsp;

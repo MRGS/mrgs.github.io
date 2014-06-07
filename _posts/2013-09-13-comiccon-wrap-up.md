@@ -16,4 +16,6 @@ La SLMR est fi&egrave;re d&#8217;avoir particip&eacute; &agrave; une discussion 
 Si vous y &eacute;tiez &#8212; on vous souhaite la bienvenue! N&#8217;h&eacute;sitez pas &agrave; nous envoyer un <a href="mailto:bakedgoodsENLEVECECI@mrgsETCECIAUSSI.ca">courriel</a>, suivez nous sur <a href="https://www.facebook.com/groups/135987799795381/">Facebook</a> ou <a href="http://twitter.com/societeludique">Twitter</a>, aidez-nous &agrave; <a href="http://www.glorioustrainwrecks.com/node/165">cr&eacute;er touts les jeux</a>, et venez faire partie de notre communaut&eacute;.
 Et n&#8217;oubliez pas de visiter nos co-intervenants: les <a href="http://pixelles.ca">Pixelles</a> &#8212; une initiative qui vise &agrave; appuyer les femmes interess&eacute;es &agrave; faire leurs premiers jeux vid&eacute;o &#8212; et le <a href="http://tag.hexagram.ca/">laboratoire TAG</a> &agrave; Concordia &#8212; un atelier pour l&#8217;&eacute;tude, la cr&eacute;ation, et l&#8217;appr&eacute;ciation des jeux.
 &Agrave; bient&ocirc;t!
-</div><br /> &nbsp;<br /> &nbsp;
+</div>
+ &nbsp;
+ &nbsp;
