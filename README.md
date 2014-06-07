@@ -29,24 +29,24 @@ Hacking on the site's look is a bit more complicated. We want to be able to twea
 - Clone the repo locally, if you haven't already.
 - The easiest way to get all the dependencies is to install [Brew](http://brew.sh) if you don't have it. Follow the instructions on the site and you'll be up and running in no time.
 - Open the Terminal and run `brew install node`.
-- Run `npm install -g bower npm` and `npm install -g grunt-cli`. (These'll install the Node-based tools [Bower](http://bower.io) and [Grunt](http://gruntjs.com/).)
+- Run `npm install -g bower npm` and `npm install -g gulp`. (These'll install the Node-based tools [Bower](http://bower.io) and [Gulp](http://gulpjs.com/).)
 - Run `gem install jekyll` and `gem install bundler`. (You might need to run these as `sudo`, as in `sudo gem install jekyll`.)
 
 #### On Windows:
 
 - You'll need to install [node.js](http://nodejs.org/) manually. It should add itself to your PATH so that you can execute it from the command line.
 - You'll also need Ruby -- probably the easiest way to install it is to use the aptly-named [RubyInstaller](http://rubyinstaller.org/).
-- From a command prompt, run `npm install -g bower` and `npm install -g grunt-cli` to grab [Bower](http://bower.io) and [Grunt](http://gruntjs.com/).
+- From a command prompt, run `npm install -g bower` and `npm install -g gulp` to grab [Bower](http://bower.io) and [Gulp](http://gulpjs.com/).
 - Run `gem install jekyll` and `gem install bundler` to grab the Ruby-based dependencies.
 
 #### On Linux:
 
 - You can grab node.js and Ruby via your favourite package manager. Remember that the packages in your distro's repositories might lag behind the latest versions by a significant factor, so if you're getting weird errors you might want to seek out PPAs/repos that offer binaries from closer upstream.
-- `sudo npm install -g bower npm`, `sudo npm install -g grunt-cli`, `sudo gem install jekyll` and `sudo gem install bundler` to install all the dependencies.
+- `sudo npm install -g bower`, `sudo npm install -g gulp`, `sudo gem install jekyll` and `sudo gem install bundler` to install all the dependencies.
 
 
 #### All platforms:
 
 - `cd` into the local directory to which you cloned the repo and `run npm install`, `bower install` and `bundle install`.
 
-Now from the command line in the project directory you can run the build task: `grunt serve` will launch your browser and crank up a compact local server that watches for changes on the site and automatically rebuild and refresh the view as you make changes. Hooray! Edit the files in the *_less*, *_src*, *_layouts*, and *_includes* directories to your heart's content.
+Now from the command line in the project directory you can run the build task: `gulp serve` will launch your browser and crank up a compact local server that watches for changes on the site and automatically rebuild and refresh the view as you make changes. Hooray! Edit the files in the *_less*, *_src*, *_layouts*, and *_includes* directories to your heart's content.
