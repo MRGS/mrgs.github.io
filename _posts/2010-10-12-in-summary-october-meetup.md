@@ -12,16 +12,12 @@ As promised, [Jonathan Lavigne][1] and his crew got things started, walking us t
 
 <p style="text-align: center;">
   ![Meetup]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/10/October-meetup-006_small.jpg)
-</p>
-
 Jonathan and his crew were followed up by Fred Smyczynski ([Dijiko][3]), who eased us into the open-mike portion of the night with his upcoming Flash game Meteor Wars. As seems to be becoming typical with our open-mike format, both Meteor Wars and the subsequently-demoed games were looking sweet, and were well-received by the crowd. If terrible weather is the price we pay for consistently awesome indie games, then we say bring it on!*
 
 And so, we all danced and sang and played and chatted into the evening. And there was pie. And it was good.
 
 <p style="text-align: center;">
   ![Meetup]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/10/October-meetup-015_small.jpg)
-</p>
-
 &#8212;&#8212;&#8212;&#8212;
 
 * For the most part. Sun and reasonable temperatures would be kind of nice too. Maybe?

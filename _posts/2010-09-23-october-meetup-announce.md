@@ -23,9 +23,7 @@ The [Montreal International Game Summit][3] (MIGS) is coming up on November 8 an
 
 <p style="font-size: smaller;">
   *Guarantee subject to terms and conditions listed in the EULA. Some restrictions apply. Void where prohibited. Mount Royal Holdings, LLC. holds no liability for enlightenment, injury, or uncontrollable crying that may result from event. Always enjoy postmortems in moderation.
-</p>
-
- [1]: http://pixeltao.ca/
+[1]: http://pixeltao.ca/
  [2]: https://secure.wikimedia.org/wikipedia/en/wiki/Scott_Pilgrim_vs._the_World:_The_Game
  [3]: http://www.sijm.ca/
  [4]: mailto:infoWITHOUTSPAMHERE@IAMSERIOUSABOUTSPAMmontrealindies.com

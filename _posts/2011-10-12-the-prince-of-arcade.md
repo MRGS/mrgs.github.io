@@ -16,37 +16,16 @@ You are awakened from a troubled sleep. In the darkness, a blinding light! A vis
 <center>
   <br /> &#8212; From a synaesthetic dimension beyond our understanding &#8212;</p> <p>
     &#8212; In an hour of desperate need &#8212;
-  </p>
-  
-  <p>
-    &#8212; Weighing in at an intangible number of pounds &#8212;
-  </p>
-  
-  <p>
-    &#8212; BEHOLD &#8212;
-  </p>
-  
-  <h4>
+&#8212; Weighing in at an intangible number of pounds &#8212;
+&#8212; BEHOLD &#8212;
+<h4>
     <em>THE PRINCE HAS RETURNED</em>
   </h4>
-  
-  <p>
-    </center>
-  </p>
-  
-  <p>
-    <a href="http://www.montrealindies.com/?p=115">Last year</a>&#8216;s party was such a beautiful success, we&#8217;re once again packing an art gallery full to bursting with drinks, music, and indie gaming joy, and dancing until the cows come home (the cows come home at 1am as per municipal bylaw).
-  </p>
-  
-  <p>
-    <em>Sling those informations!</em>
-  </p>
-  
-  <p>
-    The <a href="http://www.montrealindies.com">Mount Royal Game Society</a> and <a href="http://www.dirty-rectangles.com/">Dirty Rectangles</a> present:
-  </p>
-  
-  <ul>
+</center>
+<a href="http://www.montrealindies.com/?p=115">Last year</a>&#8216;s party was such a beautiful success, we&#8217;re once again packing an art gallery full to bursting with drinks, music, and indie gaming joy, and dancing until the cows come home (the cows come home at 1am as per municipal bylaw).
+<em>Sling those informations!</em>
+The <a href="http://www.montrealindies.com">Mount Royal Game Society</a> and <a href="http://www.dirty-rectangles.com/">Dirty Rectangles</a> present:
+<ul>
     <li>
       <b><em>THE PRINCE OF ARCADE</b></em> <ul>
         <li>
@@ -62,19 +41,7 @@ You are awakened from a troubled sleep. In the darkness, a blinding light! A vis
           Indie games projected large, drinks flowing, music transmuting, beautiful people being beautiful.
         </li>
       </ul></li> </ul> 
-      
-      <p>
-        <a href="https://www.facebook.com/event.php?eid=295280413831140">Facebook event.</a>
-      </p>
-      
-      <p>
-        UPDATE: <a href="http://www.montrealindies.com/?p=251">Check out the games here!</a>
-      </p>
-      
-      <p>
-        Live the experienceness. Relax your MIGS-stimulated awareness. Bring a PLAYER 2 and we&#8217;ll shine like a thousand points of light.
-      </p>
-      
-      <p>
-        Long Live the Prince.
-      </p>
+<a href="https://www.facebook.com/event.php?eid=295280413831140">Facebook event.</a>
+UPDATE: <a href="http://www.montrealindies.com/?p=251">Check out the games here!</a>
+Live the experienceness. Relax your MIGS-stimulated awareness. Bring a PLAYER 2 and we&#8217;ll shine like a thousand points of light.
+Long Live the Prince.

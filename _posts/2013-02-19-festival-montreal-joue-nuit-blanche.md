@@ -27,44 +27,24 @@ Lineup of Royale games by our wonderful cast of developers:
 
 <p align="center">
   <em>Fuzzer</em> by <a href="http://henk.ca">Henk Boom</a><br /> <a href="http://henk.ca">![fuzzer600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/fuzzer600.jpg)</a>
-</p>
-
 <p align="center">
   <em>Game Game Videogame </em>by<em> </em><a href="http://www.joachimdespland.com/gamegamevideogame.html">Joachim Despland</a><br /> <a href="http://www.joachimdespland.com/gamegamevideogame.html">![gamegamevideogame600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/gamegamevideogame600.jpg)</a>
-</p>
-
 <p align="center">
   <em>Greedy Piggy Chase</em> by <a href="http://dom2d.com/?portfolio=slimeful-greedy-piggy-chase" target="_blank">Neverpants Studio</a><br /> <a href="http://dom2d.com/?portfolio=slimeful-greedy-piggy-chase">![greedypiggychase600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/greedypiggychase600.jpg)</a>
-</p>
-
 <p align="center">
   <em>Pax Britannica</em> by  <a href="http://paxbritannica.henk.ca/">No Fun Games</a><br /> <a href="http://paxbritannica.henk.ca/">![paxbritannica600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/paxbritannica600.jpg)</a>
-</p>
-
 <p align="center">
   <em>Space Dastards </em> with <a href="http://www.sauropodstudio.com">Sauropod Studio</a><br /> <a href="http://www.sauropodstudio.com">![spacebastards600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/spacebastards600.jpg)</a>
-</p>
-
 <p align="center">
   <em>SWOOOORDS! by <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">Kenny Backus</a></em><br /> <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">![swoooords600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/swoooords600.jpg)</a>
-</p>
-
 <p align="center">
   <em>Thrustburst </em> by <a href="http://umlautgames.net">Umlautgames</a><br /> <a href="http://umlautgames.net">![thrustburst600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/02/thrustburst.png)</a>
-</p>
-
 <p align="center">
   <em>Verteidiger</em> by <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">Kenny Backus</a>
-</p>
-
 <p align="center">
   <em id="__mceDel"> <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">![verteidiger600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/verteidiger600.jpg)</a></em>
-</p>
-
 <p align="center">
   <em>Volkenessen</em> by <a href="http://theinstructionlimit.com/games">Les Collégiennes</a><br /> <a href="http://theinstructionlimit.com/games">![volkenessen600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/volkenessen600.jpg)</a>
-</p>
-
 There may even be more to announce in terms of programming in the near future, stay tuned.
 
  [1]: http://arene.bibliomontreal.com/festival-montreal-joue

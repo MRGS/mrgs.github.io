@@ -32,16 +32,10 @@ categories:
 <div class="ezcol ezcol-one-half">
   <em>WHEN</em><br /> Wednesday, June 6th, 19h30</p> <p>
     <em>WHERE</em><br /> Brasserie Artisanale l’Amère à boire<br /> 2049 rue Saint-Denis, 3rd floor
-  </p>
-  
-  <p>
-    <em>WHAT</em></div><div class="ezcol ezcol-one-half ezcol-last">
+<em>WHAT</em></div><div class="ezcol ezcol-one-half ezcol-last">
       <em>QUAND?</em><br /> Mercredi 6 juin, 19h30</p> <p>
         <em>O&Ugrave;?</em><br /> Brasserie Artisanale l&#8217;Am&egrave;re &agrave; boire<br /> 2049 rue Saint-Denis, 3e &eacute;tage
-      </p>
-      
-      <p>
-        <em>QUOI?</em><br /> </div><div class="ezcol-divider">
+<em>QUOI?</em><br /> </div><div class="ezcol-divider">
         </div>
         
         <div class="ezcol ezcol-one-half">
@@ -54,10 +48,7 @@ categories:
         
         <div class="ezcol-divider">
         </div>
-      </p>
-      
-      <p>
-        <div class="ezcol ezcol-one-half">
+<div class="ezcol ezcol-one-half">
           Oh, and a supplementary note: the June meetup will mark the official second anniversary of MRGS/SLMR. That is, the start of our third year. By the Shire reckoning. We think. In any case, many thanks to all you excellent and admirable hobbits for having given over your Wednesday nights and (frankly) Thursday mornings to making the community warm and fuzzy and kitten-like. Real kittens! So much fun. So much more to be had.
         </div>
         
@@ -67,10 +58,7 @@ categories:
         
         <div class="ezcol-divider">
         </div>
-      </p>
-      
-      <p>
-        <div class="ezcol ezcol-one-half">
+<div class="ezcol ezcol-one-half">
           Meetup! Why not <a>Facebook</a>!
         </div>
         
@@ -80,4 +68,3 @@ categories:
         
         <div class="ezcol-divider">
         </div>
-      </p>

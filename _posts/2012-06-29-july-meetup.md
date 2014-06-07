@@ -32,16 +32,10 @@ categories:
 <div class="ezcol ezcol-one-half">
   <em>WHEN</em><br /> Wednesday, July 4th, 19h30</p> <p>
     <em>WHERE</em><br /> Brasserie Artisanale l’Am&egrave;re &agrave; boire<br /> 2049 rue Saint-Denis, 3rd floor
-  </p>
-  
-  <p>
-    <em>WHAT</em></div><div class="ezcol ezcol-one-half ezcol-last">
+<em>WHAT</em></div><div class="ezcol ezcol-one-half ezcol-last">
       <em>QUAND?</em><br /> Mercredi 4 juillet, 19h30</p> <p>
         <em>O&Ugrave;?</em><br /> Brasserie Artisanale l&#8217;Am&egrave;re &agrave; boire<br /> 2049 rue Saint-Denis, 3e &eacute;tage
-      </p>
-      
-      <p>
-        <em>QUOI?</em><br /> </div><div class="ezcol-divider">
+<em>QUOI?</em><br /> </div><div class="ezcol-divider">
         </div>
         
         <div class="ezcol ezcol-one-half">
@@ -54,10 +48,7 @@ categories:
         
         <div class="ezcol-divider">
         </div>
-      </p>
-      
-      <p>
-        <div class="ezcol ezcol-one-half">
+<div class="ezcol ezcol-one-half">
           And is it possible that a new <a href="http://oldforum.mrgs.ca/index.php/topic,7.0.html">Downtown Trimester Game Making Adventure</a> is just around the corner? No, it is not possible, since the DTGMA is not a physical thing in space. But metaphorically, it&#8217;s possible you get the drift.
         </div>
         
@@ -67,10 +58,7 @@ categories:
         
         <div class="ezcol-divider">
         </div>
-      </p>
-      
-      <p>
-        <div class="ezcol ezcol-one-half">
+<div class="ezcol ezcol-one-half">
           Meetup! Why not <a href="https://www.facebook.com/events/344273708981083/">Facebook</a>!
         </div>
         
@@ -80,4 +68,3 @@ categories:
         
         <div class="ezcol-divider">
         </div>
-      </p>

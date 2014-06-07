@@ -10,34 +10,15 @@ categories:
 ![Meetup-2013-08-panorama-650px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/08/Meetup-2013-08-panorama-650px.jpg)
 
 <div class="large-6 columns ">
-  <p>
-    In which we look back at the variously emotive times we had at last night&#8217;s <a href="{{ site.baseurl }}/2013/07/august-meetup-2/">August Meetup</a>.
-  </p>
-  
-  <p>
-    Thanks for coming out, everyone!
-  </p>
-  
-  <p>
-    </div><div class="large-6 columns ">
-      <p>
-        Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/07/august-meetup-2/">meetup</a> d&#8217;hier soir.
-      </p>
-      
-      <p>
-        Merci &agrave; tous d&#8217;&ecirc;tre venus!
-      </p>
-      
-      <p>
-        </div>
-      </p>
+In which we look back at the variously emotive times we had at last night&#8217;s <a href="{{ site.baseurl }}/2013/07/august-meetup-2/">August Meetup</a>.
+Thanks for coming out, everyone!
+</div><div class="large-6 columns ">
+Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/07/august-meetup-2/">meetup</a> d&#8217;hier soir.
+Merci &agrave; tous d&#8217;&ecirc;tre venus!
+</div>
 ---
-      
-      <p>
-        LES ANNONCES / ANNOUNCEMENTS
-      </p>
-      
-      <ul>
+LES ANNONCES / ANNOUNCEMENTS
+<ul>
         <li>
           <a href="https://www.facebook.com/events/455179844568325/">Toy Company Festival</a> &#8212; Ce weekend / this weekend!
         </li>
@@ -57,12 +38,8 @@ categories:
           <a href="http://douteux.tv/archives/id_emission-51">Du pain et des jeux</a> brought an OUYA. Ooo. Yeah.
         </li>
       </ul>
-      
-      <p>
-        LES JEUX / GAMES
-      </p>
-      
-      <ul>
+LES JEUX / GAMES
+<ul>
         <li>
           <a href="http://www.beavernutsgames.com/games.html"><em>Battle Type</em></a>, Beaver Nuts
         </li>
@@ -85,7 +62,4 @@ categories:
           <a href="https://www.youtube.com/user/smikesmike05"><em>Sunato</em></a>, Michael Shaevitch
         </li>
       </ul>
-      
-      <p>
-        &nbsp;
-      </p>
+&nbsp;

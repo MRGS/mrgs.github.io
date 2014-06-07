@@ -10,12 +10,8 @@ tags:
 ---
 <p style="text-align: center;">
   It&#8217;s happening! It&#8217;s happening! It&#8217;s really happening!
-</p>
-
 <p style="text-align: center;">
   Oh hey could you remind us what&#8217;s happening again?
-</p>
-
 [![Prince of Arcade 2011]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-front-600px.png)][1]
 
 [![Prince of Arcade 2011]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/10/PoA-flyer-back-600px.png)][2]

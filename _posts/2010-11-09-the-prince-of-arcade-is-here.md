@@ -61,9 +61,7 @@ And last but not least&#8230;
 
 <p style="font-size: smaller;">
   * Please specify Kosher or Vegetarian videogame options with ticket purchase.
-</p>
-
- [1]: http://www.montrealindies.com/?p=83
+[1]: http://www.montrealindies.com/?p=83
  [2]: http://www.easternbloc.ca
  [3]: http://www.algonquincollege.com/
  [4]: http://www.heenan.ca

@@ -80,8 +80,6 @@ And the triumphant return of
 
 <p style="font-size: 70%;">
   ![ArcadeRoyale-RF]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/ArcadeRoyale-RF-600x600.jpg)(Photo courtesy the ever-rockin&#8217; <a href="http://fractgame.com/">Richard Flanagan</a>)
-</p>
-
 &nbsp;
 
 If that&#8217;s not exciting enough, we have a few other surprises in store for you too. Stay tuned!
