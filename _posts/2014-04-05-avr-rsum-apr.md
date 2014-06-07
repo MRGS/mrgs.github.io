@@ -29,8 +29,7 @@ categories:
       <p>
         </div>
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES ANNONCES / ANNOUNCEMENTS</strong>
@@ -51,8 +50,7 @@ categories:
       <p>
         Look at the DATGAM games! <em><a href="http://forum.mrgs.ca/t/datgam-ix-march-2014/64">Look at them!</a></em>
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>P&Acirc;TISSERIES / BAKED GOODS</strong>
@@ -61,8 +59,7 @@ categories:
       <p>
         <a href="http://sweetpeaskitchen.com/2011/05/lemon-blueberry-yogurt-loaf/">Lemon-Blueberry Yogurt Loaf</a>, via <a href="http://loudcat.net/">Rebecca</a><br /> <a href="https://docs.google.com/document/d/1JQplk_UlM_djfex6-gB7euzld1TJlO7UW8-ETfT9NWE/edit">Cranberry Scones</a> (not present), via <a href="http://twitter.com/newton64">Nick</a>
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES JEUX / GAMES</strong>

@@ -29,8 +29,7 @@ categories:
       <p>
         </div>
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES ANNONCES / ANNOUNCEMENTS</strong>
@@ -51,8 +50,7 @@ categories:
       <p>
         Les <a href="http://forum.mrgs.ca/">forums</a> du SLMR sont en besoin d&#8217;un/e b&eacute;n&eacute;vole avec de l&#8217;exp&eacute;rience en Ruby pour effectuer des r&eacute;parations. <a href="mailto:bakedgoods@mrgs.ca">Contactez-nous</a>! &nbsp; // The MRGS <a href="http://forum.mrgs.ca">forums</a> are in need of a volunteer with experience in Ruby to fix them up and bring them back to life! <a href="mailto:bakedgoods@mrgs.ca">Get in touch</a>!
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES JEUX / GAMES</strong>

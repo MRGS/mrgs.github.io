@@ -16,14 +16,12 @@ tags:
   <p>
     Amid the darkening mornings and the frigid nights, a light is rising:<br /><br /> THE PRINCE IS BACK.
   </p>
-  
-  <hr />
+---
   
   <p>
     For the fourth year running, The Prince of Arcade is filling the Eastern Bloc New Media Center with a host of unique and unreleased games from independent designers. From wildly competitive digital showdowns to machine-mediated meditation, the games appeal to both player and spectator alike in a dynamic reconfiguration of the art gallery. Come on out for a night of drinks and electronic fever-dreams!<br /> &nbsp;<br /> &nbsp;<br /> &nbsp;
   </p>
-  
-  <hr />
+---
   
   <p align="center">
     BE THERE. BE LOVELY.<br /><br /> <<< <a href="http://prince.mrgs.ca">MORE INFO &#038; GAMES LIST</a> >>><br /><br /> &rarr; <a href="https://gum.co/PbIe">PRE-ORDER TICKETS</a> ($10) &larr;
@@ -34,14 +32,12 @@ tags:
       <p>
         Triomphant des matins sombres et des nuits frigides, une nouvelle lumière se lève –<br />LE PRINCE EST DE RETOUR!
       </p>
-      
-      <hr />
+---
       
       <p>
         Pour une quatrième année consécutive, la soirée Prince of Arcade remplit le centre de nouveaux médias Eastern Bloc avec une foule de jeux par des créatrices/créateurs indépendants. Comprenant des jeux compétitifs déchaînés côte à côte à des méditations numériques, les installations font appel aux joueurs comme aux spectateurs dans une reconfiguration dynamique de la galerie d&#8217;art. Soyez des nôtres pour une soirée de drinks et de transcendance numérique multi-joueurs!
       </p>
-      
-      <hr />
+---
       
       <p align="center">
         SOYEZ LÀ. SOYEZ CHIC.<br /><br /> <<< <a href="http://prince.mrgs.ca">INFOS &#038; LISTE DE JEUX</a> >>><br /><br /> &rarr; <a href="https://gum.co/PbIe">COMMANDEZ VOS BILLETS</a> (10$) &larr;

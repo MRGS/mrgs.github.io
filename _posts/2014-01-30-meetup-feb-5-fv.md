@@ -15,8 +15,7 @@ categories:
   <p>
     Come introduce yourselves if it&#8217;s your first time at a meetup, and <a href="mailto:bakedgoods@mrgs.ca">email us</a> early if you&#8217;d like to present a demo or find new and exciting recipes for baked goods.<br /> &nbsp;<br /> &nbsp;<br /> &nbsp;
   </p>
-  
-  <hr />
+---
   
   <p>
     The MRGS monthly meetups bring together game enthusiasts from Montreal and beyond to chat about games, play some demos, share a few drinks, and generally keep each other inspired. Game-making experience is NOT required &#8212; newcomers are welcome, and encouraged to come say hello!
@@ -35,8 +34,7 @@ categories:
       <p>
         N&#8217;oubliez pas de nous contacter rapidement si vous avez un jeu &agrave; montrer sur le projecteur. On s&#8217;attend &agrave; ce qu&#8217;il y ait une tonne et demie de jeux! N&#8217;h&eacute;sitez pas non plus &agrave; <a href="mailto:bakedgoods@mrgs.ca">nous contacter</a> si c&#8217;est votre premi&egrave;re visite ou si vous cherchez une nouvelle recette de biscuits&#8230;
       </p>
-      
-      <hr />
+---
       
       <p>
         Les enthousiastes de jeux vidéo de Montréal, et ses alentours, se rassemblent chaque mois aux rencontres de la Société Ludique du Mont-Royal. Pour se garder motivés et inspirés les uns les autres on y discute de jeux vidéos et de l&#8217;industrie, on y présente des démos et on y boit quelques bières tout en ayant une agréable soirée. Nul besoin d&#8217;être un développeur pour y assister, les petits nouveaux sont toujours les bienvenus!

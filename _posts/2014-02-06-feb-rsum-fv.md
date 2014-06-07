@@ -29,8 +29,7 @@ categories:
       <p>
         </div>
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES ANNONCES / ANNOUNCEMENTS</strong><br /> Le podcast <a href="http://www.onajusteunevie.ca/">On a juste une vie</a> vous invite &agrave; venir parler de vos projets et de vos jeux &agrave; leur &eacute;mission.
@@ -47,8 +46,7 @@ categories:
       <p>
         Don&#8217;t forget to visit the new <a href="http://forum.mrgs.ca/">forums</a>, <a href="http://forum.mrgs.ca/t/welcome-to-the-new-mrgs-slmr-forum/15">say hello</a>, and look at the <a href="http://forum.mrgs.ca/t/moving-pictures/22">pretty pictures</a>.
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES JEUX / GAMES</strong>

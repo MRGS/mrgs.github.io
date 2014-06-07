@@ -31,8 +31,7 @@ categories:
       <p>
         </div>
       </p>
-      
-      <hr />
+---
       
       <p>
         LES ANNONCES / ANNOUNCEMENTS

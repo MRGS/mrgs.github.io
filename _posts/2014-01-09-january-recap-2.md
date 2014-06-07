@@ -29,8 +29,7 @@ categories:
       <p>
         </div>
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES ANNONCES / ANNOUNCEMENTS</strong><br /> <a href="http://executionlabs.com/en/">Execution Labs</a> is starting a new round of applications for their game development and studio incubator &#8212; inquire within!
@@ -51,8 +50,7 @@ categories:
       <p>
         Going into the new year, with new non-profit status, MRGS is going to be holding an informal discussion session to find new ways to work with and empower the local community. The discussion will take place January 22nd, time and place to be determined &#8212; watch this space!
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES JEUX / GAMES</strong><br /> <em><a href="http://anamorphine.com/">Anamorphine</a></em>, Mohannad Al-Khatib &#038; Ramy Daghstani

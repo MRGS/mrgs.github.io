@@ -31,8 +31,7 @@ categories:
       <p>
         </div>
       </p>
-      
-      <hr />
+---
       
       <p>
         LES ANNONCES / ANNOUNCEMENTS<br /> &raquo;&raquo; Sign up for the Dawson College course on <a href="http://www.dawsoncollege.qc.ca/aec-programs/independent-video-game-design">independent video game design</a>!<br /> &raquo;&raquo; Parcade est de retour le 21 septembre! Plus de d&eacute;tails sur <a href="https://www.facebook.com/events/357394621060457/">Facebook</a>!<br /> &raquo;&raquo; Concordia&#8217;s TAG is <a href="http://tag.hexagram.ca/events/the-boob-jam/">taking part</a> in the <a href="http://theboobjam.com/what">Boob Jam</a> the 28-29th September!

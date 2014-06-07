@@ -11,8 +11,7 @@ categories:
   <p>
     May is here and our meteorologist is 81% confident that Winter is finally behind us. Join us for drinks, games, and &#8212; hopefully &#8212; weather fit for a terrace.<br /> &nbsp;
   </p>
-  
-  <hr />
+---
   
   <p>
     The MRGS monthly meetups bring together game enthusiasts from Montreal and beyond to chat about games, play some demos, share a few drinks, and generally keep each other inspired. Game-making experience is NOT required &#8212; newcomers are welcome, and encouraged to come say hello!
@@ -27,8 +26,7 @@ categories:
       <p>
         C&#8217;est le mois de mai, et nos m&eacute;t&eacute;orologues nous informent que c&#8217;est finalement l&#8217;heure de ranger nos manteaux d&#8217;hiver. C&eacute;l&eacute;brons le retour des terrasses avec des jeux, des bi&egrave;res, et de la bonne compagnie!
       </p>
-      
-      <hr />
+---
       
       <p>
         Les enthousiastes de jeux vidéo de Montréal, et ses alentours, se rassemblent chaque mois aux rencontres de la Société Ludique du Mont-Royal. Pour se garder motivés et inspirés les uns les autres on y discute de jeux vidéo et de l&#8217;industrie, on y présente des démos et on y boit quelques bières tout en ayant une agréable soirée. Nul besoin d&#8217;être un développeur pour y assister, les petits nouveaux sont toujours les bienvenus!

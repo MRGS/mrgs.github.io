@@ -11,8 +11,7 @@ categories:
   <p>
     Baked goods have slowly been making a comeback at MRGS meetups, and the organisers fully condone this activity. Come along and share your recipes, your games, and your smiling faces.<br /> &nbsp;
   </p>
-  
-  <hr />
+---
   
   <p>
     The MRGS monthly meetups bring together game enthusiasts from Montreal and beyond to chat about games, play some demos, share a few drinks, and generally keep each other inspired. Game-making experience is NOT required &#8212; newcomers are welcome, and encouraged to come say hello!
@@ -27,8 +26,7 @@ categories:
       <p>
         Les p&acirc;tisseries sont de plus en plus nombreuses aux r&eacute;unions du SLMR, et nous les organisateurs/trices encourageons cette tendance rafra&icirc;chissante. Venez donc partager vos recettes, vos jeux, et vos visages brillants.
       </p>
-      
-      <hr />
+---
       
       <p>
         Les enthousiastes de jeux vidéo de Montréal, et ses alentours, se rassemblent chaque mois aux rencontres de la Société Ludique du Mont-Royal. Pour se garder motivés et inspirés les uns les autres on y discute de jeux vidéo et de l&#8217;industrie, on y présente des démos et on y boit quelques bières tout en ayant une agréable soirée. Nul besoin d&#8217;être un développeur pour y assister, les petits nouveaux sont toujours les bienvenus!

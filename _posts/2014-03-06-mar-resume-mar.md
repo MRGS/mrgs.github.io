@@ -31,8 +31,7 @@ categories:
       <p>
         </div>
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES ANNONCES / ANNOUNCEMENTS</strong><br /> Le podcast <a href="http://www.lesjeuxsontfaits.ca/">Les jeux sont faits</a> vous offre un regard sur la création, l&#8217;industrie, et la culture des jeux vidéos.
@@ -45,8 +44,7 @@ categories:
       <p>
         Join the discussions over at our new <a href="http://forum.mrgs.ca/">forums</a>: follow the <a href="http://forum.mrgs.ca/category/organization">Organisation</a> tag to watch and contribute to the org&#8217;s development, or just pop by and <a href="http://forum.mrgs.ca/t/welcome-to-the-new-mrgs-slmr-forum/15">say hello</a>.
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>DTGMA / DATGAM</strong>
@@ -67,8 +65,7 @@ categories:
       <p>
         [* The acronym refers to such words as Downtown, Game, and twice the Adventure, in whatever order you see fit.]
       </p>
-      
-      <hr />
+---
       
       <p>
         <strong>LES JEUX / GAMES</strong>

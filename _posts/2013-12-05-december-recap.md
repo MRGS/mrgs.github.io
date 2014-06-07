@@ -31,8 +31,7 @@ categories:
       <p>
         </div>
       </p>
-      
-      <hr />
+---
       
       <p>
         LES ANNONCES / ANNOUNCEMENTS<br /> &raquo;&raquo; &Eacute;coutez &#8220;<a href="http://www.onajusteunevie.ca/p/podcasts.html">On a juste une vie</a>,&#8221; nouveau podcast sur la culture et la critique des jeux.<br /> &raquo;&raquo; <a href="http://pixelles.ca/">The Pixelles</a> are accepting applications, &#038; their follow-along is open to everyone.<br /> &raquo;&raquo; <em><a href="">Get Water!</a></em> is seeking playtesters &#8212; visit the <a href="http://tag.hexagram.ca/contact-tag/">TAG Lab</a> today, 5 Dec., @ 16h00.<br /> &raquo;&raquo; Participez au &#8220;Battle of the Devs,&#8221; nouveau concours mensuel mettant en vedette les jeux ind&eacute;pendants &#8212; contactez <a href="mailto:stephaniegallagher23@gmail.com">St&eacute;phanie Gallagher</a>.

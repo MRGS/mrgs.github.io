@@ -35,8 +35,7 @@ categories:
   <p>
     Veuillez noter et respecter <a href="http://oldforum.mrgs.ca/index.php/topic,71.0.html">la politique d&#8217;espace sécuritaire</a> de l&#8217;événement.
   </p>
-  
-  <hr />
+---
 </div>
 
 <div class="large-6 columns ">
@@ -67,8 +66,7 @@ categories:
   <p>
     Please note and follow the event&#8217;s <a href="http://oldforum.mrgs.ca/index.php/topic,71.0.html">Safe Spaces Policy</a>.
   </p>
-  
-  <hr />
+---
   
   <p>
     </div><div class="large-6 columns ">
@@ -97,8 +95,7 @@ categories:
             
             <br /> &nbsp;<br /> &nbsp;
           </p>
-          
-          <hr />
+---
           
           <strong>LES JEUX // THE GAMES</strong></p> <p>
             <em><a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">Beachcomber</a></em><br /> (Mason Lindroth)<br /> <a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">![Beachcomber]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Beachcomber-650px.png)</a>

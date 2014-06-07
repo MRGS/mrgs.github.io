@@ -32,8 +32,7 @@ categories:
       <p>
         </div>
       </p>
-      
-      <hr />
+---
       
       <p>
         LES ANNONCES / ANNOUNCEMENTS<br /> &raquo;&raquo; The 10th <a href="http://mtldgtl.com/en/migs/">Montreal International Game Summit</a> is coming up in just over a month!<br /> &raquo;&raquo; <a href="{{ site.baseurl }}/tag/the-prince-of-arcade/">The Prince of Arcade</a> is also coming back to town &#8212; announcements forthcoming!

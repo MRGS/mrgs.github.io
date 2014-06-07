@@ -11,8 +11,7 @@ categories:
   <p>
     Don&#8217;t forget that the <a href="http://oldforum.mrgs.ca/index.php/topic,91.0.html">DTGMA</a> &#8212; our month-long game jam &#8212; is in full swing, including on-site <a href="https://www.facebook.com/events/476211689131724/">Notman House jam</a> this weekend. Check out the results at the July meetup, and <a href="mailto:bakedgoodsSPAMTHING@ALSOSPAMTHINGmrgs.ca">let us know</a> if you&#8217;ve got something to showcase!
   </p>
-  
-  <hr />
+---
   
   <p>
     The Mount Royal Game Society meetups are a monthly gathering of game enthusiasts from Montreal and beyond, getting together to chat about games, play some demos, share a few drinks, and generally keep each other inspired. Game-making experience is NOT required &#8212; newcomers are welcome, and encouraged to come say hello!
@@ -27,8 +26,7 @@ categories:
       <p>
         Le <a href="http://oldforum.mrgs.ca/index.php/topic,91.0.html">DTGMA</a> &#8212; notre d&eacute;fi de &laquo;game jam&raquo; mensuel &#8212; est en plein vigeur; <a href="https://www.facebook.com/events/476211689131724/">rendez-vous au Notman House</a> ce weekend! On se voit mercredi prochain pour les r&eacute;sultats &#8212; et <a href="mailto:bakedgoodsSPAMTHING@ALSOSPAMTHINGmrgs.ca">faites-nous signe</a> si vous avez des d&eacute;mos &agrave; pr&eacute;senter!
       </p>
-      
-      <hr />
+---
       
       <p>
         Les enthousiastes de jeux vid&eacute;o de Montr&eacute;al, et ses alentours, se rassemblent chaque mois aux rencontres de la Soci&eacute;t&eacute; Ludique du Mont-Royal. Pour se garder motiv&eacute;s et inspir&eacute;s les uns les autres on y discute de jeux vid&eacute;os et de l&#8217;industrie, on y pr&eacute;sente des d&eacute;mos et on y boit quelques bi&egrave;res tout en ayant une agr&eacute;able soir&eacute;e. Nul besoin d&#8217;&ecirc;tre un d&eacute;veloppeur pour y assister, les petits nouveaux sont toujours les bienvenus!
