@@ -67,8 +67,8 @@ Biens&ucirc;r, il ne faudrait pas oublier nos jeux pr&eacute;f&eacute;r&eacute;s
 
                       
 
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,17.0.html">![Going Rogue]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/GoingRogue-600px.jpg)</a>
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,13.0.html">![Montreal 2029: Mecha Men from the Deep]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/MechaMen-600px.jpg)</a>
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,27.0.html">![NeoPost]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/NeoPost.jpg)</a>
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,15.0.html">![Sir Squidalot&#039;s Grand Montreal Crusade]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/SirSquidalot-600px.jpg)</a>
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,28.0.html">![A Usual Day]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/AUsualDay-600px.jpg)</a>
+***<a href="http://oldforum.mrgs.ca/index.php/topic,17.0.html">![Going Rogue]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/GoingRogue-600px.jpg)</a>
+***<a href="http://oldforum.mrgs.ca/index.php/topic,13.0.html">![Montreal 2029: Mecha Men from the Deep]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/MechaMen-600px.jpg)</a>
+***<a href="http://oldforum.mrgs.ca/index.php/topic,27.0.html">![NeoPost]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/NeoPost.jpg)</a>
+***<a href="http://oldforum.mrgs.ca/index.php/topic,15.0.html">![Sir Squidalot&#039;s Grand Montreal Crusade]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/SirSquidalot-600px.jpg)</a>
+***<a href="http://oldforum.mrgs.ca/index.php/topic,28.0.html">![A Usual Day]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/AUsualDay-600px.jpg)</a>

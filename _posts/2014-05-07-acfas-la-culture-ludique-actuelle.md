@@ -72,7 +72,7 @@ Please note and follow the event&#8217;s <a href="http://oldforum.mrgs.ca/index.
  &nbsp;
 ---
           
-          <strong>LES JEUX // THE GAMES</strong></p> <p>
+          **LES JEUX // THE GAMES**</p> <p>
             *<a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">Beachcomber</a>*
  (Mason Lindroth)
  <a href="http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&#038;uid=18575">![Beachcomber]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2014/05/Beachcomber-650px.png)</a>

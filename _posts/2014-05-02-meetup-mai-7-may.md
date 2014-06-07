@@ -25,7 +25,7 @@ N&#8217;hésite pas à <a href="mailto:bakedgoods@mrgs.ca">nous contacter</a> po
 
 
 *WHEN?*
- <strong>Wednesday, May 7th, 19h30</strong>
+ **Wednesday, May 7th, 19h30**
 *WHERE?*
  <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
  5788 boul. St.-Laurent
@@ -35,7 +35,7 @@ N&#8217;hésite pas à <a href="mailto:bakedgoods@mrgs.ca">nous contacter</a> po
 
 
 *QUAND?*
- <strong>Mercredi 7 mai 19h30</strong>
+ **Mercredi 7 mai 19h30**
 *OÙ?*
  <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
  5788 boul. St.-Laurent

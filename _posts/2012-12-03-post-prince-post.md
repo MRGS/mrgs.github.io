@@ -26,19 +26,19 @@ Et pour finir, merci infiniment à tous nous créateurs indépendants pour parta
 
         
 
-*<strong><a href="http://barabariball.com/">BaraBariBall</a></strong>* — <a href="http://strangeflavor.net/">Noah Sasso</a>
+***<a href="http://barabariball.com/">BaraBariBall</a>*** — <a href="http://strangeflavor.net/">Noah Sasso</a>
 
-*<strong><a href="http://dev.datatragedy.com/projects/moabd/">Memory of a Broken Dimension</a></strong>* — <a href="http://www.datatragedy.com/">DATATRAGEDY</a>
+***<a href="http://dev.datatragedy.com/projects/moabd/">Memory of a Broken Dimension</a>*** — <a href="http://www.datatragedy.com/">DATATRAGEDY</a>
 
-*<strong><a href="http://www.byfernando.com/blog/?p=547">Panoramical</a></strong>* — <a href="http://www.byfernando.com/">Fernando Ramallo</a> & <a href="http://davidkanaga.com/">David Kanaga</a>
+***<a href="http://www.byfernando.com/blog/?p=547">Panoramical</a>*** — <a href="http://www.byfernando.com/">Fernando Ramallo</a> & <a href="http://davidkanaga.com/">David Kanaga</a>
 
-*<strong><a href="http://hermitgames.com/qrthphyl.php">qrth-phyl</a></strong>* — <a href="http://hermitgames.com/">hermitgames</a>
+***<a href="http://hermitgames.com/qrthphyl.php">qrth-phyl</a>*** — <a href="http://hermitgames.com/">hermitgames</a>
 
-*<strong><a href="http://forums.tigsource.com/index.php?topic=25183.0">Rain World</a></strong>* — Joar Jakobsson
+***<a href="http://forums.tigsource.com/index.php?topic=25183.0">Rain World</a>*** — Joar Jakobsson
 
-*<strong>Samurai Gunn</strong>* — <a href="http://teknopants.com/">Teknopants</a>
+***Samurai Gunn*** — <a href="http://teknopants.com/">Teknopants</a>
 
-*<strong>Tennnes</strong>* — <a href="http://slordig.thepoppenkast.com/">Jan Willem Nijman</a>
+***Tennnes*** — <a href="http://slordig.thepoppenkast.com/">Jan Willem Nijman</a>
  ![tennnes]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/10/tennnes.jpg)
 <center>
           &#8212;&#8212;&#8212;
@@ -47,11 +47,11 @@ Et pour finir, merci infiniment à tous nous créateurs indépendants pour parta
         
 <center>
               See you all next year.</p> <p>
-                <strong>&#8212; Long Live the Prince &#8212;</strong></center>
+                **&#8212; Long Live the Prince &#8212;**</center>
 
 <center>
                       À l&#8217;an prochain!</p> <p>
-                        <strong>&#8212; Longue vie au Prince! &#8212;</center></strong>
+                        **&#8212; Longue vie au Prince! &#8212;</center>**
  
 
                         

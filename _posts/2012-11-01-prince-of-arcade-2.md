@@ -9,7 +9,7 @@ categories:
 tags:
   - the prince of arcade
 ---
-<span style="text-decoration: underline;"><strong><a href="http://prince.mrgs.ca">****PRINCE OF ARCADE 2013 LINK****</a></strong></span>
+<span style="text-decoration: underline;">**<a href="http://prince.mrgs.ca">****PRINCE OF ARCADE 2013 LINK****</a>**</span>
 
 BELOW IS THE 2012 POST
 
@@ -37,7 +37,7 @@ Against the drear loomings, the Voice of the Forest booms: *SUMMON THE PRINCE*.
 [third][2] [year][3] running, the Mount Royal Game Society is teaming up with the [Eastern Bloc][4] New Media production & exhibition centre to bring some love and resplendence to the grey November days. Say it together now:
 
 <center>
-  *<strong>THE PRINCE OF ARCADE</strong> IS BACK!*
+  ***THE PRINCE OF ARCADE** IS BACK!*
 </center>We&#8217;re packing the whole gallery full of projectors, arcade cabs, and controllers to showcase some of the wonderfully creative offerings that are about to hit the indie gaming scene. Gaming vets and newcomers alike are invited to come and sample the eclectic array &#8212; from blisteringly-competitive action games, to contemplative musical installations. Join us for a multi-sensory soirée of mystical and mythical dimensions, as we paint the walls with wonder and fill the night with song.
 
 **WHERE**  
@@ -94,7 +94,7 @@ Tennis like you&#8217;ve never Ponged it before!
 </center>
 
 <center>
-  <strong>— Long Live the Prince —</strong>
+  **— Long Live the Prince —**
 </center>
 
   

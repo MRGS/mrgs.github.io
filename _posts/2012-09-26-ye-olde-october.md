@@ -25,13 +25,13 @@ Et une remarque de plus: le nouvel endroit s&#8217;av&egrave;re bien plus access
           *WHEN*
  Wednesday, October 3rd, 19h30</p> <p>
             *WHERE*
- <strong>Ye Olde Orchard Pub</strong>
+ **Ye Olde Orchard Pub**
  1189 rue De la Montagne
 
               *QUAND?*
  Mercredi 3 octobre, 19h30</p> <p>
                 *OÙ?*
- <strong>Resto/pub Ye Olde Orchard</strong>
+ **Resto/pub Ye Olde Orchard**
  1189 rue De la Montagne
  
 

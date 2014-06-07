@@ -20,13 +20,13 @@ Merci &agrave; tous d&#8217;&ecirc;tre venus!
 
 
 ---
-<strong>LES ANNONCES / ANNOUNCEMENTS</strong>
+**LES ANNONCES / ANNOUNCEMENTS**
 Le 82e <a href="http://www.acfas.ca/evenements/congres/programme/82/special/232615">Congr&egrave;s de l&#8217;Acfas</a> d&eacute;bute bient&ocirc;t, et la SLMR s&#8217;organise avec l&#8217;Universit&eacute; Concordia pour une conf&eacute;rence et une <a href="{{ site.baseurl }}/2014/05/acfas-la-culture-ludique-actuelle/">arcade publique</a>. (11 mai) &nbsp; //&nbsp; The 82nd <a href="http://www.acfas.ca/evenements/congres/programme/82/special/232615">ACFAS conference</a> is beginning soon, and MRGS has joined up with Concordia University for a talk and <a href="{{ site.baseurl }}/2014/05/acfas-la-culture-ludique-actuelle/">public arcade</a>.
 Le Centre NAD offre le s&eacute;rie <a href="http://elite.nad.ca/fr/">ELITE</a> &#8212; des ateliers et pr&eacute;sentations par de nombreux/ses professionnels/lles dans le domaine du jeux vid&eacute;o et des arts visuels. (12 au 17 mai) &nbsp; //&nbsp;Centre NAD is hosting <a href="http://elite.nad.ca/">ELITE</a> &#8212; a series of workshops and presentations from professionals in games and the visual arts (May 12 to 17).
 <a href="http://www.criticalhitmontreal.ca/">Critical Hit</a> et <a href="http://pixelles.ca/fr/">Les Pixelles</a> sont tout les deux &agrave; la recherche de mentors pour leurs programmes d&#8217;apprentissage respectives. &nbsp; //&nbsp; Both <a href="http://www.criticalhitmontreal.ca/">Critical Hit</a> and the <a href="http://pixelles.ca/">Pixelles</a> are looking for mentors for their respective incubator programs.
 Les <a href="http://forum.mrgs.ca/">forums</a> du SLMR sont en besoin d&#8217;un/e b&eacute;n&eacute;vole avec de l&#8217;exp&eacute;rience en Ruby pour effectuer des r&eacute;parations. <a href="mailto:bakedgoods@mrgs.ca">Contactez-nous</a>! &nbsp; // The MRGS <a href="http://forum.mrgs.ca">forums</a> are in need of a volunteer with experience in Ruby to fix them up and bring them back to life! <a href="mailto:bakedgoods@mrgs.ca">Get in touch</a>!
 ---
-<strong>LES JEUX / GAMES</strong>
+**LES JEUX / GAMES**
 *<a href="http://juicybeast.itch.io/frox">Frox</a>*. Juicy Beast.
  *<a href="http://julian-spillane.itch.io/load-runner-tojam-edition">Load Runner</a>*. John Axon, Marion Esquian, Stephane Goulet, Julian Spillane.
  *<a href="http://renaudbedard.itch.io/malisse">Malisse</a>*. Les Coll&eacute;giennes

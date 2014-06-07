@@ -16,10 +16,10 @@ Un gros merci &agrave; nos d&eacute;veloppeuses et d&eacute;veloppeurs, et on se
 
         
 
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,40.0.html">![Bigby&#039;s Tower]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/BigbysTower_600px_crop.jpg)</a>
-*<strong><a href="">Deck Building Game</a></strong>*
+***<a href="http://oldforum.mrgs.ca/index.php/topic,40.0.html">![Bigby&#039;s Tower]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/BigbysTower_600px_crop.jpg)</a>
+***<a href="">Deck Building Game</a>***
  <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DeckBuildingGame_600px_fade.jpg">![Deck Building Game]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DeckBuildingGame_600px_fade.jpg)</a>
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,46.0.html">![Ducks vs. Bunnies]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DucksVsBunnies_600px.jpg)</a>
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,44.0.html">![Gorilla, My Dreams]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/GorillaMyDreams_600px_crop.jpg)</a>
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,42.0.html">![Mollow]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Mollow_600px_crop.jpg)</a>
-*<strong><a href="http://oldforum.mrgs.ca/index.php/topic,47.0.html">![Summoned]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Summoned_600px.jpg)</a>
+***<a href="http://oldforum.mrgs.ca/index.php/topic,46.0.html">![Ducks vs. Bunnies]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/DucksVsBunnies_600px.jpg)</a>
+***<a href="http://oldforum.mrgs.ca/index.php/topic,44.0.html">![Gorilla, My Dreams]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/GorillaMyDreams_600px_crop.jpg)</a>
+***<a href="http://oldforum.mrgs.ca/index.php/topic,42.0.html">![Mollow]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Mollow_600px_crop.jpg)</a>
+***<a href="http://oldforum.mrgs.ca/index.php/topic,47.0.html">![Summoned]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Summoned_600px.jpg)</a>

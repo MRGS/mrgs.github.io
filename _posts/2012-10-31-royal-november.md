@@ -12,7 +12,7 @@ It&#8217;s meetup time! Let&#8217;s see the important stuff first:
 *WHEN?*
  Wednesday, November 7th, 19h30
 *WHERE?*
- <strong><a href="http://royalphoenixbar.com/">The Royal Phoenix</a></strong>
+ **<a href="http://royalphoenixbar.com/">The Royal Phoenix</a>**
  5788 boul. St.-Laurent
  On the 55 bus line, and a short walk from Rosemont metro
  (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
@@ -23,7 +23,7 @@ C&#8217;est le temps d&#8217;un autre rendez-vous! Les faits saillants:
 *QUAND?*
  Mercredi 7 novembre, 19h30
 *OÙ?*
- <strong><a href="http://royalphoenixbar.com/">The Royal Phoenix</a></strong>
+ **<a href="http://royalphoenixbar.com/">The Royal Phoenix</a>**
  5788 boul. St.-Laurent
  Sur la ligne du 55, et tout pr&egrave;s du m&eacute;tro Rosemont
  (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)

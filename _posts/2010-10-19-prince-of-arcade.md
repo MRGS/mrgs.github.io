@@ -12,7 +12,7 @@ tags:
 <a href="http://www.montrealindies.com/things/princeofarcade_webflyer_large.png">![](http://www.montrealindies.com/things/princeofarcade_webflyer_600.png)</a></p>
 Mount Royal Game Society, Dirty Rectangles and Babycastles present
 
-<strong>THE PRINCE OF ARCADE</strong>
+**THE PRINCE OF ARCADE**
 
 indie games showcase &amp; party</p>
 &gt; look_

@@ -31,7 +31,7 @@ Le temps passe si vite que nous sommes déjà en avril! Puisque nous n&#8217;avo
           *WHEN*
  Wednesday, April 4th, 19h30</p> <p>
             *WHERE*
- <strong>Brasserie Artisanale l’Amère à boire</strong>
+ **Brasserie Artisanale l’Amère à boire**
  2049 rue Saint-Denis, 3rd floor
 *WHAT*
  This weekend&#8217;s <a href="http://www.whatwouldmolydeux.com/">MolyJam</a> (What Would Molydeux?) is approaching at the alarming rate of approximately 60 seconds/minute. You&#8217;ve already registered for the <a href="http://www.facebook.com/events/274617842613476/">Montreal branch</a>, naturally, and sampled from the veritable <a href="http://docs.google.com/spreadsheet/ccc?key=0AmKS9o_SW0ovdHZDYWVHb0lOa1NJV3FST3h3UGFOTFE#gid=0">fount of inspiration</a>. The rest is just details and feelings.
@@ -41,7 +41,7 @@ We therefore invite any and all MolyJammers to play Show and Molytell at the upc
               QUAND?
  Mercredi 4 avril à 19h30</p> <p>
                 OÙ?
- <strong>Brasserie Artisanale l’Amère à boire</strong>
+ **Brasserie Artisanale l’Amère à boire**
  2049 rue Saint-Denis, 3e étage
 LE PLAN DE MATCH
  Cette fin de semaine aura lieu le Montréal <a href="http://www.whatwouldmolydeux.com/">MOLYJAM</a> (What Would Molydeux?), évènement auquel vous êtes sans doute <a href="http://www.facebook.com/events/274617842613476/">déjà inscrit</a>. <a href="http://docs.google.com/spreadsheet/ccc?key=0AmKS9o_SW0ovdHZDYWVHb0lOa1NJV3FST3h3UGFOTFE#gid=0">L&#8217;inspiration</a> sera au rendez-vous à la Notman House!
