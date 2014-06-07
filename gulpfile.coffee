@@ -11,26 +11,36 @@ mincss = require 'gulp-minify-css'
 watch = require 'gulp-watch'
 connect = require 'gulp-connect'
 
-jekyll = require 'gulp-jekyll'
-
-debug = require 'gulp-debug'
-
 exec = require('child_process').exec
 
 tmp = './.tmp'
 build = './.build'
 
+jekyllFiles = [
+  './_layouts/**/*'
+  './_includes/**/*'
+  './_posts/**/*'
+  './_drafts/**/*'
+]
+
 gulp.task 'watch-jekyll', ->
-  gulp.src ['./_layouts/**/*', './_includes/**/*']
-  .pipe watch()
-  .pipe exec 'jekyll build --destination' + tmp, (err, stdout, stderr) ->
+  exec 'jekyll build --destination ' + tmp, (err, stdout, stderr) ->
     console.log stdout
     console.log stderr
     if err?
       console.log 'exec error: ' + err
-  .pipe connect.reload
 
-gulp.task 'watch', ['watch-jekyll'], ->
+  gulp.watch jekyllFiles, (e) ->
+    console.log 'File ' + e.path + ' was ' + e.type + ', rerunning Jekyll...'
+    exec 'jekyll build --destination ' + tmp, (err, stdout, stderr) ->
+      console.log stdout
+      console.log stderr
+      if err?
+        console.log 'exec error: ' + err
+      else
+        connect.reload()
+
+gulp.task 'watch', ['watch-jekyll'], (cb) ->
   gulp.src ['./_less/*.less']
   .pipe watch()
   .pipe less
@@ -43,6 +53,8 @@ gulp.task 'watch', ['watch-jekyll'], ->
   .pipe coffee()
   .pipe gulp.dest tmp + '/js'
   .pipe connect.reload()
+
+  cb()
 
 gulp.task 'build', ['build-jekyll'], ->
   gulp.src ['./css/**/*.css']
@@ -78,9 +90,13 @@ gulp.task 'serve', ['watch'], ->
     port: 9000
     livereload: true
 
+  exec 'sensible-browser localhost:9000'
+
 gulp.task 'servebuild', ['build'], ->
   connect.server
     root: build
     port: 9000
+
+  exec 'sensible-browser localhost:9000'
 
 gulp.task 'default', ['build']
