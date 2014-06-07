@@ -79,7 +79,7 @@ And the triumphant return of
 ![Arcade Royale games]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/ArcadeRoyale1.jpg)
 
 <p style="font-size: 70%;">
-  ![ArcadeRoyale-RF]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/ArcadeRoyale-RF-600x600.jpg)(Photo courtesy the ever-rockin&#8217; <a href="http://fractgame.com/">Richard Flanagan</a>)
+  ![ArcadeRoyale-RF]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/01/ArcadeRoyale-RF-600x600.jpg)(Photo courtesy the ever-rockin&#8217; [Richard Flanagan](http://fractgame.com/))
 &nbsp;
 
 If that&#8217;s not exciting enough, we have a few other surprises in store for you too. Stay tuned!

@@ -10,7 +10,7 @@ categories:
 ![MRGS_11_04]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2011/03/MRGS_11_04.png)  
 Because nothing&#8212;absolutely nothing&#8212;brings all the adults of consenting age to the yard like the promise of some unrelenting administration.
 
-So what&#8217;s up? *SO MUCH*, cats and kittens! <a href="https://groups.google.com/group/montrealindies/browse_thread/thread/f494fa00121b30cf" target="_blank">L&#8217;Arcade Royale</a> is still a thing that needs to happen. <a href="https://groups.google.com/group/montrealindies/browse_thread/thread/b7647f8dfc839188" target="_blank">Weekly gatherings</a> are happening, even culminating in a <a href="http://www.montrealindies.com/?p=165" target="_blank">mini game jam</a> last weekend. And hey&#8212;speaking of game jams, the <a href="http://www.tojam.ca/home/default.asp" target="_blank">Toronto Game Jam</a> is coming up in a month and a half!
+So what&#8217;s up? *SO MUCH*, cats and kittens! [L&#8217;Arcade Royale](https://groups.google.com/group/montrealindies/browse_thread/thread/f494fa00121b30cf) is still a thing that needs to happen. [Weekly gatherings](https://groups.google.com/group/montrealindies/browse_thread/thread/b7647f8dfc839188) are happening, even culminating in a [mini game jam](http://www.montrealindies.com/?p=165) last weekend. And hey&#8212;speaking of game jams, the [Toronto Game Jam](http://www.tojam.ca/home/default.asp) is coming up in a month and a half!
 
 So come on down, grab a pint, form game jam squads, brainstorm arcade designs, and relax amongst friends and Facebook acquaintances. When and where is this happening, you ask? We at the MRGS are a cunning, puzzle-loving folk, and so we&#8217;ve hidden the details *right here in this very blog post!*
 

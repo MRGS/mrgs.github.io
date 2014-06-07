@@ -14,10 +14,10 @@ Bring your laptops, your demos, and (why not) an amusing hat, and we&#8217;ll pl
 *WHEN?*
  Wednesday, December 5th, 19h30
 *WHERE?*
- <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
+ [The Royal Phoenix](http://royalphoenixbar.com/)
  5788 boul. St.-Laurent
  On the 55 bus line, and a short walk from Rosemont metro
- (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
+ ([Directions](https://maps.google.com/maps?q=the+royal+phoenix))
 *WHAT?*
  It&#8217;s a social! Bring your game demos already!
 
@@ -26,10 +26,10 @@ Apporter vos ordinateurs, vos d&eacute;mos, et vos chapeaux (pourquoi pas?), et 
 *QUAND?*
  Mercredi 5 d&eacute;cembre 19h30
 *OÙ?*
- <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
+ [The Royal Phoenix](http://royalphoenixbar.com/)
  5788 boul. St.-Laurent
  Sur la ligne du 55, et tout pr&egrave;s du m&eacute;tro Rosemont
- (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
+ ([Directions](https://maps.google.com/maps?q=the+royal+phoenix))
 *QUOI?*
  Venez nous pr&eacute;senter vos d&eacute;mos! On attend que ça!
  
@@ -38,9 +38,9 @@ Apporter vos ordinateurs, vos d&eacute;mos, et vos chapeaux (pourquoi pas?), et 
 
         
         
-Check out the <a href="https://www.facebook.com/events/449328325131894/">Facebook</a>!
+Check out the [Facebook](https://www.facebook.com/events/449328325131894/)!
 
-              Voir l&#8217;événement <a href="https://www.facebook.com/events/449328325131894/">Facebook</a>!
+              Voir l&#8217;événement [Facebook](https://www.facebook.com/events/449328325131894/)!
             
 
             

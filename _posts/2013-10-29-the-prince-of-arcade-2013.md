@@ -27,9 +27,9 @@ For the fourth year running, The Prince of Arcade is filling the Eastern Bloc Ne
   <p align="center">
     BE THERE. BE LOVELY.
 
- <<< <a href="http://prince.mrgs.ca">MORE INFO &#038; GAMES LIST</a> >>>
+ <<< [MORE INFO &#038; GAMES LIST](http://prince.mrgs.ca) >>>
 
- &rarr; <a href="https://gum.co/PbIe">PRE-ORDER TICKETS</a> ($10) &larr;
+ &rarr; [PRE-ORDER TICKETS](https://gum.co/PbIe) ($10) &larr;
 
 
 
@@ -42,15 +42,15 @@ Pour une quatrième année consécutive, la soirée Prince of Arcade remplit le 
       <p align="center">
         SOYEZ LÀ. SOYEZ CHIC.
 
- <<< <a href="http://prince.mrgs.ca">INFOS &#038; LISTE DE JEUX</a> >>>
+ <<< [INFOS &#038; LISTE DE JEUX](http://prince.mrgs.ca) >>>
 
- &rarr; <a href="https://gum.co/PbIe">COMMANDEZ VOS BILLETS</a> (10$) &larr;
+ &rarr; [COMMANDEZ VOS BILLETS](https://gum.co/PbIe) (10$) &larr;
 
 
 
           <p align="center">
             &nbsp;
- <a href="http://easternbloc.ca/">Eastern Bloc</a>
+ [Eastern Bloc](http://easternbloc.ca/)
  7240 Clark, m&eacute;tro De Castelnau
  11 Nov. 2013
  20h00 &#8211; 01h00

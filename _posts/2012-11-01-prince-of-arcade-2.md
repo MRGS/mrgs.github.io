@@ -9,7 +9,7 @@ categories:
 tags:
   - the prince of arcade
 ---
-<span style="text-decoration: underline;">**<a href="http://prince.mrgs.ca">****PRINCE OF ARCADE 2013 LINK****</a>**</span>
+<span style="text-decoration: underline;">**[****PRINCE OF ARCADE 2013 LINK****](http://prince.mrgs.ca)**</span>
 
 BELOW IS THE 2012 POST
 

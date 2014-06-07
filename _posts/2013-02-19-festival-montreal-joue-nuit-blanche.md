@@ -10,8 +10,8 @@ categories:
 ---
 We&#8217;re doing stuff over the next two weeks! Montreal&#8217;s Libraries are organizing a huge festival titled *Montreal Joue* from **February 23 &#8211; March 10**, and we are proudly bustling around the Arcade Royale between libraries.
 
-The Royale will be at the <a href="http://ville.montreal.qc.ca/portal/page?_pageid=4397,6393622&_dad=portal&_schema=PORTAL&section=horaires_coordonnees&lieu=34" target="_blank">Bibliotheque St Henri</a> from **Feb 23 &#8211; Mar 2**  
-and <a href="http://ville.montreal.qc.ca/portal/page?_pageid=4397,6393622&_dad=portal&_schema=PORTAL&section=horaires_coordonnees&lieu=22" target="_blank">Bibliothèque Jean-Corbeil</a> **Mar. 3-10**
+The Royale will be at the [Bibliotheque St Henri](http://ville.montreal.qc.ca/portal/page?_pageid=4397,6393622&_dad=portal&_schema=PORTAL&section=horaires_coordonnees&lieu=34) from **Feb 23 &#8211; Mar 2**  
+and [Bibliothèque Jean-Corbeil](http://ville.montreal.qc.ca/portal/page?_pageid=4397,6393622&_dad=portal&_schema=PORTAL&section=horaires_coordonnees&lieu=22) **Mar. 3-10**
 
 More info and festival programming here:  
 [Montreal Joue][1]
@@ -26,33 +26,33 @@ Also! MRGS will once again be participating in the [SAT&#8217;s Nuit Blanche fes
 Lineup of Royale games by our wonderful cast of developers:
 
 <p align="center">
-  *Fuzzer* by <a href="http://henk.ca">Henk Boom</a>
- <a href="http://henk.ca">![fuzzer600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/fuzzer600.jpg)</a>
+  *Fuzzer* by [Henk Boom](http://henk.ca)
+ [![fuzzer600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/fuzzer600.jpg)](http://henk.ca)
 <p align="center">
-  *Game Game Videogame *by* *<a href="http://www.joachimdespland.com/gamegamevideogame.html">Joachim Despland</a>
- <a href="http://www.joachimdespland.com/gamegamevideogame.html">![gamegamevideogame600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/gamegamevideogame600.jpg)</a>
+  *Game Game Videogame *by* *[Joachim Despland](http://www.joachimdespland.com/gamegamevideogame.html)
+ [![gamegamevideogame600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/gamegamevideogame600.jpg)](http://www.joachimdespland.com/gamegamevideogame.html)
 <p align="center">
-  *Greedy Piggy Chase* by <a href="http://dom2d.com/?portfolio=slimeful-greedy-piggy-chase" target="_blank">Neverpants Studio</a>
- <a href="http://dom2d.com/?portfolio=slimeful-greedy-piggy-chase">![greedypiggychase600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/greedypiggychase600.jpg)</a>
+  *Greedy Piggy Chase* by [Neverpants Studio](http://dom2d.com/?portfolio=slimeful-greedy-piggy-chase)
+ [![greedypiggychase600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/greedypiggychase600.jpg)](http://dom2d.com/?portfolio=slimeful-greedy-piggy-chase)
 <p align="center">
-  *Pax Britannica* by  <a href="http://paxbritannica.henk.ca/">No Fun Games</a>
- <a href="http://paxbritannica.henk.ca/">![paxbritannica600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/paxbritannica600.jpg)</a>
+  *Pax Britannica* by  [No Fun Games](http://paxbritannica.henk.ca/)
+ [![paxbritannica600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/paxbritannica600.jpg)](http://paxbritannica.henk.ca/)
 <p align="center">
-  *Space Dastards * with <a href="http://www.sauropodstudio.com">Sauropod Studio</a>
- <a href="http://www.sauropodstudio.com">![spacebastards600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/spacebastards600.jpg)</a>
+  *Space Dastards * with [Sauropod Studio](http://www.sauropodstudio.com)
+ [![spacebastards600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/spacebastards600.jpg)](http://www.sauropodstudio.com)
 <p align="center">
-  *SWOOOORDS! by <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">Kenny Backus</a>*
- <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">![swoooords600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/swoooords600.jpg)</a>
+  *SWOOOORDS! by [Kenny Backus](http://nihilocrat.tumblr.com/post/12162715975/ludography)*
+ [![swoooords600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/swoooords600.jpg)](http://nihilocrat.tumblr.com/post/12162715975/ludography)
 <p align="center">
-  *Thrustburst * by <a href="http://umlautgames.net">Umlautgames</a>
- <a href="http://umlautgames.net">![thrustburst600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/02/thrustburst.png)</a>
+  *Thrustburst * by [Umlautgames](http://umlautgames.net)
+ [![thrustburst600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/02/thrustburst.png)](http://umlautgames.net)
 <p align="center">
-  *Verteidiger* by <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">Kenny Backus</a>
+  *Verteidiger* by [Kenny Backus](http://nihilocrat.tumblr.com/post/12162715975/ludography)
 <p align="center">
-  <em id="__mceDel"> <a href="http://nihilocrat.tumblr.com/post/12162715975/ludography">![verteidiger600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/verteidiger600.jpg)</a>*
+  <em id="__mceDel"> [![verteidiger600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/verteidiger600.jpg)](http://nihilocrat.tumblr.com/post/12162715975/ludography)*
 <p align="center">
-  *Volkenessen* by <a href="http://theinstructionlimit.com/games">Les Collégiennes</a>
- <a href="http://theinstructionlimit.com/games">![volkenessen600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/volkenessen600.jpg)</a>
+  *Volkenessen* by [Les Collégiennes](http://theinstructionlimit.com/games)
+ [![volkenessen600]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2013/03/volkenessen600.jpg)](http://theinstructionlimit.com/games)
 There may even be more to announce in terms of programming in the near future, stay tuned.
 
  [1]: http://arene.bibliomontreal.com/festival-montreal-joue

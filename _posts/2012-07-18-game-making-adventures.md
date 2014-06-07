@@ -16,7 +16,7 @@ Ne passe pas &agrave; c&ocirc;t&eacute; du &#8220;Downtown Trimester Game-Making
 
         
         
- <a href="{{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png">![DTGMA2-web-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png)</a>
+ [![DTGMA2-web-600px]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png)]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/DTGMA2-web-600px.png)
  
 This month, select one or more of the following three themes:
 <ol>
@@ -54,9 +54,9 @@ Ce mois-ci, choisis un ou plusieurs des trois th&egrave;mes suivants:
 
         
         
-Be safe! Be respectful! See <a href="http://oldforum.mrgs.ca/index.php/board,3.0.html">development board</a>. See you in August with the fantastic results!
+Be safe! Be respectful! See [development board](http://oldforum.mrgs.ca/index.php/board,3.0.html). See you in August with the fantastic results!
 
-Prudence! Respect! Pour plus de d&eacute;tails, n&#8217;h&eacute;site pas &agrave; jeter un oeil &agrave; <a href="http://oldforum.mrgs.ca/index.php/board,3.0.html">affiches-y</a> ton avancement!
+Prudence! Respect! Pour plus de d&eacute;tails, n&#8217;h&eacute;site pas &agrave; jeter un oeil &agrave; [affiches-y](http://oldforum.mrgs.ca/index.php/board,3.0.html) ton avancement!
 
                 
 
@@ -67,8 +67,8 @@ Biens&ucirc;r, il ne faudrait pas oublier nos jeux pr&eacute;f&eacute;r&eacute;s
 
                       
 
-***<a href="http://oldforum.mrgs.ca/index.php/topic,17.0.html">![Going Rogue]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/GoingRogue-600px.jpg)</a>
-***<a href="http://oldforum.mrgs.ca/index.php/topic,13.0.html">![Montreal 2029: Mecha Men from the Deep]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/MechaMen-600px.jpg)</a>
-***<a href="http://oldforum.mrgs.ca/index.php/topic,27.0.html">![NeoPost]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/NeoPost.jpg)</a>
-***<a href="http://oldforum.mrgs.ca/index.php/topic,15.0.html">![Sir Squidalot&#039;s Grand Montreal Crusade]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/SirSquidalot-600px.jpg)</a>
-***<a href="http://oldforum.mrgs.ca/index.php/topic,28.0.html">![A Usual Day]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/AUsualDay-600px.jpg)</a>
+***[![Going Rogue]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/GoingRogue-600px.jpg)](http://oldforum.mrgs.ca/index.php/topic,17.0.html)
+***[![Montreal 2029: Mecha Men from the Deep]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/MechaMen-600px.jpg)](http://oldforum.mrgs.ca/index.php/topic,13.0.html)
+***[![NeoPost]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/NeoPost.jpg)](http://oldforum.mrgs.ca/index.php/topic,27.0.html)
+***[![Sir Squidalot&#039;s Grand Montreal Crusade]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/SirSquidalot-600px.jpg)](http://oldforum.mrgs.ca/index.php/topic,15.0.html)
+***[![A Usual Day]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/07/AUsualDay-600px.jpg)](http://oldforum.mrgs.ca/index.php/topic,28.0.html)

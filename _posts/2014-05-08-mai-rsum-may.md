@@ -9,30 +9,30 @@ categories:
 ---
 
 
-In which we look back at the variously emotive times we had at the <a href="{{ site.baseurl }}/2014/05/meetup-mai-7-may/">meetup</a> this past Wednesday.
+In which we look back at the variously emotive times we had at the [meetup]({{ site.baseurl }}/2014/05/meetup-mai-7-may/) this past Wednesday.
 Thanks for coming out, everyone!
 
 
 
-Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2014/05/meetup-mai-7-may/">meetup</a> de mercredi soir.
+Un bref regard sur les jeux et activit&eacute;s du [meetup]({{ site.baseurl }}/2014/05/meetup-mai-7-may/) de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
  &nbsp;
 
 
 ---
 **LES ANNONCES / ANNOUNCEMENTS**
-Le 82e <a href="http://www.acfas.ca/evenements/congres/programme/82/special/232615">Congr&egrave;s de l&#8217;Acfas</a> d&eacute;bute bient&ocirc;t, et la SLMR s&#8217;organise avec l&#8217;Universit&eacute; Concordia pour une conf&eacute;rence et une <a href="{{ site.baseurl }}/2014/05/acfas-la-culture-ludique-actuelle/">arcade publique</a>. (11 mai) &nbsp; //&nbsp; The 82nd <a href="http://www.acfas.ca/evenements/congres/programme/82/special/232615">ACFAS conference</a> is beginning soon, and MRGS has joined up with Concordia University for a talk and <a href="{{ site.baseurl }}/2014/05/acfas-la-culture-ludique-actuelle/">public arcade</a>.
-Le Centre NAD offre le s&eacute;rie <a href="http://elite.nad.ca/fr/">ELITE</a> &#8212; des ateliers et pr&eacute;sentations par de nombreux/ses professionnels/lles dans le domaine du jeux vid&eacute;o et des arts visuels. (12 au 17 mai) &nbsp; //&nbsp;Centre NAD is hosting <a href="http://elite.nad.ca/">ELITE</a> &#8212; a series of workshops and presentations from professionals in games and the visual arts (May 12 to 17).
-<a href="http://www.criticalhitmontreal.ca/">Critical Hit</a> et <a href="http://pixelles.ca/fr/">Les Pixelles</a> sont tout les deux &agrave; la recherche de mentors pour leurs programmes d&#8217;apprentissage respectives. &nbsp; //&nbsp; Both <a href="http://www.criticalhitmontreal.ca/">Critical Hit</a> and the <a href="http://pixelles.ca/">Pixelles</a> are looking for mentors for their respective incubator programs.
-Les <a href="http://forum.mrgs.ca/">forums</a> du SLMR sont en besoin d&#8217;un/e b&eacute;n&eacute;vole avec de l&#8217;exp&eacute;rience en Ruby pour effectuer des r&eacute;parations. <a href="mailto:bakedgoods@mrgs.ca">Contactez-nous</a>! &nbsp; // The MRGS <a href="http://forum.mrgs.ca">forums</a> are in need of a volunteer with experience in Ruby to fix them up and bring them back to life! <a href="mailto:bakedgoods@mrgs.ca">Get in touch</a>!
+Le 82e [Congr&egrave;s de l&#8217;Acfas](http://www.acfas.ca/evenements/congres/programme/82/special/232615) d&eacute;bute bient&ocirc;t, et la SLMR s&#8217;organise avec l&#8217;Universit&eacute; Concordia pour une conf&eacute;rence et une [arcade publique]({{ site.baseurl }}/2014/05/acfas-la-culture-ludique-actuelle/). (11 mai) &nbsp; //&nbsp; The 82nd [ACFAS conference](http://www.acfas.ca/evenements/congres/programme/82/special/232615) is beginning soon, and MRGS has joined up with Concordia University for a talk and [public arcade]({{ site.baseurl }}/2014/05/acfas-la-culture-ludique-actuelle/).
+Le Centre NAD offre le s&eacute;rie [ELITE](http://elite.nad.ca/fr/) &#8212; des ateliers et pr&eacute;sentations par de nombreux/ses professionnels/lles dans le domaine du jeux vid&eacute;o et des arts visuels. (12 au 17 mai) &nbsp; //&nbsp;Centre NAD is hosting [ELITE](http://elite.nad.ca/) &#8212; a series of workshops and presentations from professionals in games and the visual arts (May 12 to 17).
+[Critical Hit](http://www.criticalhitmontreal.ca/) et [Les Pixelles](http://pixelles.ca/fr/) sont tout les deux &agrave; la recherche de mentors pour leurs programmes d&#8217;apprentissage respectives. &nbsp; //&nbsp; Both [Critical Hit](http://www.criticalhitmontreal.ca/) and the [Pixelles](http://pixelles.ca/) are looking for mentors for their respective incubator programs.
+Les [forums](http://forum.mrgs.ca/) du SLMR sont en besoin d&#8217;un/e b&eacute;n&eacute;vole avec de l&#8217;exp&eacute;rience en Ruby pour effectuer des r&eacute;parations. [Contactez-nous](mailto:bakedgoods@mrgs.ca)! &nbsp; // The MRGS [forums](http://forum.mrgs.ca) are in need of a volunteer with experience in Ruby to fix them up and bring them back to life! [Get in touch](mailto:bakedgoods@mrgs.ca)!
 ---
 **LES JEUX / GAMES**
-*<a href="http://juicybeast.itch.io/frox">Frox</a>*. Juicy Beast.
- *<a href="http://julian-spillane.itch.io/load-runner-tojam-edition">Load Runner</a>*. John Axon, Marion Esquian, Stephane Goulet, Julian Spillane.
- *<a href="http://renaudbedard.itch.io/malisse">Malisse</a>*. Les Coll&eacute;giennes
- *<a href="http://notaliensagain.itch.io/renegades-rage">Renegade&#8217;s Rage</a>*. Chef Boyardee, Fran&ccedil;is Coulombe, Lord Mo, Lurdiak, The Monster King.
- *<a href="http://globalgamejam.org/2014/games/resonance">Resonance</a>*. Chas Elterman, Eric L&eacute;vell&eacute;e, Chris Olimpo, Jonathan Perreault, Matt Pilon, Timoth&eacute;e Rabaud, Ian Sartwell.
- *<a href="http://www.kitfoxgames.com/shattered-planet/">Shattered Planet</a>*. Kitfox Games.
- *<a href="http://trancegame.blogspot.ca/">Trance</a>*. Martin Brochu &#038; Pablo Bredow.
+*[Frox](http://juicybeast.itch.io/frox)*. Juicy Beast.
+ *[Load Runner](http://julian-spillane.itch.io/load-runner-tojam-edition)*. John Axon, Marion Esquian, Stephane Goulet, Julian Spillane.
+ *[Malisse](http://renaudbedard.itch.io/malisse)*. Les Coll&eacute;giennes
+ *[Renegade&#8217;s Rage](http://notaliensagain.itch.io/renegades-rage)*. Chef Boyardee, Fran&ccedil;is Coulombe, Lord Mo, Lurdiak, The Monster King.
+ *[Resonance](http://globalgamejam.org/2014/games/resonance)*. Chas Elterman, Eric L&eacute;vell&eacute;e, Chris Olimpo, Jonathan Perreault, Matt Pilon, Timoth&eacute;e Rabaud, Ian Sartwell.
+ *[Shattered Planet](http://www.kitfoxgames.com/shattered-planet/)*. Kitfox Games.
+ *[Trance](http://trancegame.blogspot.ca/)*. Martin Brochu &#038; Pablo Bredow.
  &nbsp;
  &nbsp;

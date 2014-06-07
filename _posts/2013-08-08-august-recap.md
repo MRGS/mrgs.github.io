@@ -11,12 +11,12 @@ categories:
 
 
 
-In which we look back at the variously emotive times we had at last night&#8217;s <a href="{{ site.baseurl }}/2013/07/august-meetup-2/">August Meetup</a>.
+In which we look back at the variously emotive times we had at last night&#8217;s [August Meetup]({{ site.baseurl }}/2013/07/august-meetup-2/).
 Thanks for coming out, everyone!
 
 
 
-Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/07/august-meetup-2/">meetup</a> d&#8217;hier soir.
+Un bref regard sur les jeux et activit&eacute;s du [meetup]({{ site.baseurl }}/2013/07/august-meetup-2/) d&#8217;hier soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
 
 
@@ -24,46 +24,46 @@ Merci &agrave; tous d&#8217;&ecirc;tre venus!
 LES ANNONCES / ANNOUNCEMENTS
 <ul>
         <li>
-          <a href="https://www.facebook.com/events/455179844568325/">Toy Company Festival</a> &#8212; Ce weekend / this weekend!
+          [Toy Company Festival](https://www.facebook.com/events/455179844568325/) &#8212; Ce weekend / this weekend!
         </li>
         <li>
-          <a href="http://www.criticalhitmontreal.ca/playtest-2/">Critical Hit MTL</a> &#8212; <a href="http://www.criticalhitmontreal.ca/playtest-2/">Playtest</a> Aug. 8, &#038; <a href="http://www.eventbrite.ca/event/7485725005/efblike">Showcase</a> Aug. 23!
+          [Critical Hit MTL](http://www.criticalhitmontreal.ca/playtest-2/) &#8212; [Playtest](http://www.criticalhitmontreal.ca/playtest-2/) Aug. 8, &#038; [Showcase](http://www.eventbrite.ca/event/7485725005/efblike) Aug. 23!
         </li>
         <li>
-          <a href="https://www.facebook.com/events/552498724813959/">WIGI &#038; Pixelles Social</a>: Celebrating Mentorship &#8212; Aug. 21!
+          [WIGI &#038; Pixelles Social](https://www.facebook.com/events/552498724813959/): Celebrating Mentorship &#8212; Aug. 21!
         </li>
         <li>
-          <a href="http://tag.hexagram.ca/events/skyrim-modding-workshop-making-strange/">*Skyrim* modding workshop</a> &#8212; Make strange things Aug. 25!
+          [*Skyrim* modding workshop](http://tag.hexagram.ca/events/skyrim-modding-workshop-making-strange/) &#8212; Make strange things Aug. 25!
         </li>
         <li>
-          <a href="https://www.facebook.com/RetrovisionRecreation">R&eacute;trovision</a> &#8212; soir&eacute;e de jeux r&eacute;tro, Sep. 6!
+          [R&eacute;trovision](https://www.facebook.com/RetrovisionRecreation) &#8212; soir&eacute;e de jeux r&eacute;tro, Sep. 6!
         </li>
         <li>
-          <a href="http://douteux.tv/archives/id_emission-51">Du pain et des jeux</a> brought an OUYA. Ooo. Yeah.
+          [Du pain et des jeux](http://douteux.tv/archives/id_emission-51) brought an OUYA. Ooo. Yeah.
         </li>
       </ul>
 LES JEUX / GAMES
 <ul>
         <li>
-          <a href="http://www.beavernutsgames.com/games.html">*Battle Type*</a>, Beaver Nuts
+          [*Battle Type*](http://www.beavernutsgames.com/games.html), Beaver Nuts
         </li>
         <li>
-          <a href="http://www.gentlemenricochet.com/">*Gentlemen&#8230;Ricochet*</a>, B&iuml;tse Games
+          [*Gentlemen&#8230;Ricochet*](http://www.gentlemenricochet.com/), B&iuml;tse Games
         </li>
         <li>
-          <a href="https://www.facebook.com/heroesofzulula">*Heroes of Zulula*</a>, Exequor Studios
+          [*Heroes of Zulula*](https://www.facebook.com/heroesofzulula), Exequor Studios
         </li>
         <li>
-          <a href="http://files.q-bit.ca/machete-mrgs-demo.air">*Machete*</a>, Q-Bit Games
+          [*Machete*](http://files.q-bit.ca/machete-mrgs-demo.air), Q-Bit Games
         </li>
         <li>
-          <a href="http://papercade.com/">*Papercade*</a>, Hololabs
+          [*Papercade*](http://papercade.com/), Hololabs
         </li>
         <li>
-          <a href="http://nihilocrat.tumblr.com/post/57032993683/skyrogue-alpha">*skyRogue*</a>, Kenny Backus
+          [*skyRogue*](http://nihilocrat.tumblr.com/post/57032993683/skyrogue-alpha), Kenny Backus
         </li>
         <li>
-          <a href="https://www.youtube.com/user/smikesmike05">*Sunato*</a>, Michael Shaevitch
+          [*Sunato*](https://www.youtube.com/user/smikesmike05), Michael Shaevitch
         </li>
       </ul>
 &nbsp;

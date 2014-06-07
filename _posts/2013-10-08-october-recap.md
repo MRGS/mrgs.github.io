@@ -12,25 +12,25 @@ categories:
 
 
 
-In which we look back at the variously emotive times we had the <a href="{{ site.baseurl }}/2013/09/meetup-2-oct/">October Meetup</a> this past Wednesday.
+In which we look back at the variously emotive times we had the [October Meetup]({{ site.baseurl }}/2013/09/meetup-2-oct/) this past Wednesday.
 Thanks for coming out, everyone!
 
 
 
-Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/09/meetup-2-oct/">meetup</a> de mercredi soir.
+Un bref regard sur les jeux et activit&eacute;s du [meetup]({{ site.baseurl }}/2013/09/meetup-2-oct/) de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
 
 
 ---
 LES ANNONCES / ANNOUNCEMENTS
- &raquo;&raquo; The 10th <a href="http://mtldgtl.com/en/migs/">Montreal International Game Summit</a> is coming up in just over a month!
- &raquo;&raquo; <a href="{{ site.baseurl }}/tag/the-prince-of-arcade/">The Prince of Arcade</a> is also coming back to town &#8212; announcements forthcoming!
+ &raquo;&raquo; The 10th [Montreal International Game Summit](http://mtldgtl.com/en/migs/) is coming up in just over a month!
+ &raquo;&raquo; [The Prince of Arcade]({{ site.baseurl }}/tag/the-prince-of-arcade/) is also coming back to town &#8212; announcements forthcoming!
 LES JEUX / GAMES
- &raquo;&raquo; *Big Action Mega Fight!*, <a href="http://doublestalliongames.com/">Double Stallion Games</a>
- &raquo;&raquo; *<a href="https://www.youtube.com/watch?v=l5Ucn52O8AY">Gentlemen Dispute</a>*, <a href="http://juicybeast.com">Juicy Beast</a>
- &raquo;&raquo; *<a href="http://www.escapistmagazine.com/content/indie-speed-run/?game=474">Harvest Escape: Acres of Doom</a>*, <a href="https://twitter.com/Neverpants">Neverpants</a>
- &raquo;&raquo; *<a href="http://clever-plays.azurewebsites.net/jeux.html">Leap of Fate</a>*, <a href="http://www.clever-plays.com/">Clever-Plays</a>
+ &raquo;&raquo; *Big Action Mega Fight!*, [Double Stallion Games](http://doublestalliongames.com/)
+ &raquo;&raquo; *[Gentlemen Dispute](https://www.youtube.com/watch?v=l5Ucn52O8AY)*, [Juicy Beast](http://juicybeast.com)
+ &raquo;&raquo; *[Harvest Escape: Acres of Doom](http://www.escapistmagazine.com/content/indie-speed-run/?game=474)*, [Neverpants](https://twitter.com/Neverpants)
+ &raquo;&raquo; *[Leap of Fate](http://clever-plays.azurewebsites.net/jeux.html)*, [Clever-Plays](http://www.clever-plays.com/)
  &raquo;&raquo; *R.I.P. Nick Rudzicz</a>*, Renaud &#8220;The Monster King&#8221;
- &raquo;&raquo; *<a href="http://www.escapistmagazine.com/content/indie-speed-run/?game=593">Sculptorgeist</a>*, <a href="http://www.kitfoxgames.com/">Kitfox Games</a>
- &raquo;&raquo; *Stomba Quest*, <a href="http://www.dijiko.com">Dijiko</a>
+ &raquo;&raquo; *[Sculptorgeist](http://www.escapistmagazine.com/content/indie-speed-run/?game=593)*, [Kitfox Games](http://www.kitfoxgames.com/)
+ &raquo;&raquo; *Stomba Quest*, [Dijiko](http://www.dijiko.com)
  &nbsp;

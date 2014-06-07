@@ -52,7 +52,7 @@ And last but not least&#8230;
 <a name="princeofarcade2010-sponsors"></a>  
 ***THE SPONSORS &#038; BENEFACTORS*** &#8212; *Sine qua non*  
 [![Algonquin College]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/AlgonquinCollege-logo.jpg)][3]  
-<a href="http://www.easternbloc.ca"">![EasternBloc]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/EasternBloc-logo.jpg)</a>  
+[![EasternBloc]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/EasternBloc-logo.jpg)](http://www.easternbloc.ca)  
 [![Heenan Blaikie]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/HeenanBlaikie-logo.png)][4]  
 [![Kokoromi]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/Kokoromi-logo.jpg)][5]  
 [![TAG]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2010/11/TAG-logo.jpg)][6]

@@ -7,9 +7,9 @@ categories:
   - Games
   - Jams
 ---
-Many moons ago (four), we <a href="http://www.montrealindies.com/?p=163" target="_blank">postulated</a> most heretically the possibility of getting together on a crisp Spring weekend to make merry, drink coffee, and work feverishly for three hours on arbitrary game prototypes&#8212;or at least, to familiarise ourselves with <a href="http://unity3d.com" target="_blank">Unity</a>.
+Many moons ago (four), we [postulated](http://www.montrealindies.com/?p=163) most heretically the possibility of getting together on a crisp Spring weekend to make merry, drink coffee, and work feverishly for three hours on arbitrary game prototypes&#8212;or at least, to familiarise ourselves with [Unity](http://unity3d.com).
 
-An <a href="http://norefuge.net/vgng/vgng.html" target="_blank">oracle</a> was consulted; titles were chosen. Three hours later, it was all over. The dust settled. The smoke cleared. The noun verbed. The games revealed themselves to us, in no particular order (read: alphabetical order).
+An [oracle](http://norefuge.net/vgng/vgng.html) was consulted; titles were chosen. Three hours later, it was all over. The dust settled. The smoke cleared. The noun verbed. The games revealed themselves to us, in no particular order (read: alphabetical order).
 
 *Armored Mahjong Insanity*, by Brent Ellison  
 An arena shooter of matching tiles. Beware the bamboo. Appearing Q3 2012.  

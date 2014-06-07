@@ -11,39 +11,39 @@ categories:
 
 
 
-In which we look back at the variously emotive times we had the <a href="{{ site.baseurl }}/2013/11/meetup-4-dec/">December</a> meetup this past Wednesday.
+In which we look back at the variously emotive times we had the [December]({{ site.baseurl }}/2013/11/meetup-4-dec/) meetup this past Wednesday.
 Thanks for coming out, everyone!
 
 
 
-Un bref regard sur les jeux et activit&eacute;s du <a href="{{ site.baseurl }}/2013/11/meetup-4-dec/">meetup</a> de mercredi soir.
+Un bref regard sur les jeux et activit&eacute;s du [meetup]({{ site.baseurl }}/2013/11/meetup-4-dec/) de mercredi soir.
 Merci &agrave; tous d&#8217;&ecirc;tre venus!
  &nbsp;
 
 
 ---
 LES ANNONCES / ANNOUNCEMENTS
- &raquo;&raquo; &Eacute;coutez &#8220;<a href="http://www.onajusteunevie.ca/p/podcasts.html">On a juste une vie</a>,&#8221; nouveau podcast sur la culture et la critique des jeux.
- &raquo;&raquo; <a href="http://pixelles.ca/">The Pixelles</a> are accepting applications, &#038; their follow-along is open to everyone.
- &raquo;&raquo; *<a href="">Get Water!</a>* is seeking playtesters &#8212; visit the <a href="http://tag.hexagram.ca/contact-tag/">TAG Lab</a> today, 5 Dec., @ 16h00.
- &raquo;&raquo; Participez au &#8220;Battle of the Devs,&#8221; nouveau concours mensuel mettant en vedette les jeux ind&eacute;pendants &#8212; contactez <a href="mailto:stephaniegallagher23@gmail.com">St&eacute;phanie Gallagher</a>.
+ &raquo;&raquo; &Eacute;coutez &#8220;[On a juste une vie](http://www.onajusteunevie.ca/p/podcasts.html),&#8221; nouveau podcast sur la culture et la critique des jeux.
+ &raquo;&raquo; [The Pixelles](http://pixelles.ca/) are accepting applications, &#038; their follow-along is open to everyone.
+ &raquo;&raquo; *[Get Water!]()* is seeking playtesters &#8212; visit the [TAG Lab](http://tag.hexagram.ca/contact-tag/) today, 5 Dec., @ 16h00.
+ &raquo;&raquo; Participez au &#8220;Battle of the Devs,&#8221; nouveau concours mensuel mettant en vedette les jeux ind&eacute;pendants &#8212; contactez [St&eacute;phanie Gallagher](mailto:stephaniegallagher23@gmail.com).
 DTGMA
- The <a href="http://oldforum.mrgs.ca/index.php/topic,134.0.html">Downtown Trimester Game-Making Adventure</a> is back!
+ The [Downtown Trimester Game-Making Adventure](http://oldforum.mrgs.ca/index.php/topic,134.0.html) is back!
  Pick one (or more) themes and make a game for the next meetup!
  &raquo;&raquo; SHIFT | TRAIL [MIX] | WIZARD WEATHER &laquo;&laquo;
- <a href="https://www.facebook.com/events/687610694602978/">Game Jam</a> 14-15 D&eacute;c.
+ [Game Jam](https://www.facebook.com/events/687610694602978/) 14-15 D&eacute;c.
 LES JEUX / GAMES
- &raquo;&raquo; *<a href="http://www.thegoty.com/eat-dirt">Eat Dirt!</a>*
+ &raquo;&raquo; *[Eat Dirt!](http://www.thegoty.com/eat-dirt)*
  &nbsp;&nbsp;&nbsp;&nbsp; (Game of the Year)
  &raquo;&raquo; *Untitled Dashing Game*
- &nbsp;&nbsp;&nbsp;&nbsp; (<a href="http://blogue.narf.ca/">NarF</a>)
- &raquo;&raquo; *<a href="http://inner-maze.fr/Games/Potion_Pitcher/">Potion Pitcher</a>*
+ &nbsp;&nbsp;&nbsp;&nbsp; ([NarF](http://blogue.narf.ca/))
+ &raquo;&raquo; *[Potion Pitcher](http://inner-maze.fr/Games/Potion_Pitcher/)*
  &nbsp;&nbsp;&nbsp;&nbsp; (Alysha Hum, David Moss, Adrien Pelov, Jeremy Romberg, Eve Trudel Levesque)
- &raquo;&raquo; *<a href="http://arene.bibliomontreal.com/le-jeu-du-prix-du-livre-jeunesse-2013">Prix du livre jeunesse 2013</a>*
+ &raquo;&raquo; *[Prix du livre jeunesse 2013](http://arene.bibliomontreal.com/le-jeu-du-prix-du-livre-jeunesse-2013)*
  &nbsp;&nbsp;&nbsp;&nbsp; (Maria Julia Guimar&atilde;es, St&eacute;phane Dufour, Thierry Robert)
- &raquo;&raquo; *<a href="http://bigactionmegafight.com/">Big Action Mega Fight</a>*
+ &raquo;&raquo; *[Big Action Mega Fight](http://bigactionmegafight.com/)*
  &nbsp;&nbsp;&nbsp;&nbsp; (Double Stallion)
- &raquo;&raquo; *<a href="http://www.deadlock-game.com/">Deadlock</a>*
+ &raquo;&raquo; *[Deadlock](http://www.deadlock-game.com/)*
  &nbsp;&nbsp;&nbsp;&nbsp; (5 Bits Games)
  &nbsp;
  &nbsp;

@@ -23,9 +23,9 @@ You are awakened from a troubled sleep. In the darkness, a blinding light! A vis
     *THE PRINCE HAS RETURNED*
   </h4>
 </center>
-<a href="http://www.montrealindies.com/?p=115">Last year</a>&#8216;s party was such a beautiful success, we&#8217;re once again packing an art gallery full to bursting with drinks, music, and indie gaming joy, and dancing until the cows come home (the cows come home at 1am as per municipal bylaw).
+[Last year](http://www.montrealindies.com/?p=115)&#8216;s party was such a beautiful success, we&#8217;re once again packing an art gallery full to bursting with drinks, music, and indie gaming joy, and dancing until the cows come home (the cows come home at 1am as per municipal bylaw).
 *Sling those informations!*
-The <a href="http://www.montrealindies.com">Mount Royal Game Society</a> and <a href="http://www.dirty-rectangles.com/">Dirty Rectangles</a> present:
+The [Mount Royal Game Society](http://www.montrealindies.com) and [Dirty Rectangles](http://www.dirty-rectangles.com/) present:
 <ul>
     <li>
       <b>*THE PRINCE OF ARCADE</b>* <ul>
@@ -33,16 +33,16 @@ The <a href="http://www.montrealindies.com">Mount Royal Game Society</a> and <a 
           Wednesday, November 2, 2011, 8pm
         </li>
         <li>
-          <a href="http://www.easternbloc.ca/">Eastern Bloc</a>, 7240 rue Clark, Montreal, QC
+          [Eastern Bloc](http://www.easternbloc.ca/), 7240 rue Clark, Montreal, QC
         </li>
         <li>
-          $9 door ($7 with a <a href="http://www.sijm.ca">MIGS</a> conference pass)
+          $9 door ($7 with a [MIGS](http://www.sijm.ca) conference pass)
         </li>
         <li>
           Indie games projected large, drinks flowing, music transmuting, beautiful people being beautiful.
         </li>
       </ul></li> </ul> 
-<a href="https://www.facebook.com/event.php?eid=295280413831140">Facebook event.</a>
-UPDATE: <a href="http://www.montrealindies.com/?p=251">Check out the games here!</a>
+[Facebook event.](https://www.facebook.com/event.php?eid=295280413831140)
+UPDATE: [Check out the games here!](http://www.montrealindies.com/?p=251)
 Live the experienceness. Relax your MIGS-stimulated awareness. Bring a PLAYER 2 and we&#8217;ll shine like a thousand points of light.
 Long Live the Prince.

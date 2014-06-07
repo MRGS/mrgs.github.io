@@ -24,7 +24,7 @@ Avec tout cela, biens&ucirc;r le rendez-vous mensuel du SLMR est au rendez-vous!
  Brasserie Artisanale l’Amère à boire
  2049 rue Saint-Denis, 3rd floor
 *WHAT*
- At long last, another fascinating presentation! Game designer and programming wizard Miguel Cepero creates unbelievably detailed <a href="http://procworld.blogspot.ca/">procedural worlds</a>, and this month, he will show us how. Our sources indicate that there is at least one math involved.
+ At long last, another fascinating presentation! Game designer and programming wizard Miguel Cepero creates unbelievably detailed [procedural worlds](http://procworld.blogspot.ca/), and this month, he will show us how. Our sources indicate that there is at least one math involved.
 
               *QUAND?*
  Mercredi 5 septembre, 19h30</p> <p>
@@ -32,7 +32,7 @@ Avec tout cela, biens&ucirc;r le rendez-vous mensuel du SLMR est au rendez-vous!
  Brasserie Artisanale l&#8217;Amère à boire
  2049 rue Saint-Denis, 3e étage
 *QUOI?*
- Ce mois-ci, une autre fascinante pr&eacute;sentation! Miguel Cepero, concepteur de jeux vid&eacute;os et magicien de la programmation, est le cr&eacute;ateur d&#8217;impressionnants <a href="http://procworld.blogspot.ca/">mondes virtuels</a>. Et croyez-le ou non, mercredi prochain, il nous en donnera les secrets! Mon petit doigt me dit qu&#8217;il sera question de maths &agrave; quelques moments!
+ Ce mois-ci, une autre fascinante pr&eacute;sentation! Miguel Cepero, concepteur de jeux vid&eacute;os et magicien de la programmation, est le cr&eacute;ateur d&#8217;impressionnants [mondes virtuels](http://procworld.blogspot.ca/). Et croyez-le ou non, mercredi prochain, il nous en donnera les secrets! Mon petit doigt me dit qu&#8217;il sera question de maths &agrave; quelques moments!
  
 
                 
@@ -41,9 +41,9 @@ Avec tout cela, biens&ucirc;r le rendez-vous mensuel du SLMR est au rendez-vous!
  ![Cepero2]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Cepero2.jpg)
  ![Cepero3]({{ site.baseurl }}/{{ site.oldwpdir }}/uploads/2012/08/Cepero3.jpg)
 
-Check out the <a href="https://www.facebook.com/events/424534544248627/">Facebook</a>!
+Check out the [Facebook](https://www.facebook.com/events/424534544248627/)!
 
-                    Voyez l&#8217;événement sur <a href="https://www.facebook.com/events/424534544248627/">Facebook</a>!
+                    Voyez l&#8217;événement sur [Facebook](https://www.facebook.com/events/424534544248627/)!
                   
 
                   

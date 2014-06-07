@@ -8,9 +8,9 @@ categories:
   - Meetups
 ---
 
-Okay. So you&#8217;ve wrapped your head around the way-awesome new website. You&#8217;ve introduced yourself in the new <a href="http://oldforum.mrgs.ca/index.php/topic,7.0.html">Game Making Adventure</a>. That&#8217;s pretty cool. If only there were some regularly-scheduled event at which we could celebrate these things.
+Okay. So you&#8217;ve wrapped your head around the way-awesome new website. You&#8217;ve introduced yourself in the new [Game Making Adventure](http://oldforum.mrgs.ca/index.php/topic,7.0.html). That&#8217;s pretty cool. If only there were some regularly-scheduled event at which we could celebrate these things.
 
-OK. Tu as fait le tour de l&#8217;incroyable nouveau site web de la SLMR. Tu t&#8217;es pr&eacute;sent&eacute; sur le <a href="http://oldforum.mrgs.ca/index.php/topic,7.0.html">Game Making Adventure</a>&#8221; du mois. Wow, pas mal chouette. Si seulement il y avait une soir&eacute;e où l&#8217;on pourrait c&eacute;l&eacute;brer toutes ces merveilleuses nouvelles.
+OK. Tu as fait le tour de l&#8217;incroyable nouveau site web de la SLMR. Tu t&#8217;es pr&eacute;sent&eacute; sur le [Game Making Adventure](http://oldforum.mrgs.ca/index.php/topic,7.0.html)&#8221; du mois. Wow, pas mal chouette. Si seulement il y avait une soir&eacute;e où l&#8217;on pourrait c&eacute;l&eacute;brer toutes ces merveilleuses nouvelles.
 
         
 
@@ -44,12 +44,12 @@ D&eacute;veloppeurs, apportez vos jeux! Amoureux de jeux video, apportez votre c
                         
 
 
-                          Check it out on <a href="https://www.facebook.com/events/143581079105116/">Facebook</a>!
+                          Check it out on [Facebook](https://www.facebook.com/events/143581079105116/)!
                         
 
                         
                         
-                          Voir l&#8217;invitation sur <a href="https://www.facebook.com/events/143581079105116/">Facebook</a>!
+                          Voir l&#8217;invitation sur [Facebook](https://www.facebook.com/events/143581079105116/)!
 
                         
 

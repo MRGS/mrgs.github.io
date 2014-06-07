@@ -22,12 +22,12 @@ categories:
 
 
 
-  Hah! Hogwash and codswallop! Early May saw the seventh iteration of Toronto&#8217;s <a href="http://tojam.ca/home/default.asp">TOJam</a> &#8212; a wondrous 48-hour game-making marathon &#8212; and naturally, our Montreal contingent was there. You&#8217;d like to see the games, you say? How wonderfully convenient. We may have just the thing.
+  Hah! Hogwash and codswallop! Early May saw the seventh iteration of Toronto&#8217;s [TOJam](http://tojam.ca/home/default.asp) &#8212; a wondrous 48-hour game-making marathon &#8212; and naturally, our Montreal contingent was there. You&#8217;d like to see the games, you say? How wonderfully convenient. We may have just the thing.
 
 
 
 
-  Ajoutons &agrave; cela <a href="http://tojam.ca/home/default.asp">TOJam</a>, qui un peu plus t&ocirc;t en mai, &agrave; Toronto accueillait son septi&egrave;me ultra-organis&eacute; Game Jam. Plusieurs d’entre vous ont particip&eacute; &agrave; ce v&eacute;ritable marathon de production de 48 heures. Et puisque nous sommes bien fiers de vous, on veut absolument voir les petits bijoux qui ont &eacute;t&eacute; cr&eacute;&eacute; &agrave; coups de bonbons et de boissons &eacute;nergisantes. Alors, prenons un moment pour voir et jouer &agrave; tout &ccedil;a!
+  Ajoutons &agrave; cela [TOJam](http://tojam.ca/home/default.asp), qui un peu plus t&ocirc;t en mai, &agrave; Toronto accueillait son septi&egrave;me ultra-organis&eacute; Game Jam. Plusieurs d’entre vous ont particip&eacute; &agrave; ce v&eacute;ritable marathon de production de 48 heures. Et puisque nous sommes bien fiers de vous, on veut absolument voir les petits bijoux qui ont &eacute;t&eacute; cr&eacute;&eacute; &agrave; coups de bonbons et de boissons &eacute;nergisantes. Alors, prenons un moment pour voir et jouer &agrave; tout &ccedil;a!
 
 
 

@@ -22,28 +22,28 @@ L&#8217;ann&eacute;e 2013 a d&eacute;j&agrave; treize-soixante-treizi&egrave;me 
 *WHEN?*
  Wednesday, March 6th, 19h30
 *WHERE?*
- <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
+ [The Royal Phoenix](http://royalphoenixbar.com/)
  5788 boul. St.-Laurent
  On the 55 bus line, and a short walk from Rosemont metro
- (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
+ ([Directions](https://maps.google.com/maps?q=the+royal+phoenix))
  
 
 *QUAND?*
  Mercredi 6 mars 19h30
 *OÙ?*
- <a href="http://royalphoenixbar.com/">The Royal Phoenix</a>
+ [The Royal Phoenix](http://royalphoenixbar.com/)
  5788 boul. St.-Laurent
  Sur la ligne du 55, et tout pr&egrave;s du m&eacute;tro Rosemont
- (<a href="https://maps.google.com/maps?q=the+royal+phoenix">Directions</a>)
+ ([Directions](https://maps.google.com/maps?q=the+royal+phoenix))
  
 
                 
 
                 
                 
-Check out the event on <a href="https://www.facebook.com/events/381925611904894/">Facebook</a>!
+Check out the event on [Facebook](https://www.facebook.com/events/381925611904894/)!
 
-                      Voir l&#8217;événement sur <a href="https://www.facebook.com/events/381925611904894/">Facebook</a>!
+                      Voir l&#8217;événement sur [Facebook](https://www.facebook.com/events/381925611904894/)!
                     
 
                     
