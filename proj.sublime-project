@@ -18,5 +18,10 @@
 			"path": "_bower_components",
 			"file_exclude_patterns": ["*.git*"]
 		},
-	]
+	],
+	"settings": {
+	    "tab_size": 2,
+    	"translate_tabs_to_spaces": true
+	}
+
 }

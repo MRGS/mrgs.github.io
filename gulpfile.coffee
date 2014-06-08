@@ -38,7 +38,8 @@ gulp.task 'watch-jekyll', ->
       if err?
         console.log 'exec error: ' + err
       else
-        connect.reload()
+        gulp.src [e.path]
+        .pipe connect.reload()
 
 gulp.task 'watch', ['watch-jekyll'], (cb) ->
   gulp.src ['./_less/*.less']
