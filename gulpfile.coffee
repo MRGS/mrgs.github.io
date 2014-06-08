@@ -38,6 +38,34 @@ gulp.task 'copy-libs', ->
   # '_bower_components/leaflet/dist/leaflet.css'
   # '_bower_components/leaflet/dist/images'
 
+gulp.task 'build-js', ->
+  gulp.src './_src/*.coffee'
+  .pipe coffee()
+  .pipe uglify()
+  .pipe gulp.dest './js'
+
+gulp.task 'build-css', ->
+  gulp.src './_less/*.less'
+  .pipe less()
+  .pipe gulp.dest './css'
+
+gulp.task 'build-jekyll', ['build-js', 'build-css', 'copy-libs'], (cb) ->
+  exec 'jekyll build --destination ' + build, (err, stdout, stderr) ->
+    console.log stdout
+    console.log stderr
+    if err?
+      console.log 'exec error: ' + err
+    else
+      cb()
+
+gulp.task 'build', ['build-jekyll'], ->
+  gulp.src ['./css/**/*.css']
+  .pipe uncss
+    html: [build + '/index.html']
+  .pipe prefix()
+  .pipe mincss()
+  .pipe gulp.dest './css'
+
 gulp.task 'watch-jekyll', ['copy-libs'], ->
   exec 'jekyll build --destination ' + tmp, (err, stdout, stderr) ->
     console.log stdout
@@ -53,52 +81,30 @@ gulp.task 'watch-jekyll', ['copy-libs'], ->
       if err?
         console.log 'exec error: ' + err
       else
-        gulp.src [e.path]
+        gulp.src './_less/*.less'
+        .pipe less
+          sourceMap: true
+        .pipe gulp.dest tmp + '/css'
+        .pipe connect.reload()
+
+        gulp.src './_src/**/*.coffee'
+        .pipe coffee()
+        .pipe gulp.dest tmp + '/js'
         .pipe connect.reload()
 
 gulp.task 'watch', ['watch-jekyll'], (cb) ->
-  gulp.src ['./_less/*.less']
-  .pipe watch()
+  watch { glob: './_less/*.less' }
   .pipe less
     sourceMap: true
   .pipe gulp.dest tmp + '/css'
   .pipe connect.reload()
 
-  gulp.src ['./_src/**/*.coffee']
-  .pipe watch()
+  watch { glob: './_src/**/*.coffee' }
   .pipe coffee()
   .pipe gulp.dest tmp + '/js'
   .pipe connect.reload()
 
   cb()
-
-gulp.task 'build', ['build-jekyll'], ->
-  gulp.src ['./css/**/*.css']
-  .pipe uncss
-    html: [build + '/index.html']
-  .pipe prefix()
-  .pipe mincss()
-  .pipe gulp.dest './css'
-
-gulp.task 'build-jekyll', ['build-js', 'build-css', 'copy-libs'], (cb) ->
-  exec 'jekyll build --destination ' + build, (err, stdout, stderr) ->
-    console.log stdout
-    console.log stderr
-    if err?
-      console.log 'exec error: ' + err
-    else
-      cb()
-
-gulp.task 'build-js', ->
-  gulp.src ['./_src/*.coffee']
-  .pipe coffee()
-  .pipe uglify()
-  .pipe gulp.dest './js'
-
-gulp.task 'build-css', ->
-  gulp.src ['./_less/*.less']
-  .pipe less()
-  .pipe gulp.dest './css'
 
 gulp.task 'serve', ['watch'], ->
   connect.server
@@ -106,7 +112,7 @@ gulp.task 'serve', ['watch'], ->
     port: 9000
     livereload: true
 
-  exec 'sensible-browser localhost:9000'
+  # exec 'sensible-browser localhost:9000'
 
 gulp.task 'servebuild', ['build'], ->
   connect.server
