@@ -3,6 +3,8 @@ gulp = require 'gulp'
 coffee = require 'gulp-coffee'
 uglify = require 'gulp-uglify'
 
+concat = require 'gulp-concat'
+
 less = require 'gulp-less'
 prefix = require 'gulp-autoprefixer'
 uncss = require 'gulp-uncss'
@@ -23,7 +25,20 @@ jekyllFiles = [
   './_drafts/**/*'
 ]
 
-gulp.task 'watch-jekyll', ->
+gulp.task 'copy-libs', ->
+  gulp.src [
+    '_bower_components/jquery/dist/jquery.min.js'
+    '_bower_components/bootstrap/dist/js/bootstrap.min.js'
+    '_bower_components/FitText.js/jquery.fittext.js'
+  ]
+  .pipe concat 'lib.js'
+  .pipe gulp.dest './js/lib'
+
+  # '_bower_components/leaflet/dist/leaflet.js'
+  # '_bower_components/leaflet/dist/leaflet.css'
+  # '_bower_components/leaflet/dist/images'
+
+gulp.task 'watch-jekyll', ['copy-libs'], ->
   exec 'jekyll build --destination ' + tmp, (err, stdout, stderr) ->
     console.log stdout
     console.log stderr
@@ -65,7 +80,7 @@ gulp.task 'build', ['build-jekyll'], ->
   .pipe mincss()
   .pipe gulp.dest './css'
 
-gulp.task 'build-jekyll', ['build-js', 'build-css'], (cb) ->
+gulp.task 'build-jekyll', ['build-js', 'build-css', 'copy-libs'], (cb) ->
   exec 'jekyll build --destination ' + build, (err, stdout, stderr) ->
     console.log stdout
     console.log stderr
