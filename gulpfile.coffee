@@ -3,15 +3,15 @@ gulp = require 'gulp'
 coffee = require 'gulp-coffee'
 uglify = require 'gulp-uglify'
 
-concat = require 'gulp-concat'
-
 less = require 'gulp-less'
 prefix = require 'gulp-autoprefixer'
 uncss = require 'gulp-uncss'
 mincss = require 'gulp-minify-css'
 
+concat = require 'gulp-concat'
 watch = require 'gulp-watch'
 connect = require 'gulp-connect'
+# debug = require 'gulp-debug'
 
 exec = require('child_process').exec
 
@@ -93,11 +93,13 @@ gulp.task 'watch-jekyll', ['copy-libs'], ->
         .pipe connect.reload()
 
 gulp.task 'watch', ['watch-jekyll'], (cb) ->
-  watch { glob: './_less/*.less' }
-  .pipe less
-    sourceMap: true
-  .pipe gulp.dest tmp + '/css'
-  .pipe connect.reload()
+  
+  watch { glob: './_less/**/*.less' }, (_) ->
+    gulp.src './_less/*.less'
+    .pipe less
+      sourceMap: true
+    .pipe gulp.dest tmp + '/css'
+    .pipe connect.reload()
 
   watch { glob: './_src/**/*.coffee' }
   .pipe coffee()

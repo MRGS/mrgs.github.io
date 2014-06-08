@@ -1,8 +1,10 @@
 {% include head %}
-    <body>
-      {% include header %}
-      {{ content }}
-      {% include scripts %}
-      <script src="{{ site.baseurl }}/js/default.js"></script>
-    </body>
+<body>
+  {% include header %}
+  <div class="container">
+  {{ content }}
+  </div>
+  {% include scripts %}
+  <script src="{{ site.baseurl }}/js/default.js"></script>
+</body>
 {% include foot %}
